@@ -136,8 +136,6 @@ https://vuejs.org/
 把sam模型finetune一下，最后几层。就随机sample几十张来finetune就行。
 
 ## next week
-
-## the week after next week
 1. Monday (June 5th, 2023):
    - Either write something worth reading or do something worth writing.
 2. Tuesday (June 6th, 2023):
@@ -154,7 +152,7 @@ https://vuejs.org/
    - Either write something worth reading or do something worth writing.
 7. Sunday (June 11th, 2023):
    - Either write something worth reading or do something worth writing.
-用chatGPT获取下一周的
+## the week after next week
 ```
 1. Monday (June 5th, 2023):
    - Either write something worth reading or do something worth writing.
@@ -174,27 +172,27 @@ https://vuejs.org/
 你可以仿照这个样式写下一周的吗？我希望你也用代码块包裹住内容。不需要写相关节日和活动。
 # 暂且搁置：
 1. 李沐讲的alpha fold再看看，我还不会。人家都玩过了。
-3. 听了高老师发的cvpr广东会议，中山大学刘祖浩的异常检测听起来不错，一会去看看论文和代码。
+2. 听了高老师发的cvpr广东会议，中山大学刘祖浩的异常检测听起来不错，一会去看看论文和代码。
 3. 武给我了解决gcc问题的log文件，我去研究一下，看看能不能解决glibc. 还有tensorboard的新的理解。
-1. 上次选的programming language,先上GitHub找solution。
-2. 子明：对 跑实验耗时长 先看看论文。确定差不多要做了 就跑跑看具体效果。
-2. 什么是vae？
-2. stylegan，，，gan家族。
-3. 去看看陈浩的博客，
-2. 快找到杨说的pytorch实战，过一遍。武的也过一遍。
-9. 我之前居然还有 games 101的想法。我开的坑也太多了吧。
-1. 魏：eccv+cvpr论文大礼包，看完bilibili霹雳啥的视频。
-3. 看完上学期的课件。再看周师兄的发回来的cs231n的代码。
-5. 打算找张托福的卷子。托福变了：自7月26日起，托福新考法的考试时长、考试内容均有调整。智师兄用的只是考满分。我现在想学的是托福，GRE、新概念3、4都往后放，甚至说，我有必要学新概念吗？
-7. 异常检测 | MemAE模型复现与思考 - 阿尔法杨NJU的文章 - 知乎
+4. 上次选的programming language,先上GitHub找solution。
+5. 子明：对 跑实验耗时长 先看看论文。确定差不多要做了 就跑跑看具体效果。
+6. 什么是vae？
+7. stylegan，，，gan家族。
+8. 去看看陈浩的博客，
+9. 快找到杨说的pytorch实战，过一遍。武的也过一遍。
+10. 我之前居然还有 games 101的想法。我开的坑也太多了吧。
+11. 魏：eccv+cvpr论文大礼包，看完bilibili霹雳啥的视频。
+12. 看完上学期的课件。再看周师兄的发回来的cs231n的代码。
+13. 打算找张托福的卷子。托福变了：自7月26日起，托福新考法的考试时长、考试内容均有调整。智师兄用的只是考满分。我现在想学的是托福，GRE、新概念3、4都往后放，甚至说，我有必要学新概念吗？
+14. 异常检测 | MemAE模型复现与思考 - 阿尔法杨NJU的文章 - 知乎
 https://zhuanlan.zhihu.com/p/344615097
 https://www.sciencedirect.com/book/9780128238189/anomaly-detection-and-complex-event-processing-over-iot-data-streams
 https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb
-8. Professor  Gao gave me three articles。分子生成确实是一个不错的方向。
-15. Watch the movie：the way of Water, The Lord of the Rings.
-16. [向这位小兄弟学习cpp](https://07xiaohei.com/)
-18. 重启模电数电学习计划，搭乘学弟的便车。一点小小建议。拿我自己来说，因为我本质上还是做锂电池的SOC计算和均衡等等的控制策略的，我不需要像底层或者硬件的人那么了解电路，所以模数电我都是浅尝辄止，工作够用。后来工作后发现通讯协议还有信号处理反而用得多一点。你可以先弄弄清除你哪里有学各种电的需求还有要了解到什么程度，再去安排时间，这个我就给不了意见了.
-20. 温习深度学习代码cs231n
+1. Professor  Gao gave me three articles。分子生成确实是一个不错的方向。
+2.  Watch the movie：the way of Water, The Lord of the Rings.
+3.  [向这位小兄弟学习cpp](https://07xiaohei.com/)
+4.  重启模电数电学习计划，搭乘学弟的便车。一点小小建议。拿我自己来说，因为我本质上还是做锂电池的SOC计算和均衡等等的控制策略的，我不需要像底层或者硬件的人那么了解电路，所以模数电我都是浅尝辄止，工作够用。后来工作后发现通讯协议还有信号处理反而用得多一点。你可以先弄弄清除你哪里有学各种电的需求还有要了解到什么程度，再去安排时间，这个我就给不了意见了.
+5.  温习深度学习代码cs231n
 21.你想了解底层技术的话这本书应该足够入门了 (区块链—技术驱动金融)
 JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 其中涉及到的数据库、网络、异步、多线程编程是最有用的知识
