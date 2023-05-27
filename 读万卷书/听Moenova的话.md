@@ -1,7 +1,7 @@
 你老板我记得是做嵌入式的，那还是精通c++先。
 想翻盘，，就得不走寻常路！！！下猛药，我的时间真的不多了！！！
 
-颜计琳箴言：去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
+颜箴言：去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
 台湾弟兄的箴言：
 https://www.tsri.org.tw/main.jsp
 提供偉大的Razavi拍攝的電子學影片資源 https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos?view=0&sort=da&flow=grid
