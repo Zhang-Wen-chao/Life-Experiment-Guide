@@ -69,8 +69,6 @@ Q8论文中的实验及结果有没有很好地支持需要验证的科学假设
 Q9这篇论文到底有什么贡献？
 Q10下一步呢？有什么工作可以继续深入？
 ## last week
-
-## this week
 - Monday (May 22nd, 2023):到西平。
 看了一下家谱。
 得知淼在荷兰ing。
@@ -96,19 +94,11 @@ amd笔试都没过。
 - Sunday (May 28th, 2023):
 吃席。
 
-准备一下期末的cheet sheet.
-
-
-高老师、厉老师。
-给夏茶叶。
-
-王航给了一堆文献。
-王航转发了白老师的竞赛消息。和他讨论一下后续。
-把sam模型finetune一下，最后几层。就随机sample几十张来finetune就行。
-
-## next week
+## this week
 1. Monday (May 29th, 2023):
-   - Either write something worth reading or do something worth writing.
+   - 蚂蚁面试
+   - 准备一下期末的cheet sheet.
+   - 高老师、厉老师。给夏茶叶。
 2. Tuesday (May 30th, 2023):
    - Either write something worth reading or do something worth writing.
 3. Wednesday (May 31st, 2023):
@@ -132,11 +122,21 @@ https://vuejs.org/
 5. Friday (June 2nd, 2023):
    - Either write something worth reading or do something worth writing.
 6. Saturday (June 3rd, 2023):
-   - Either write something worth reading or do something worth writing.
+   - 写周报。
 7. Sunday (June 4th, 2023):
    - Either write something worth reading or do something worth writing.
 考完算法期末考试，和徐回建德。
 绍师姐6月来找我玩。有机会的话，再去西津渡、金山、焦山。
+
+
+
+
+王航给了一堆文献。
+王航转发了白老师的竞赛消息。和他讨论一下后续。
+把sam模型finetune一下，最后几层。就随机sample几十张来finetune就行。
+
+## next week
+
 ## the week after next week
 1. Monday (June 5th, 2023):
    - Either write something worth reading or do something worth writing.
