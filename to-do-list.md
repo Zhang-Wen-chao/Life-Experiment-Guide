@@ -96,7 +96,7 @@ amd笔试都没过。
 
 ## this week
 1. Monday (May 29th, 2023):
-   - 蚂蚁面试
+   - 蚂蚁面试，下载chrome浏览器。做好完全准备。
    - 准备一下期末的cheet sheet.
    - 高老师、厉老师。给夏茶叶。
 2. Tuesday (May 30th, 2023):
@@ -113,17 +113,17 @@ amd笔试都没过。
 做一个课题组主页，，去clone https://github.com/svip-lab/svip-lab.github.io
 npm安装了mermaid，但是不会用，mermaid的路径怎么还没有声明。
 一个月运维课题组网站500块钱，最低300块。就用处理器中心的电脑搞一个网页，所以，首先要把Debian系统搞好，得稳定。得在6月前上线吧。
-做好这个网页正好可以和周老板对线。赚钱，不寒碜。
+做好这个网页正好可以和周老板对线。
 JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 https://developer.mozilla.org/en-US/docs/Learn
 可以直接学 vue
 https://vuejs.org/
 不好意思，上周没给您交待一下后续。周老板让我考虑一下，可以先做前后端，然后他觉得我做得不错的话，可以继续做算法的维护。去实习的话，可以远程，一天三百块钱。让我先学一下：JavaScript，Vue，react，nodejs，nextjs，stable diffusion。这几项技术确实是有点难度的。我打算这周先学点，这周末再找周老板聊一下，看能不能开始去承担工作。
-5. Friday (June 2nd, 2023):
+1. Friday (June 2nd, 2023):
    - Either write something worth reading or do something worth writing.
-6. Saturday (June 3rd, 2023):
+2. Saturday (June 3rd, 2023):
    - 写周报。
-7. Sunday (June 4th, 2023):
+3. Sunday (June 4th, 2023):
    - Either write something worth reading or do something worth writing.
 考完算法期末考试，和徐回建德。
 绍师姐6月来找我玩。有机会的话，再去西津渡、金山、焦山。
