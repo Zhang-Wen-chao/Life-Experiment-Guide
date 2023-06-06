@@ -69,64 +69,71 @@ Q8论文中的实验及结果有没有很好地支持需要验证的科学假设
 Q9这篇论文到底有什么贡献？
 Q10下一步呢？有什么工作可以继续深入？
 ## last week
-- Monday (May 22nd, 2023):到西平。
-看了一下家谱。
-得知淼在荷兰ing。
-想清楚，找工作和老师没有什么关系，全看自己的能力。
-- Tuesday (May 23rd, 2023):
-招待亲友。
-- Wednesday (May 24th, 2023):
-参加婚礼。
-- Thursday (May 25th, 2023):
-amd笔试没过。
-下午，机器学习考试。
-- Friday (May 26th, 2023):
-28号机器学习的project结项。tmd,并没有出成果。R语言没能跑通。
-- Saturday (May 27th, 2023):
-来常州。
-我真的感觉很无聊，为什么有人能天天刷短视频呢？
-看了看赵给的算法期末试题，
-- Sunday (May 28th, 2023):
-常州吃席。
-丹阳旅游。
-## this week
 1. Monday (May 29th, 2023):
    - Attend Ant Interview.
    - Prepare your final cheet sheet.
 2. Tuesday (May 30th, 2023):
    - Prepare your final cheet sheet.
-   - 
+   - My thinking really took another major shift. I won't write what exactly it is. But it will be implemented in my actions.
+   - chat with sheng brother, zhao sister.
 3. Wednesday (May 31st, 2023):
-   - Either write something worth reading or do something worth writing.
-   - 
+   - Prepare your final cheet sheet.
 4. Thursday (June 1st, 2023):
-   - 开始跟着学习模电，给连师弟反馈。
-   - 向强者学习：师姐的闺蜜在证券，淼，颜大哥，menova，张勃礼.
-   - Lv Rui comes to Shanghai.
-   - Investigate the composition of the creators of the major self-media platforms（中国社会各阶级分析）
-   - The final exam will be on June 1, 2023 from 1-3pm in room 102 in the Teaching Center.
-   - 各位同学、教职员工：学校游泳健身中心（以下简称“中心”）将于6月20日（含当天）至9月3日（含当天）执行夏季开放模式。有关安排如下：1、场馆开放时间：周一至周日12:00~21:00。2、2023年春学期校园一卡通内的6次免费游泳将于6月18日结束（含当天）。
-   - push 硕完成oj.
-   - 这个得抓紧时间再联系一下，github.io不是很难。
-做一个课题组主页，，去clone https://github.com/svip-lab/svip-lab.github.io
-npm安装了mermaid，但是不会用，mermaid的路径怎么还没有声明。
-一个月运维课题组网站500块钱，最低300块。得在6月前上线吧。
-做好这个网页正好可以和周老板对线。
+   - Read the article given by Mr. Gao.
+   - Take the algorithm test
+   - Watch Inuyasha anime
+5. Friday (June 2nd, 2023):
+   - Watch Inuyasha anime
+   - Reject Jinshida HR's Chinese resume request
+6. Saturday (June 3rd, 2023):
+   - Accompany Senior Sister Shao to play in Shanghai
+7. Sunday (June 4th, 2023):
+   - Accompany Senior Sister Shao to play in Wuxi
+   - complete oj
+## this week
+1. Monday (June 5th, 2023):
+   - I watched the video explanation of the history of the Jin Dynasty.
+   - Wang, a student from the School of Life Sciences, came to guide the work. 
+2. Tuesday (June 6th, 2023):
+   - watch Apple Worldwide Developers Conference.
+   - Apply for an account connected to the Internet in SHIC.
+   - Install the Nvidia driver on debian
+   - Immediately contact Junior Brother Lian and tell him that I am going to start learning analog electronics. make a plan first.
+   - Anyway, I'm free now, let's take the TOEFL. make a plan first. Let English be my working and living language.
+   - The 6 free swimming sessions in the 2023 Spring Semester Campus Card will end on June 18 (including the day).
+
+
+重启模电数电学习计划，搭乘学弟的便车。一点小小建议。拿我自己来说，因为我本质上还是做锂电池的SOC计算和均衡等等的控制策略的，我不需要像底层或者硬件的人那么了解电路，所以模数电我都是浅尝辄止，工作够用。后来工作后发现通讯协议还有信号处理反而用得多一点。你可以先弄弄清除你哪里有学各种电的需求还有要了解到什么程度，再去安排时间，这个我就给不了意见了.
+
+
+
+打算找张托福的卷子。托福变了：自7月26日起，托福新考法的考试时长、考试内容均有调整。智师兄用的只是考满分。我现在想学的是托福，GRE、新概念3、4都往后放，甚至说，我有必要学新概念吗？
+
+1.  Wednesday (June 7th, 2023):
+   - Either write something worth reading or do something worth writing.
+2.  Thursday (June 8th, 2023):
+   - Either write something worth reading or do something worth writing.
+3.  Friday (June 9th, 2023):
+   - Write a weekly report.
+   - Go to Wuxi for a meeting. Meet Brother Yang.
+4.  Saturday (June 10th, 2023):
+   - Either write something worth reading or do something worth writing.
+5.  Sunday (June 11th, 2023):
+   - Either write something worth reading or do something worth writing.
+
+
+
 JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 https://developer.mozilla.org/en-US/docs/Learn
 可以直接学 vue
 https://vuejs.org/
-不好意思，上周没给您交待一下后续。周老板让我考虑一下，可以先做前后端，然后他觉得我做得不错的话，可以继续做算法的维护。去实习的话，可以远程，一天三百块钱。让我先学一下：JavaScript，Vue，react，nodejs，nextjs，stable diffusion。这几项技术确实是有点难度的。我打算这周先学点，这周末再找周老板聊一下，看能不能开始去承担工作。
-1. Friday (June 2nd, 2023):
-   - Either write something worth reading or do something worth writing.
-   - Give Xia a box of Xinyang Maojian.
-2. Saturday (June 3rd, 2023):
-   - 写周报。
-3. Sunday (June 4th, 2023):
-   - Either write something worth reading or do something worth writing.
-考完算法期末考试，和徐回建德。
-绍师姐6月来找我玩。有机会的话，再去西津渡、金山、焦山。
+不好意思，上周没给您交待一下后续。周老板让我考虑一下，可以先做前后端，然后他觉得我做得不错的话，可以继续做算法的维护。去实习的话，可以远程，一天三百块钱。
+这几项技术确实是有点难度的。我打算这周先学点，这周末再找周老板聊一下，看能不能开始去承担工作。
+其中涉及到的数据库、网络、异步、多线程编程是最有用的知识.
 
+   - 向强者学习：师姐的闺蜜在证券，淼，颜大哥，menova，张勃礼.
+   - Investigate the composition of the creators of the major self-media platforms（中国社会各阶级分析）
+   - The final exam will be on June 1, 2023 from 1-3pm in room 102 in the Teaching Center.
 
 王航给了一堆文献。
 王航转发了白老师的竞赛消息。和他讨论一下后续。
@@ -142,73 +149,71 @@ https://vuejs.org/
 4. Thursday (June 8th, 2023):
    - Either write something worth reading or do something worth writing.
 5. Friday (June 9th, 2023):
-   - Bring Maojian tea to Senior Sister Shao.
-   - Go to Wuxi for a meeting. Meet Brother Yang.
+   - Either write something worth reading or do something worth writing.
 6. Saturday (June 10th, 2023):
    - Either write something worth reading or do something worth writing.
 7. Sunday (June 11th, 2023):
    - Either write something worth reading or do something worth writing.
 ## the week after next week
 ```
-1. Monday (June 5th, 2023):
+1. Monday (June 12th, 2023):
    - Either write something worth reading or do something worth writing.
-2. Tuesday (June 6th, 2023):
+2. Tuesday (June 13th, 2023):
    - Either write something worth reading or do something worth writing.
-3. Wednesday (June 7th, 2023):
+3. Wednesday (June 14th, 2023):
    - Either write something worth reading or do something worth writing.
-4. Thursday (June 8th, 2023):
+4. Thursday (June 15th, 2023):
    - Either write something worth reading or do something worth writing.
-5. Friday (June 9th, 2023):
+5. Friday (June 16th, 2023):
    - Either write something worth reading or do something worth writing.
-6. Saturday (June 10th, 2023):
+6. Saturday (June 17th, 2023):
    - Either write something worth reading or do something worth writing.
-7. Sunday (June 11th, 2023):
+7. Sunday (June 18th, 2023):
    - Either write something worth reading or do something worth writing.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
+
 # 暂且搁置：
 1. 李沐讲的alpha fold再看看，我还不会。人家都玩过了。
-2. 听了高老师发的cvpr广东会议，中山大学刘祖浩的异常检测听起来不错，一会去看看论文和代码。
-3. 武给我了解决gcc问题的log文件，我去研究一下，看看能不能解决glibc. 还有tensorboard的新的理解。
-4. 上次选的programming language,先上GitHub找solution。
-5. 子明：对 跑实验耗时长 先看看论文。确定差不多要做了 就跑跑看具体效果。
-6. 什么是vae？
-7. stylegan，，，gan家族。
-8. 去看看陈浩的博客，
-9. 快找到杨说的pytorch实战，过一遍。武的也过一遍。
-10. 我之前居然还有 games 101的想法。我开的坑也太多了吧。
-11. 魏：eccv+cvpr论文大礼包，看完bilibili霹雳啥的视频。
-12. 看完上学期的课件。再看周师兄的发回来的cs231n的代码。
-13. 打算找张托福的卷子。托福变了：自7月26日起，托福新考法的考试时长、考试内容均有调整。智师兄用的只是考满分。我现在想学的是托福，GRE、新概念3、4都往后放，甚至说，我有必要学新概念吗？
-14. 异常检测 | MemAE模型复现与思考 - 阿尔法杨NJU的文章 - 知乎
+2. learn to use pdb、gdb.
+3. 听了高老师发的cvpr广东会议，中山大学刘祖浩的异常检测听起来不错，一会去看看论文和代码。
+4. 武给我了解决gcc问题的log文件，我去研究一下，看看能不能解决glibc. 还有tensorboard的新的理解。
+5. 上次选的programming language,先上GitHub找solution。
+6. 子明：对 跑实验耗时长 先看看论文。确定差不多要做了 就跑跑看具体效果。
+7. 什么是vae？
+8. https://www.zhihu.com/question/356351510
+9. stylegan，，，gan家族。
+10. 去看看陈浩的博客，
+11. 快找到杨说的pytorch实战，过一遍。武的也过一遍。
+12. 我之前居然还有 games 101的想法。我开的坑也太多了吧。
+13. 魏：eccv+cvpr论文大礼包，看完bilibili霹雳啥的视频。
+14. 看完上学期的课件。再看周师兄的发回来的cs231n的代码。
+16. 异常检测 | MemAE模型复现与思考 - 阿尔法杨NJU的文章 - 知乎
 https://zhuanlan.zhihu.com/p/344615097
 https://www.sciencedirect.com/book/9780128238189/anomaly-detection-and-complex-event-processing-over-iot-data-streams
 https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb
 1. Professor  Gao gave me three articles。分子生成确实是一个不错的方向。
 2.  Watch the movie：the way of Water, The Lord of the Rings.
 3.  [向这位小兄弟学习cpp](https://07xiaohei.com/)
-4.  重启模电数电学习计划，搭乘学弟的便车。一点小小建议。拿我自己来说，因为我本质上还是做锂电池的SOC计算和均衡等等的控制策略的，我不需要像底层或者硬件的人那么了解电路，所以模数电我都是浅尝辄止，工作够用。后来工作后发现通讯协议还有信号处理反而用得多一点。你可以先弄弄清除你哪里有学各种电的需求还有要了解到什么程度，再去安排时间，这个我就给不了意见了.
-5.  温习深度学习代码cs231n
-21.你想了解底层技术的话这本书应该足够入门了 (区块链—技术驱动金融)
-JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
-其中涉及到的数据库、网络、异步、多线程编程是最有用的知识
+
 ## 每天我想问的问题，应该问谁？
 要不厌其烦地去问:chatgpt、晋老师、厉老师、306师兄们。
 你给老师的周报中只写自己干了啥、学了啥，这些都不重要，你试着写下自己一周有啥思考、科研进度咋样是不是on track。学那么多没用，重要的是多思考。研究生就这几年，一定要得专注自己的精力。每周坚持看点paper。
 
 要dig in code，代码实验不是voodoo，要会调试代码，知道运行到哪里报的错，为什么报错。比如这个错误，字面意思已经告诉你了它不识别mp4后缀文件，说明没有装或者没有正确安装视频解码包，所以你装一个ffmpeg就好了。所以他不是个bug，更不“神奇”，只是你比较菜（没有批评你的意思，刚开始都这样）。
 学会用pdb.set_trace()和基础的print()定位错误，并且理解错误哈。
-# 知道什么暂时不该做
-政治助教实习
-下学期徐的助教，已经联系了：陈茂华老师。利用当助教的机会，研究一下数据库签到如何实现。
 
-Cousera上的课程感觉都不够深入。想专攻一个领域，还是要起码好好地深入读一本教材，这样能带着你思考，让你知道整个学科的众多方法是如何基于某种逻辑原则建立起来的。
+# 知道什么暂时不该做
+1. 政治助教实习
+下学期徐的助教，已经联系了：陈茂华老师。利用当助教的机会，研究一下数据库签到如何实现。
+2. Cousera上的课程感觉都不够深入。
+想专攻一个领域，还是要起码好好地深入读一本教材，这样能带着你思考，让你知道整个学科的众多方法是如何基于某种逻辑原则建立起来的。
 
 后面不用刷那么多课了，原理理解透了就行，尽快在组里找一个project参与进去，没啥想法可以来跟董思勋做人体动作识别，刚开始，正需要labor work。这学期一定投出去一片论文，不然真掉队了，而且第二年你还可能要去企业？这学期你得有点想法和规划了。
 
-暑假去中医药大学当保安?看看夏怎么安排？
+3. 暑假去中医药大学当保安?看看夏怎么安排？
 
-简历上写的MySQL也不会，酉矩阵分解得继续理解
+4. 简历上写的MySQL也不会，酉矩阵分解得继续理解
 学一门北大的量子计算，直接看看课后习题
 http://scholar.pku.edu.cn/xiaoyuan/classes/QIQC
 
@@ -236,7 +241,6 @@ Architectures and Compilers
 RTAS
 Real-Time and Embedded Technology and Applications 
 Symposium
-
 ## 晋老师：
 http://devplatform.cambricon.com:30080/server
 
@@ -257,35 +261,3 @@ http://devplatform.cambricon.com:30080/server
 不要对什么东西抗拒，可能以后会有用；看完之后，太基础的东西是好，但是要动手；可以从实际经验出发。
 这么讲，你到底想去做什么，可能为时尚早，随着认知加深，
 你的经历可能会改变你的看法。项目的附加值是最高的。
-# 未来买什么
-我现在什么都不想买。
-## 我现在有什么
-机械键盘。我买的有线罗技鼠标（https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html）。这两个要充分搞熟，打算用很多年。
-
-这个鼠标就是为 linux 服务的，用 linux 系统的快捷键来设置它。
-
-暂时就想到蓝色红色两个模式下，能做什么。日后随着使用，再想黄色的需求。
-![logitech_red](./images/logitech_red.png "logitech_red")
-![logitech_blue](./images/logitech_blue.png "logitech_blue")
-## 移动设备
-小平板，还有一个罗技粉丝鼠标，是用接收器的，这个比较烦，必须有USB接口。再买笔记本就买有隐藏USB接口的。
-## 想购买的产品
-我现在甚至不想要普通的台式机了，我想自己组装nas，拥有自己的服务器。
-
-也没那么想买：米家智能显示器挂灯 1S 相较于米家显示器挂灯显色指数提高至 R95 灯光下对色彩的还原更加真实。最大亮度由 270lm 提升到 300lm, 最大照度提升至 900lx（H=45cm）米家智能显示器挂灯 1S 连接米家 APP 绑定，设置智能场景，使用小爱同学语音控制。
-
-如果后期不再使用所有Windows电脑，可以考虑：苹果触控板，搭配苹果电脑很舒服。
-
-Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点。直接取代手机，因为感觉手机对我用处也不大。用平板背上我的北师大帆布包，带个蓝牙耳机，挺合适的，也不会错过电话。8+是因为我去店里看了，能配上键盘，这就可以实现简单的文字处理了，甚至是用向日葵写代码。电脑模式真正做好的只有三星，适配所有软件，其他厂商完全相反，几乎所有软件都不适配
-
-另一个可选项是华为matepad se的LTE版本，23年2月上市的。但不能用谷歌、没有5G。
-
-买特斯拉电车，带T的，排量大，加速度大，有给手机充电的口，能用苹果的 carplay。
-## 历史产品
-iPhone se 2，下单日期2021/06/16
-2022/9/3，换一块飞毛腿电池。
-2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
-2022/01/01购买的电器：长虹小太阳，美的微波炉，飞科电吹风。3年全保换新。
-2022/09/11购买的，绿联网线转接器。3年全保换新。
-2022/09/15购买的，九号c15电滑板。3年全保换新。
-2022/11/22购买的，绿联type-c拓展坞，4年换新升级服务。
