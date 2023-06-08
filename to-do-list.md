@@ -36,9 +36,12 @@
    - start learning analog electronics. seek help from Wangtao.
    - use clang-format.
 4.  Thursday (June 8th, 2023):
-   - [] Invite Brother Yang to lunch;
-   - [] make a zhang-wen-chao.github.io
-   - [] register EAI-lab.github.io
+   - [x] Invite Brother Yang to dinner;
+   - [x] make a zhang-wen-chao.github.io
+   - [] register eai-lab.github.io
+   - [] The goal now is to understand the algorithm of cellprofilor and how to surpass its performance.
+
+现在呢！要分清主要矛盾。我的目标是明年秋招：只剩下一年时间了。现在要拼命码代码，做工程，找实习。
 
 
 5.  Friday (June 9th, 2023):
@@ -63,7 +66,7 @@
 
 [] Wang forwarded Teacher Bai's competition news.
 
-[] The goal now is to understand the algorithm of cellprofilor and how to surpass its performance.
+
 
 [] If I go to Boss Zhou to get a job, I will tell Guo Cheng.
 
@@ -140,12 +143,6 @@ https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-
 
 # know what not to do
 If you want to specialize in a field, you must at least read a textbook in depth, so that you can think about it and let you know how the many methods of the entire discipline are established based on certain logical principles.
-
-暑假去中医药大学当保安?看看夏怎么安排？
-
-MySQL也不会，酉矩阵分解得继续理解
-
-下学期徐的助教，已经联系了：陈茂华老师。利用当助教的机会，研究一下数据库签到如何实现。
 
 学一门北大的量子计算，直接看看课后习题
 http://scholar.pku.edu.cn/xiaoyuan/classes/QIQC
