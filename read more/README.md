@@ -126,3 +126,8 @@ terminator
 曾国藩家书
 
 Melancholian 3 huonetta
+
+
+Watch the movie：the way of Water, The Lord of the Rings.
+
+4. Investigate the composition of the creators of the major self-media platforms（中国社会各阶级分析）,and give it to shao sister.

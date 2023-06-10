@@ -1,27 +1,5 @@
 # Professor Gao said I don't work hard
 ## last week
-1. Monday (May 29th, 2023):
-   - Attend Ant Interview.
-   - Prepare your final cheet sheet.
-2. Tuesday (May 30th, 2023):
-   - Prepare your final cheet sheet.
-   - My thinking really took another major shift. I won't write what exactly it is. But it will be implemented in my actions.
-   - chat with sheng brother, zhao sister.
-3. Wednesday (May 31st, 2023):
-   - Prepare your final cheet sheet.
-4. Thursday (June 1st, 2023):
-   - Read the article given by Mr. Gao.
-   - Take the algorithm test
-   - Watch Inuyasha anime
-5. Friday (June 2nd, 2023):
-   - Watch Inuyasha anime
-   - Reject Jinshida HR's Chinese resume request
-6. Saturday (June 3rd, 2023):
-   - Accompany Senior Sister Shao to play in Shanghai
-7. Sunday (June 4th, 2023):
-   - Accompany Senior Sister Shao to play in Wuxi
-   - complete oj
-## this week
 1. Monday (June 5th, 2023):
    - I watched the video explanation of the history of the Jin Dynasty.
    - Wang, a student from the School of Life Sciences, came to guide the work. 
@@ -38,19 +16,37 @@
 4.  Thursday (June 8th, 2023):
    - [x] Invite Brother Yang to dinner;
    - [x] make a zhang-wen-chao.github.io
-   - [] register eai-lab.github.io
-   - [] The goal now is to understand the algorithm of cellprofilor and how to surpass its performance.
-
-现在呢！要分清主要矛盾。我的目标是明年秋招：只剩下一年时间了。现在要拼命码代码，做工程，找实习。
-
-
 5.  Friday (June 9th, 2023):
-   - [] Write a weekly report.
-   - [] Go to Wuxi for a meeting. Meet Brother Yang.
+   - [x] Go to Wuxi for a meeting. 
+   - [x] listen to liuwen and xuyanyu.
+   - [x] eat dinner with brother longyang and sister kang.
 6.  Saturday (June 10th, 2023):
-   - [] Either write something worth reading or do something worth writing.
+   - [x] listen the lectures for the whole day.
 7.  Sunday (June 11th, 2023):
-   - [] Either write something worth reading or do something worth writing.
+   - [] play with xiongni.
+## this week
+1. Monday (June 12th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+2. Tuesday (June 13th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+   - [] learn to use gdb.
+   - [] wirte a new resume for cpp devolopment, give it to shangtang tech.
+   - [] For the programming language in coursera chosen last time, first go to GitHub to find a solution.
+3. Wednesday (June 14th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+4. Thursday (June 15th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+5. Friday (June 16th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+6. Saturday (June 17th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+7. Sunday (June 18th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
+只剩下一年时间了。现在要拼命码代码，做工程，找实习。
+
+于：找cpp、Java后端开发。卷cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+[] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 
 [] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 
@@ -60,17 +56,13 @@
 
 [] https://vuejs.org/
 
-[] learn to use pdb、gdb.
-
 [] Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
-[] Wang forwarded Teacher Bai's competition news.
-
-
-
-[] If I go to Boss Zhou to get a job, I will tell Guo Cheng.
-
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
+
+1. https://www.zhihu.com/question/356351510
+2.  去看看陈浩的博客，
+
 ### 1. 制作待办事宜 `Todo` 列表
 
 - [x] 🎉 通常 `Markdown` 解析器自带的基本功能；
@@ -87,20 +79,7 @@
 - [x] 🌟 增加对**所见即所得**编辑模式的支持(`⌘-⇧-M`)；
 
 ## next week
-1. Monday (June 5th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-2. Tuesday (June 6th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-3. Wednesday (June 7th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-4. Thursday (June 8th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-5. Friday (June 9th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-6. Saturday (June 10th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-7. Sunday (June 11th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+
 ## the week after next week
 ```
 1. Monday (June 12th, 2023):
@@ -119,27 +98,6 @@
    - [] Either write something worth reading or do something worth writing;
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
-
-# Put it on hold
-1. Let’s take a look at the alpha fold that Li Mu talked about, I still don’t know how to do it.
-2. 听了高老师发的cvpr广东会议，中山大学刘祖浩的异常检测听起来不错，一会去看看论文和代码。
-3. 武给我了解决gcc问题的log文件，我去研究一下，看看能不能解决glibc. 还有tensorboard的新的理解。
-4. For the programming language chosen last time, first go to GitHub to find a solution.
-5. what is vae?
-6. https://www.zhihu.com/question/356351510
-7. stylegan，，，gan家族。
-8.  去看看陈浩的博客，
-9.  After watching the video of bilibili Thunderbolt.
-10. I actually had the idea of   games 101 before. I have opened too many holes.
-11. After reading the courseware for the first year of graduate school. Look at the cs231n code sent back by Senior Brother Zhou.
-12. 异常检测 | MemAE模型复现与思考 - 阿尔法杨NJU的文章 - 知乎
-https://zhuanlan.zhihu.com/p/344615097
-https://www.sciencedirect.com/book/9780128238189/anomaly-detection-and-complex-event-processing-over-iot-data-streams
-https://medium.com/@jelkhoury880/introduction-to-anomaly-detection-methods-part-i-b1a2f389ffcb
-1. Professor  Gao gave me three articles。分子生成确实是一个不错的方向。
-2.  Watch the movie：the way of Water, The Lord of the Rings.
-3.  [向这位小兄弟学习cpp](https://07xiaohei.com/)
-4. Investigate the composition of the creators of the major self-media platforms（中国社会各阶级分析）
 
 # know what not to do
 If you want to specialize in a field, you must at least read a textbook in depth, so that you can think about it and let you know how the many methods of the entire discipline are established based on certain logical principles.
