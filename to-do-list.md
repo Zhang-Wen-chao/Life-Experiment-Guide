@@ -1,4 +1,26 @@
-# Professor Gao said I don't work hard
+# what is my goal
+have to work hard to find a job
+# what I shouldn't do
+- View content irrelevant to cpp technology on bilibili, youtube, and zhihu.
+- read books irrelevant to cpp technology.
+# who can I ask
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo
+yiqun
+weiao
+xiaotao
+zhonglei
+zhibo
+zibo
+yihao
+xiaokai
+chuanguang
+613libo
+zhaohui
+
+anayway, learn to everyone.
+# what did I do
 ## last week
 1. Monday (June 5th, 2023):
    - I watched the video explanation of the history of the Jin Dynasty.
@@ -29,11 +51,11 @@
    - [x] check out and return to shanghai.
 2. Tuesday (June 13th, 2023):
    - [x] sing songs with xiongni.
-   - [] learn to use gdb. 
-   - [] wirte a new resume for cpp devolopment, give it to shangtang tech.
-   - [] For the programming language in coursera chosen last time, first go to GitHub to find a solution.
 3. Wednesday (June 14th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [] learn to use gdb. 
+   - [] For the programming language in coursera chosen last time, first go to GitHub to find a solution.
+   - [] wirte a new resume for cpp devolopment, give it to shangtang tech.
+
 4. Thursday (June 15th, 2023):
    - [] Either write something worth reading or do something worth writing;
 5. Friday (June 16th, 2023):
@@ -45,7 +67,6 @@
 
 只剩下一年时间了。现在要拼命码代码，做工程，找实习。
 
-于：找cpp、Java后端开发。卷cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
 [] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 
 [] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
@@ -63,64 +84,58 @@
 1. https://www.zhihu.com/question/356351510
 2.  去看看陈浩的博客，
 
-### 1. 制作待办事宜 `Todo` 列表
-
-- [x] 🎉 通常 `Markdown` 解析器自带的基本功能；
-- [x] 🍀 支持**流程图**、**甘特图**、**时序图**、**任务列表**；
-- [x] 🏁 支持粘贴 HTML 自动转换为 Markdown；
-- [x] 💃🏻 支持插入原生 Emoji、设置常用表情列表；
-- [x] 🚑 支持编辑内容保存**本地存储**，防止意外丢失；
-- [x] 📝 支持**实时预览**，主窗口大小拖拽，字符计数；
-- [x] 🛠 支持常用快捷键(**Tab**)，及代码块添加复制
-- [x] ✨ 支持**导出**携带样式的 PDF、PNG、JPEG 等；
-- [x] ✨ 升级 Vditor，新增对 `echarts` 图表的支持；
-- [x] 👏 支持检查并格式化 Markdown 语法，使其专业；
-- [x] 🦑 支持五线谱、及[部分站点、视频、音频解析](https://github.com/b3log/vditor/issues/117?utm_source=hacpai.com#issuecomment-526986052)；
-- [x] 🌟 增加对**所见即所得**编辑模式的支持(`⌘-⇧-M`)；
-
 ## next week
+1. Monday (June 19th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+   
+2. Tuesday (June 20th, 2023):
+   - [] Either write something worth reading or do something worth writing;
 
-## the week after next week
+3. Wednesday (June 21st, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
+4. Thursday (June 22nd, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
+5. Friday (June 23rd, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
+6. Saturday (June 24th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
+7. Sunday (June 25th, 2023):
+   - [] Either write something worth reading or do something worth writing;
+
 ```
-1. Monday (June 12th, 2023):
+1. Monday (June 19th, 2023):
    - [] Either write something worth reading or do something worth writing;
-2. Tuesday (June 13th, 2023):
+   
+2. Tuesday (June 20th, 2023):
    - [] Either write something worth reading or do something worth writing;
-3. Wednesday (June 14th, 2023):
+
+3. Wednesday (June 21st, 2023):
    - [] Either write something worth reading or do something worth writing;
-4. Thursday (June 15th, 2023):
+
+4. Thursday (June 22nd, 2023):
    - [] Either write something worth reading or do something worth writing;
-5. Friday (June 16th, 2023):
+
+5. Friday (June 23rd, 2023):
    - [] Either write something worth reading or do something worth writing;
-6. Saturday (June 17th, 2023):
+
+6. Saturday (June 24th, 2023):
    - [] Either write something worth reading or do something worth writing;
-7. Sunday (June 18th, 2023):
+
+7. Sunday (June 25th, 2023):
    - [] Either write something worth reading or do something worth writing;
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
-
-# know what not to do
-If you want to specialize in a field, you must at least read a textbook in depth, so that you can think about it and let you know how the many methods of the entire discipline are established based on certain logical principles.
-
-学一门北大的量子计算，直接看看课后习题
-http://scholar.pku.edu.cn/xiaoyuan/classes/QIQC
-
-第十 canvas.net 没有量子计算内容 但是有很多大学发布的内容 免费
-第九 crash course 中小学生 适合科普 关于量子的内容不多 免费
-第八 khan academy 可汗学院 白嫖福音 适合各类人群 量子的内容多一点
-第七 udemy和codeacademy 专业系统 后者主要教人写代码 前者还有商务设计市场等等 无法白嫖 可蹲优惠活动
-第六 coursera brilliant edx 内容专业 与知名大学合作 前者的结业证书可写到简历上 brilliant有些收费 针对性较强
-第五 linkedin learning 针对上班族 以视频为主 结业证书可以写到网站简历 免费
-第四 github和arxiv 前者开源代码社区 后者是科学家的社区 是可以将学术论文上传的公开文档库 都免费 可获取前沿专业信息
-第三 ms learn 有up的量子学习模块 免费
-第二 量子学习个性化定制网站 up开发的（up好厉害！） 也有up发布和收集的各类资料 网站特点是因材施教 全部免费 量子计算针对性高
-第一 简单来说就是谁做的好谁就是第一
 # some advice
-- Ziming: Yes, it takes a long time to run the experiment, so read the paper first. After confirming that it is almost done, just run to see the specific effect.
-
-- Zhaohui: The database, network, asynchronous, and multi-threaded programming involved are the most useful knowledge.
+## Zhaohui's advice
+The database, network, asynchronous, and multi-threaded programming involved are the most useful knowledge.
 
 In your weekly report to the teacher, you only write what you have done and what you have learned. These are not important. You try to write down what you think about for a week and whether your scientific research progress is on track. It is useless to learn so much, the important thing is to think more. Time in graduate school is short, so be sure to stay focused. Stick to some papers every week.
+
+If you want to specialize in a field, you must at least read a textbook in depth, so that you can think about it and let you know how the many methods of the entire discipline are established based on certain logical principles.
 ## Teacher Li's advice
 要dig in code，代码实验不是voodoo，要会调试代码，知道运行到哪里报的错，为什么报错。比如这个错误，字面意思已经告诉你了它不识别mp4后缀文件，说明没有装或者没有正确安装视频解码包，所以你装一个ffmpeg就好了。所以他不是个bug，更不“神奇”，只是你比较菜（没有批评你的意思，刚开始都这样）。
 学会用pdb.set_trace()和基础的print()定位错误，并且理解错误哈。
