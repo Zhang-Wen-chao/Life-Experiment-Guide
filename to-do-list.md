@@ -43,6 +43,8 @@ C，python，C++，java，haskell，verilog，机器预言，二进制语言，�
 反正当初选课的时候就选了很多计算机课，然后就稀里糊涂的全部上完了。也不是很难吧，就是感觉学了很多浪费时间的东西，反正学了就忘。如果有人能在开学的时候给我介绍一下计算机是什么个玩意我可能就不会学这么多计算课程了。
 我对计算机谈不上多喜欢，就是想知道这东西大概的工作原理，知道了就不想学了。各种各样的技术不过是各种各样的套娃和复读机，原理几乎都一样。
 
+你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
+https://www.zhihu.com/question/356351510/answer/913928066
 # what I shouldn't do
 - View content irrelevant to cpp technology on bilibili, youtube, and zhihu.
 - read books irrelevant to cpp technology.
@@ -95,18 +97,19 @@ anayway, learn to everyone.
 2. Tuesday (June 13th, 2023):
    - [x] sing songs with xiongni.
 3. Wednesday (June 14th, 2023):
-   - [] learn to use gdb. 
-   - [] For the programming language in coursera chosen last time, first go to GitHub to find a solution.
-   - [] wirte a new resume for cpp devolopment, give it to shangtang tech.
+   - [x] wirte a new resume for cpp devolopment, give it to shangtang tech.
+   - [x] I have learned Yu Shiqi's cpp course to the 10th episode.
 
 4. Thursday (June 15th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [] learn to use gdb. 
+   - [] meeting with beijing
 5. Friday (June 16th, 2023):
    - [] Either write something worth reading or do something worth writing;
 6. Saturday (June 17th, 2023):
    - [] Either write something worth reading or do something worth writing;
 7. Sunday (June 18th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [] Go to Sijing for a party
+
 
 只剩下一年时间了。现在要拼命码代码，做工程，找实习。
 
@@ -124,8 +127,7 @@ anayway, learn to everyone.
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
 
-1. https://www.zhihu.com/question/356351510
-2.  去看看陈浩的博客，
+
 
 ## next week
 1. Monday (June 19th, 2023):
