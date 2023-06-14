@@ -23,13 +23,13 @@
 6.  Saturday (June 10th, 2023):
    - [x] listen the lectures for the whole day.
 7.  Sunday (June 11th, 2023):
-   - [] play with xiongni.
+   - [x] play with xiongni.
 ## this week
 1. Monday (June 12th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [x] check out and return to shanghai.
 2. Tuesday (June 13th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-   - [] learn to use gdb.
+   - [x] sing songs with xiongni.
+   - [] learn to use gdb. 
    - [] wirte a new resume for cpp devolopment, give it to shangtang tech.
    - [] For the programming language in coursera chosen last time, first go to GitHub to find a solution.
 3. Wednesday (June 14th, 2023):
