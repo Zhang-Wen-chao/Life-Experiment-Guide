@@ -98,18 +98,20 @@ anayway, learn to everyone.
    - [x] sing songs with xiongni.
 3. Wednesday (June 14th, 2023):
    - [x] wirte a new resume for cpp devolopment, give it to shangtang tech.
-   - [x] I have learned Yu Shiqi's cpp course to the 10th episode.
-
+   - [x] I have learned Yu Shiqi's cpp course to the 19th episode.
+   - [x] meeting with 306
 4. Thursday (June 15th, 2023):
-   - [] learn to use gdb. 
-   - [] meeting with beijing
+   - [x] prepare the ppt for beijing.
+   - [x] chat with xiongni.
+   - [ ] I have learned Yu Shiqi's cpp course to the 21st episode.
+   - [ ] learn to use gdb. 
 5. Friday (June 16th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] meeting with beijing
 6. Saturday (June 17th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 18th, 2023):
-   - [] Go to Sijing for a party
-
+   - [ ] Go to Sijing for a party
 
 只剩下一年时间了。现在要拼命码代码，做工程，找实习。
 
@@ -127,57 +129,42 @@ anayway, learn to everyone.
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
 
-
-
 ## next week
 1. Monday (June 19th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-   
+   - [ ] Either write something worth reading or do something worth writing;
 2. Tuesday (June 20th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 3. Wednesday (June 21st, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 4. Thursday (June 22nd, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 5. Friday (June 23rd, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 6. Saturday (June 24th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 ```
 1. Monday (June 19th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-   
+   - [ ] Either write something worth reading or do something worth writing;
 2. Tuesday (June 20th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 3. Wednesday (June 21st, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 4. Thursday (June 22nd, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 5. Friday (June 23rd, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 6. Saturday (June 24th, 2023):
-   - [] Either write something worth reading or do something worth writing;
-
+   - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
-   - [] Either write something worth reading or do something worth writing;
+   - [ ] Either write something worth reading or do something worth writing;
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # some advice
 ## xiaokai's advice
 I remember your boss is doing embedded, so he should be proficient in C++ first.
-
+如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
 # jilin's advice
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
 我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
