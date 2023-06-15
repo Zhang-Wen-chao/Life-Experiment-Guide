@@ -103,19 +103,15 @@ anayway, learn to everyone.
 4. Thursday (June 15th, 2023):
    - [x] prepare the ppt for beijing.
    - [x] chat with xiongni.
-   - [x] I have learned Yu Shiqi's cpp course to the 40th episode.
+   - [x] I have learned Yu Shiqi's cpp course to the 44th episode.
    - [x] do the laundry.
-   - [ ] learn to use gdb. 
-   - [ ] sent resumes everywhere
 5. Friday (June 16th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
    - [ ] meeting with beijing
+   - [ ] sent resumes everywhere
 6. Saturday (June 17th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 18th, 2023):
    - [ ] Go to Sijing for a party
-
-只剩下一年时间了。现在要拼命码代码，做工程，找实习。
 
 [] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 
@@ -130,7 +126,6 @@ anayway, learn to everyone.
 [] Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
-
 ## next week
 1. Monday (June 19th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
