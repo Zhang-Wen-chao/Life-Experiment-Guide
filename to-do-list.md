@@ -103,8 +103,9 @@ anayway, learn to everyone.
 4. Thursday (June 15th, 2023):
    - [x] prepare the ppt for beijing.
    - [x] chat with xiongni.
-   - [ ] I have learned Yu Shiqi's cpp course to the 21st episode.
+   - [x] I have learned Yu Shiqi's cpp course to the 34th episode.
    - [ ] learn to use gdb. 
+   - [ ] sent resumes everywhere
 5. Friday (June 16th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] meeting with beijing
