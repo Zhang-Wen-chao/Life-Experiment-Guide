@@ -104,6 +104,7 @@ anayway, learn to everyone.
    - [x] prepare the ppt for beijing.
    - [x] chat with xiongni.
    - [x] I have learned Yu Shiqi's cpp course to the 36th episode.
+   - [x] do the laundry.
    - [ ] learn to use gdb. 
    - [ ] sent resumes everywhere
 5. Friday (June 16th, 2023):
