@@ -106,7 +106,7 @@ anayway, learn to everyone.
    - [x] I have learned Yu Shiqi's cpp course to the 46th episode.
    - [x] do the laundry.
 5. Friday (June 16th, 2023):
-   - [ ] I have learned Yu Shiqi's cpp course to the ??th episode.
+   - [x] I have learned Yu Shiqi's cpp course to the 47th episode.
    - [ ] meeting with beijing
    - [ ] sent resumes everywhere
 6. Saturday (June 17th, 2023):
