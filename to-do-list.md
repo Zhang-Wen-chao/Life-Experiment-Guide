@@ -106,13 +106,23 @@ anayway, learn to everyone.
    - [x] I have learned Yu Shiqi's cpp course to the 46th episode.
    - [x] do the laundry.
 5. Friday (June 16th, 2023):
-   - [x] I have learned Yu Shiqi's cpp course to the 47th episode.
-   - [ ] meeting with beijing
-   - [ ] sent resumes everywhere
+   - [x] I have learned Yu Shiqi's cpp course to the 69th episode.
+   - [x] meeting with beijing
+   - [x] chat with wangtao.
+   - [x] fill out the participation records for the academic report.
+   - [x] complete 1-2 labs of Yu Shiqi's cpp course.
 6. Saturday (June 17th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
+   - [x] complete 3-8 labs of Yu Shiqi's cpp course.
+   - [ ] start the learning of eight-part essay.
 7. Sunday (June 18th, 2023):
    - [ ] Go to Sijing for a party
+   - [ ] sent resumes everywhere
+
+
+完结撒花，如果是假期期间想要预习C++，可以先看完对应章节的课程，然后去git找yu老师的课程实验去做，可以自己先独立完成，然后再在老师底下git给的链接中，有往年优秀实验代码，可以将自己的和优秀代码比较一下。
+真的计算机课程，不能只看不写，一定要做实验和project，如果时间允许的话！！！
+最后感谢于老师的课程！！！
+
 
 [] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 
