@@ -93,11 +93,12 @@ anayway, learn to everyone.
 7. Sunday (June 18th, 2023):
    - [x] Go to Sijing for a party
    - [x] I have watched Cherno'cpp to the 20th episode.
-   - [ ] sent resumes everywhere
-   - [ ] start the learning of eight-part essay.
+   - [x] sent resumes to bytedance and baidu.
 ## this week
 1. Monday (June 19th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] start the learning of eight-part essay.
+   - [ ] 熟悉网络编程、多线程编程技术
+   - [ ] 熟悉Redis，Mysql等数据库
 2. Tuesday (June 20th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 3. Wednesday (June 21st, 2023):
@@ -110,6 +111,20 @@ anayway, learn to everyone.
    - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
+
+
+-计算机或相关专业本科及以上学历
+-熟练掌握计算机数据结构和算法设计，熟悉C/C++语言编程
+-熟悉网络编程、多线程编程技术，有高并发开发经验、大规模系统开发和设计经验优先
+-优秀的分析和解决问题的能力，对挑战性问题充满激情
+-良好的团队合作精神，较强的沟通能力
+
+
+1、2024届及以后毕业，本科及以上学历在读，计算机相关专业优先；
+2、熟练使用主流的开发语言C++、Java、Go、Python等进行开发；
+3、扎实的计算机基础知识，熟悉常用的数据结构、算法和设计模式，了解其在实际场景中的应用；
+4、有服务器、大数据开发经验者优先；熟悉Redis，Mysql等数据库，Kafka、RabbitMq等消息队列使用者优先；
+5、具备较强的团队合作精神和责任感。
 
 完结撒花，如果是假期期间想要预习C++，可以先看完对应章节的课程，然后去git找yu老师的课程实验去做，可以自己先独立完成，然后再在老师底下git给的链接中，有往年优秀实验代码，可以将自己的和优秀代码比较一下。
 真的计算机课程，不能只看不写，一定要做实验和project，如果时间允许的话！！！
