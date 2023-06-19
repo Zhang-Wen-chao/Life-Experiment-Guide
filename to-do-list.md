@@ -99,6 +99,7 @@ anayway, learn to everyone.
    - [x] chat with Teacher Zhao, wangtao.
    - [x] move place.
    - [x] complete 9-15 labs of Yu Shiqi's cpp course.
+   - [x] complete 1-2 projects of Yu Shiqi's cpp course.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
