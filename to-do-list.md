@@ -98,7 +98,7 @@ anayway, learn to everyone.
 1. Monday (June 19th, 2023):
    - [x] chat with Teacher Zhao, wangtao.
    - [x] move place.
-   - [ ] complete 9-10 labs of Yu Shiqi's cpp course.
+   - [x] complete 9-15 labs of Yu Shiqi's cpp course.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
@@ -115,6 +115,7 @@ anayway, learn to everyone.
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 
+wang:看文档。等板卡。
 
 -计算机或相关专业本科及以上学历
 -熟练掌握计算机数据结构和算法设计，熟悉C/C++语言编程
