@@ -96,6 +96,9 @@ anayway, learn to everyone.
    - [x] sent resumes to bytedance and baidu.
 ## this week
 1. Monday (June 19th, 2023):
+   - [x] chat with Teacher Zhao, wangtao.
+   - [x] move place.
+   - [ ] complete 9-10 labs of Yu Shiqi's cpp course.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
