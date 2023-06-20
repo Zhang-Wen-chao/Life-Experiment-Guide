@@ -9,9 +9,6 @@ have to work hard to find a job
 
 至于程序员失业与否其实要看行业，你踩错了方向，就是要失业的。这和你是不是程序员，AI会不会写程序是没有关系的。
 
-
-
-
 硬实力先堆起来
 
 非计算机专业要走计算机的路那就在硬实力上超过计算机专业的学生。计算机专业的学生不会写的程序你会写，那你就是牛逼。想让别人看你没学过计算机就给你更多的优待想都别想，不歧视已经够意思了。
@@ -100,15 +97,20 @@ anayway, learn to everyone.
    - [x] move place.
    - [x] complete 9-15 labs of Yu Shiqi's cpp course.
    - [x] complete 1-2 projects of Yu Shiqi's cpp course.
+2. Tuesday (June 20th, 2023):
+   - [x] complete 3rd project of Yu Shiqi's cpp course.
+   - [x] just read 4-5 projects of Yu Shiqi's cpp course.
+   - [x] chat with zihao.
+   - [x] I have watched Cherno'cpp to the 60th episode.
+3. Wednesday (June 21st, 2023):
+   - [ ] I have watched Cherno'cpp to the ??th episode.
+
+4. Thursday (June 22nd, 2023):
+   - [ ] Either write something worth reading or do something worth writing
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
-2. Tuesday (June 20th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-3. Wednesday (June 21st, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-4. Thursday (June 22nd, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 5. Friday (June 23rd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 6. Saturday (June 24th, 2023):
@@ -116,7 +118,12 @@ anayway, learn to everyone.
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 
-wang:看文档。等板卡。
+wang:看文档。等板卡。等需求。
+请教王涛什么是网络编程、多线程编程。
+私下给王说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
+你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
+
+Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
 -计算机或相关专业本科及以上学历
 -熟练掌握计算机数据结构和算法设计，熟悉C/C++语言编程
@@ -124,19 +131,11 @@ wang:看文档。等板卡。
 -优秀的分析和解决问题的能力，对挑战性问题充满激情
 -良好的团队合作精神，较强的沟通能力
 
-
 1、2024届及以后毕业，本科及以上学历在读，计算机相关专业优先；
 2、熟练使用主流的开发语言C++、Java、Go、Python等进行开发；
 3、扎实的计算机基础知识，熟悉常用的数据结构、算法和设计模式，了解其在实际场景中的应用；
 4、有服务器、大数据开发经验者优先；熟悉Redis，Mysql等数据库，Kafka、RabbitMq等消息队列使用者优先；
 5、具备较强的团队合作精神和责任感。
-
-完结撒花，如果是假期期间想要预习C++，可以先看完对应章节的课程，然后去git找yu老师的课程实验去做，可以自己先独立完成，然后再在老师底下git给的链接中，有往年优秀实验代码，可以将自己的和优秀代码比较一下。
-真的计算机课程，不能只看不写，一定要做实验和project，如果时间允许的话！！！
-最后感谢于老师的课程！！！
-
-
-[] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 
 [] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 
@@ -145,8 +144,6 @@ wang:看文档。等板卡。
 [] 可以直接学`vue`
 
 [] https://vuejs.org/
-
-[] Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
 ## next week
@@ -171,7 +168,6 @@ wang:看文档。等板卡。
 7. Sunday (July 2nd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
-
 
 ```
 1. Monday (June 26th, 2023):
