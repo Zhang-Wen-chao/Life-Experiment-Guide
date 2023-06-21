@@ -103,16 +103,15 @@ anayway, learn to everyone.
    - [x] chat with zihao.
    - [x] I have watched Cherno'cpp to the 60th episode.
 3. Wednesday (June 21st, 2023):
-   - [ ] I have watched Cherno'cpp to the ??th episode.
-
+   - [x] I have watched Cherno'cpp to the 91th episode.
 4. Thursday (June 22nd, 2023):
-   - [ ] Either write something worth reading or do something worth writing
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 5. Friday (June 23rd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
+   - [ ] I haveatched HouJie'cpp to the ??th episode.
 6. Saturday (June 24th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
