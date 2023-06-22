@@ -105,21 +105,24 @@ anayway, learn to everyone.
 3. Wednesday (June 21st, 2023):
    - [x] I have watched Cherno'cpp to the 91th episode.
 4. Thursday (June 22nd, 2023):
+   - [x] making lunch for friends.
+   - [x] Call Mr. Chen Shuiyong in Hsinchu.
+   - [x] I've watched HouJie' oop cpp to the 3th episode.
+   - [x] I've watched C++ Primier book to 158 pages.
+5. Friday (June 23rd, 2023):
+   - [ ] I've watched HouJie' oop cpp to the 3th episode.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
-5. Friday (June 23rd, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] I haveatched HouJie'cpp to the ??th episode.
 6. Saturday (June 24th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 
 wang:看文档。等板卡。等需求。
-请教王涛什么是网络编程、多线程编程。
-私下给王说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
+请教wangtao什么是网络编程、多线程编程。
+私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
 你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
 
 Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
