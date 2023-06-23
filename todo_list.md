@@ -46,6 +46,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
 - View content irrelevant to cpp technology on bilibili, youtube, and zhihu.
 - read books irrelevant to cpp technology.
 # who can I ask
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+
 xinzhu
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
 wangshuo
