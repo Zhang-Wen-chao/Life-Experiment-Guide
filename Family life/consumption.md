@@ -12,41 +12,16 @@
 自己组装nas存储资料？别扯淡了，没有任何东西比我脑子里存的东西重要。我记不住的东西，那就完全不重要。
 
 最多看视频想要大屏幕，整个投影吧。可是，连apple vision pro都出来了。
-# what do i have now
-mechanical keyboard. logitech mouse G300s(https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
+## 拒绝生育
+我持保留态度。先等一个老婆。
+## 娱乐虚拟化
+我的娱乐就是做饭、看历史吧。花钱不多。
+## 资产虚拟化
+除了房车，其他尽量都不买呗。
+# necessities of life
+买大件物品一定要想好，需要贷款分期吗？断供风险有多大？最好都不要负债，信用卡分期堪比高利贷。
 
-暂时就想到蓝色红色两个模式下，能做什么。日后随着使用，再想黄色的需求。
-
-![logitech_red](../images/logitech_red.png "logitech_red")
-
-![logitech_blue](../images/logitech_blue.png "logitech_blue")
-## what to buy in the future
-Apple vision pro can repalce monitors!
-
-也没那么想买：米家智能显示器挂灯 1S 相较于米家显示器挂灯显色指数提高至 R95 灯光下对色彩的还原更加真实。最大亮度由 270lm 提升到 300lm, 最大照度提升至 900lx（H=45cm）米家智能显示器挂灯 1S 连接米家 APP 绑定，设置智能场景，使用小爱同学语音控制。
-
-如果后期不再使用所有Windows电脑，可以考虑：苹果触控板，搭配苹果电脑很舒服。
-
-Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点。直接取代手机，因为感觉手机对我用处也不大。用平板背上我的北师大帆布包，带个蓝牙耳机，挺合适的，也不会错过电话。8+是因为我去店里看了，能配上键盘，这就可以实现简单的文字处理了，甚至是用向日葵写代码。电脑模式真正做好的只有三星，适配所有软件，其他厂商完全相反，几乎所有软件都不适配
-
-另一个可选项是华为matepad se的LTE版本，23年2月上市的。但不能用谷歌、没有5G。
-
-买tesla model 3，带T的排量大，加速度大，有给手机充电的口，能用苹果的 carplay。
-## I have bought
-1. iPhone se 2，Purchased on 2021/06/16
-   - 2022/9/3，换一块飞毛腿电池。
-   - 2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
-2. others
-   - Purchased on 2022/01/01：长虹小太阳，美的微波炉，飞科电吹风。3 years full warranty and replacement.
-   - Purchased on 2022/09/11，绿联网线转接器。3 years full warranty and replacement.
-   - Purchased on 2022/09/15，九号c15电滑板。3 years full warranty and replacement.
-   - Purchased on 2022/11/22，绿联type-c拓展坞. 4-year renewal and upgrade service.
-
-# 身体健康
-我是b型血；不要献血。
-保持自律的生活，不熬夜。前提就是你要把你的效率提高，在有限的时间内把事情做完，用早起的时间。饮食结构比较符合中国营养膳食指南中所说的那种蔬菜。运动。心态要好。
-身体是革命的本钱：每年定期体检。给家人买保险。
-## 我的最低生活标准
+## house
 24小时的居民用电，自来水。用电安全，地线，漏保。
 
 这就意味着有24小时的热水供应，可以泡茶，可以做饭，可以洗澡。冷暖空调，不用穿太厚。电脑24小时运作。电饭煲里时刻有米，热水壶里时刻有热水。
@@ -62,18 +37,50 @@ Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点�
 但是买房的话，一定要算清楚，到工作地点、大型商超、小型生活超市、快递点、加油站等地有多远，各种快递、各种买菜软件能否上门。
 
 需要两个卫生间吗？
-## 买大件物品一定要想好，需要贷款分期吗？断供风险有多大？最好都不要负债，信用卡分期堪比高利贷。
-## 买车
-京东特斯拉官方店，坐等2.5万美元入门款特斯拉上市。夜晚3毛一度电可太省钱了。
-新能源汽车专用牌照额度将向纯电动汽车和燃料电池汽车倾斜。上海户口买新能源还是免费上沪牌。
-## 买小米智能全家居、辅以宜家家具
+### fitment
+不买什么：电视。
+
+买小米智能全家居、辅以宜家家具
 大平层，必须要能使用洗碗机、扫地机器人。
 钱能解决的问题都不是问题。
 家具：饭桌，椅子，电脑桌书桌结合体，床，衣柜衣架。茶海，垃圾桶。不要马桶，要蹲厕。
 需要的电器：冰箱，电磁炉，不粘锅，电饭煲，微波炉，热水器洗澡，吹风机，热水壶烧水，中央空调，洗烘一体机，大功率灯泡。
-用投影仪取代电视，放几个沙包状的软垫子，但是也不知道投影看什么。目前使用频率更高的还是，1080p的电脑屏幕，有钱再上4K大屏吧。
 窗帘的遮光性，建材的隔音效果，窗户的隔音效果。
 同一间屋子的灯的开关，一定要是串联的。开门就能摸到灯。
 家里放几桶饮用水，以防停水。充电宝里充满电，以防停电手机没电。
 装摄像头，有声控
 联合利华、宝洁。牙膏用老牌的最便宜的，因为关键在于刷牙，牙膏只是摩擦剂。
+## car
+买tesla model 3，带T的排量大，加速度大，有给手机充电的口，能用苹果的 carplay。
+京东特斯拉官方店，坐等2.5万美元入门款特斯拉上市。夜晚3毛一度电可太省钱了。
+新能源汽车专用牌照额度将向纯电动汽车和燃料电池汽车倾斜。上海户口买新能源还是免费上沪牌。
+## electronic products
+### what do I have now
+
+mechanical keyboard. logitech mouse G300s(https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
+
+暂时就想到蓝色红色两个模式下，能做什么。日后随着使用，再想黄色的需求。
+
+![logitech_red](../images/logitech_red.png "logitech_red")
+
+![logitech_blue](../images/logitech_blue.png "logitech_blue")
+
+1. iPhone se 2，Purchased on 2021/06/16
+   - 2022/9/3，换一块飞毛腿电池。
+   - 2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
+2. others
+   - Purchased on 2022/01/01：长虹小太阳，美的微波炉，飞科电吹风。3 years full warranty and replacement.
+   - Purchased on 2022/09/11，绿联网线转接器。3 years full warranty and replacement.
+   - Purchased on 2022/09/15，九号c15电滑板。3 years full warranty and replacement.
+   - Purchased on 2022/11/22，绿联type-c拓展坞. 4-year renewal and upgrade service.
+### what do I want to buy in the future
+2023/6/23：也不是非要买苹果设备，我手上的设备感觉很难在短期内用坏。能用就行。
+Apple vision pro can repalce monitors!
+
+Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点。直接取代手机，因为感觉手机对我用处也不大。用平板背上我的北师大帆布包，带个蓝牙耳机，挺合适的，也不会错过电话。8+是因为我去店里看了，能配上键盘，这就可以实现简单的文字处理了，甚至是用向日葵写代码。电脑模式真正做好的只有三星，适配所有软件，其他厂商完全相反，几乎所有软件都不适配
+
+另一个可选项是华为matepad se的LTE版本，23年2月上市的。但不能用谷歌、没有5G。
+# insurance
+我是b型血；不要献血。
+保持自律的生活，不熬夜。前提就是你要把你的效率提高，在有限的时间内把事情做完，用早起的时间。饮食结构比较符合中国营养膳食指南中所说的那种蔬菜。运动。心态要好。
+身体是革命的本钱：每年定期体检。给家人买保险。

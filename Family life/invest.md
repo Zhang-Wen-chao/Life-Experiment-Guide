@@ -5,6 +5,8 @@
 
 https://www.bmpi.dev/self/how-to-get-rich/
 
+
+现在不是研究的时候，找到工作，有了收入再研究。现在月入一千八，每天笑哈哈，投资，不是扯淡吗？
 # what is success?
 真正的成功跟金錢無關！先前我已經講過多次，如果能夠活到 65 歲或 70 歲，甚至更大數的時候你殷盼望能夠愛你的人，果然深爱着你，你就成功了。
 # consumption concept
