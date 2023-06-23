@@ -1,5 +1,6 @@
 # what is my goal
 have to work hard to find a job
+听说字节跳动是免费吃饭的。所以，我的目标就是去字节跳动上班。对，就是这么没出息。
 ## 失败的思维方式：贫穷就得多吃苦
 稻盛和夫先生说：大多数人对吃苦的含义可能理解的太肤浅。穷，并不是吃苦。穷就是穷，吃苦不是忍受贫穷的能力。吃苦的本质，是长时间为了某个目标而聚焦的能力，在这个过程中，放弃娱乐生活，放弃无效社交，放弃无意义的消费以及在过程中不被理解的孤独。它本质是种自控力，自制力，坚持和深度思考的能力。从很大程度上来说靠自己成功的富人，往往能比穷人更能吃苦耐劳，否则他不可能白手起家。你会看到他富有之后还是比普通人勤奋，比普通人能忍受孤独,还更有理想。这才是“吃苦”。
 
@@ -68,34 +69,6 @@ zhaohui
 anayway, learn to everyone.
 # what did I do
 ## last week
-1. Monday (June 12th, 2023):
-   - [x] check out and return to shanghai.
-2. Tuesday (June 13th, 2023):
-   - [x] sing songs with xiongni.
-3. Wednesday (June 14th, 2023):
-   - [x] wirte a new resume for cpp devolopment, give it to shangtang tech.
-   - [x] I have learned Yu Shiqi's cpp course to the 19th episode.
-   - [x] meeting with 306
-4. Thursday (June 15th, 2023):
-   - [x] prepare the ppt for beijing.
-   - [x] chat with xiongni.
-   - [x] I have learned Yu Shiqi's cpp course to the 46th episode.
-   - [x] do the laundry.
-5. Friday (June 16th, 2023):
-   - [x] I have learned Yu Shiqi's cpp course to the 69th episode.
-   - [x] meeting with beijing
-   - [x] chat with wangtao.
-   - [x] fill out the participation records for the academic report.
-   - [x] complete 1-2 labs of Yu Shiqi's cpp course.
-6. Saturday (June 17th, 2023):
-   - [x] complete 3-8 labs of Yu Shiqi's cpp course.
-   - [x] I have read the CPP tutorial of the rookie tutorial, and my mindset is completely different from a year ago. A year ago, I couldn't understand, but now I feel that this tutorial is not enough to solve my confusion.
-   - [x] I have watched Cherno'cpp to the 18th episode.
-7. Sunday (June 18th, 2023):
-   - [x] Go to Sijing for a party
-   - [x] I have watched Cherno'cpp to the 20th episode.
-   - [x] sent resumes to bytedance and baidu.
-## this week
 1. Monday (June 19th, 2023):
    - [x] chat with Teacher Zhao, wangtao.
    - [x] move place.
@@ -116,6 +89,7 @@ anayway, learn to everyone.
 5. Friday (June 23rd, 2023):
    - [x] I've watched HouJie' oop cpp to the 6th episode.
    - [x] organize files.
+   - [x] I've heard Utada Hikaru's album on July 25, 2001.
 6. Saturday (June 24th, 2023):
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
@@ -123,6 +97,29 @@ anayway, learn to everyone.
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
+## this week
+1. Monday (June 26th, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+2. Tuesday (June 27th, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+3. Wednesday (June 28th, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+4. Thursday (June 29th, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+5. Friday (June 30th, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+6. Saturday (July 1st, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+7. Sunday (July 2nd, 2023):
+   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] It is more important to do the right thing than to do things right.
+
 
 wang:看文档。等板卡。等需求。
 请教wangtao什么是网络编程、多线程编程。
@@ -153,52 +150,70 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
 ## next week
-1. Monday (June 26th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-2. Tuesday (June 27th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-3. Wednesday (June 28th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-4. Thursday (June 29th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-5. Friday (June 30th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-6. Saturday (July 1st, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-7. Sunday (July 2nd, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
+1. Monday (July 3rd, 2023):
+   - [ ] Either compose something worth perusing or accomplish something worth documenting;
+   - [ ] Doing the correct thing holds more significance than simply doing things correctly.
+
+2. Tuesday (July 4th, 2023):
+   - [ ] Either pen down something worth reading or undertake something worth writing about;
+   - [ ] Prioritizing the right course of action surpasses the pursuit of perfection.
+
+3. Wednesday (July 5th, 2023):
+   - [ ] Either produce something of literary value or engage in a noteworthy endeavor;
+   - [ ] Focusing on doing what is morally right takes precedence over executing tasks flawlessly.
+
+4. Thursday (July 6th, 2023):
+   - [ ] Either craft a piece worth perusing or embark on a venture worth documenting;
+   - [ ] Placing emphasis on moral integrity outweighs the pursuit of procedural perfection.
+
+5. Friday (July 7th, 2023):
+   - [ ] Either create written content worth reading or undertake a task worth documenting;
+   - [ ] The significance lies in choosing the right course of action rather than obsessing over meticulous execution.
+
+6. Saturday (July 8th, 2023):
+   - [ ] Either produce written material worth reading or engage in a meaningful endeavor worth documenting;
+   - [ ] Prioritizing ethical decision-making holds more value than striving for flawless implementation.
+
+7. Sunday (July 9th, 2023):
+   - [ ] Either write something worth reading or undertake a meaningful action worth documenting;
+   - [ ] It is more important to make morally sound choices than to focus solely on executing tasks flawlessly.
+
 
 ```
-1. Monday (June 26th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-2. Tuesday (June 27th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-3. Wednesday (June 28th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-4. Thursday (June 29th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-5. Friday (June 30th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-6. Saturday (July 1st, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-7. Sunday (July 2nd, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
+1. Monday (July 3rd, 2023):
+   - [ ] Either compose something worth perusing or accomplish something worth documenting;
+   - [ ] Doing the correct thing holds more significance than simply doing things correctly.
+
+2. Tuesday (July 4th, 2023):
+   - [ ] Either pen down something worth reading or undertake something worth writing about;
+   - [ ] Prioritizing the right course of action surpasses the pursuit of perfection.
+
+3. Wednesday (July 5th, 2023):
+   - [ ] Either produce something of literary value or engage in a noteworthy endeavor;
+   - [ ] Focusing on doing what is morally right takes precedence over executing tasks flawlessly.
+
+4. Thursday (July 6th, 2023):
+   - [ ] Either craft a piece worth perusing or embark on a venture worth documenting;
+   - [ ] Placing emphasis on moral integrity outweighs the pursuit of procedural perfection.
+
+5. Friday (July 7th, 2023):
+   - [ ] Either create written content worth reading or undertake a task worth documenting;
+   - [ ] The significance lies in choosing the right course of action rather than obsessing over meticulous execution.
+
+6. Saturday (July 8th, 2023):
+   - [ ] Either produce written material worth reading or engage in a meaningful endeavor worth documenting;
+   - [ ] Prioritizing ethical decision-making holds more value than striving for flawless implementation.
+
+7. Sunday (July 9th, 2023):
+   - [ ] Either write something worth reading or undertake a meaningful action worth documenting;
+   - [ ] It is more important to make morally sound choices than to focus solely on executing tasks flawlessly.
+
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
+## in the near future
+高温假期，去杭州做饭。绍师姐有空，给她做饭。
+
+
 # some advice
 ## xiaokai's advice
 I remember your boss is doing embedded, so he should be proficient in C++ first.
