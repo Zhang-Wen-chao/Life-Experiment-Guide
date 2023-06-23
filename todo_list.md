@@ -87,10 +87,11 @@ anayway, learn to everyone.
    - [x] I've watched HouJie' oop cpp to the 3th episode.
    - [x] I've watched C++ Primier book to 158 pages.
 5. Friday (June 23rd, 2023):
-   - [x] I've watched HouJie' oop cpp to the 6th episode.
+   - [x] I've watched HouJie' oop cpp to the 7th episode.
    - [x] organize files.
    - [x] I've heard Utada Hikaru's album on July 25, 2001.
 6. Saturday (June 24th, 2023):
+   - [ ] I've watched HouJie' oop cpp to the ?th episode.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库

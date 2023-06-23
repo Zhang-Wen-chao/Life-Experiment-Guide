@@ -24,6 +24,14 @@
 除了房车，其他尽量都不买呗。
 # necessities of life
 买大件物品一定要想好，需要贷款分期吗？断供风险有多大？最好都不要负债，信用卡分期堪比高利贷。
+2023/6/23：也不是非要买苹果设备，我手上的设备感觉很难在短期内用坏。能用就行。
+Apple vision pro can repalce monitors!
+一定要有全球视野，不能说一个电子设备只能在地区使用。所以，我只买国际化品牌：苹果、三星、联想、特斯拉。
+迁就的次序一定想清楚。因为房子有充电状，才买电车。因为这个电车可以用apple car play才买苹果手机。买什么电脑，那是看工作需要、家庭需要。
+- 家用轿车：tesla.
+- 手机：iphone se 4 还是可以期待一下。iphone 13 mini也不错。
+- 电脑：联想台式机，或者自己组装。
+- 平板：Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点。直接取代手机，因为感觉手机对我用处也不大。用平板背上我的北师大帆布包，带个蓝牙耳机，挺合适的，也不会错过电话。8+是因为我去店里看了，能配上键盘，这就可以实现简单的文字处理了，甚至是用向日葵写代码。电脑模式真正做好的只有三星，适配所有软件，其他厂商完全相反，几乎所有软件都不适配。
 ## house
 24小时的居民用电，自来水。用电安全，地线，漏保。
 
@@ -39,7 +47,7 @@
 
 但是买房的话，一定要算清楚，到工作地点、大型商超、小型生活超市、快递点、加油站等地有多远，各种快递、各种买菜软件能否上门。
 
-需要两个卫生间吗？
+需要两个卫生间吗？不需要。
 ### fitment
 不买什么：电视。
 
@@ -57,10 +65,9 @@
 买tesla model 3，带T的排量大，加速度大，有给手机充电的口，能用苹果的 carplay。
 京东特斯拉官方店，坐等2.5万美元入门款特斯拉上市。夜晚3毛一度电可太省钱了。
 新能源汽车专用牌照额度将向纯电动汽车和燃料电池汽车倾斜。上海户口买新能源还是免费上沪牌。
-## electronic products
-### what do I have now
-
-mechanical keyboard. logitech mouse G300s(https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
+## electronic products that I have
+1. mechanical keyboard. 
+2. logitech mouse G300s(https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
 
 暂时就想到蓝色红色两个模式下，能做什么。日后随着使用，再想黄色的需求。
 
@@ -68,21 +75,15 @@ mechanical keyboard. logitech mouse G300s(https://support.logi.com/hc/zh-cn/arti
 
 ![logitech_blue](../images/logitech_blue.png "logitech_blue")
 
-1. iPhone se 2，Purchased on 2021/06/16
+3. iPhone se 2，Purchased on 2021/06/16
    - 2022/9/3，换一块飞毛腿电池。
    - 2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
-2. others
+4. others
    - Purchased on 2022/01/01：长虹小太阳，美的微波炉，飞科电吹风。3 years full warranty and replacement.
    - Purchased on 2022/09/11，绿联网线转接器。3 years full warranty and replacement.
    - Purchased on 2022/09/15，九号c15电滑板。3 years full warranty and replacement.
-   - Purchased on 2022/11/22，绿联type-c拓展坞. 4-year renewal and upgrade service.
-### what do I want to buy in the future
-2023/6/23：也不是非要买苹果设备，我手上的设备感觉很难在短期内用坏。能用就行。
-Apple vision pro can repalce monitors!
-
-Galaxy Tab S8+，可以的，5g，能打电话，还能给其他设备放热点。直接取代手机，因为感觉手机对我用处也不大。用平板背上我的北师大帆布包，带个蓝牙耳机，挺合适的，也不会错过电话。8+是因为我去店里看了，能配上键盘，这就可以实现简单的文字处理了，甚至是用向日葵写代码。电脑模式真正做好的只有三星，适配所有软件，其他厂商完全相反，几乎所有软件都不适配
-
-另一个可选项是华为matepad se的LTE版本，23年2月上市的。但不能用谷歌、没有5G。
+   - Purchased on 2022/11/22，绿联type-c拓展坞。4-year renewal and upgrade service.
+   - Purchased on 2022/11/22, 天猫精灵。鸡肋，除非独居才能用。
 # insurance
 我是b型血；不要献血。
 保持自律的生活，不熬夜。前提就是你要把你的效率提高，在有限的时间内把事情做完，用早起的时间。饮食结构比较符合中国营养膳食指南中所说的那种蔬菜。运动。心态要好。
