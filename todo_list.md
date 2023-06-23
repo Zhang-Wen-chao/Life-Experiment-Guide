@@ -114,13 +114,13 @@ anayway, learn to everyone.
    - [x] I've watched HouJie' oop cpp to the 3th episode.
    - [x] I've watched C++ Primier book to 158 pages.
 5. Friday (June 23rd, 2023):
-   - [ ] I've watched HouJie' oop cpp to the 5th episode.
+   - [x] I've watched HouJie' oop cpp to the 6th episode.
+   - [x] organize files.
+6. Saturday (June 24th, 2023):
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
-6. Saturday (June 24th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
 7. Sunday (June 25th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
 
