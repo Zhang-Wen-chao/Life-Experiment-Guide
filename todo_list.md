@@ -91,7 +91,8 @@ anayway, learn to everyone.
    - [x] organize files.
    - [x] I've heard Utada Hikaru's album on July 25, 2001.
 6. Saturday (June 24th, 2023):
-   - [ ] I've watched HouJie' oop cpp to the ?th episode.
+   - [x] I've watched HouJie' oop cpp to the 10th episode.
+   - [x] I've heard Utada Hikaru's album on Nov. 28, 2001.
    - [ ] start the learning of eight-part essay.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
@@ -115,7 +116,7 @@ anayway, learn to everyone.
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
 6. Saturday (July 1st, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] Go to Wuxi to cook for Shao.
    - [ ] It is more important to do the right thing than to do things right.
 7. Sunday (July 2nd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
@@ -212,7 +213,7 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 ## in the near future
-高温假期，去杭州做饭。绍师姐有空，给她做饭。
+高温假期，去杭州做饭。
 
 
 # some advice
