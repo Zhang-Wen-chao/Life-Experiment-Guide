@@ -8,5 +8,4 @@
 5. 相信常识、拒绝传奇。相信大概率、应对黑天鹅。
 6. 失败不是成功之母，对失败的反思才是，走心落地的复盘。
 7. 本庶佑時常強調，做一位科學家最重要的是好奇心與勇氣，永遠不要輕易放過研究中的偶然發現。他在來台演講時也提醒學生「不要相信教科書」，要仔細發現教科書中的不合理之處：「你必須心存懷疑，自己去思考為什麼。」
-## What's the purpose of my being?
-"Clark，在我求学的时候，我看到了很多比我优秀的人才，无论是智力还是背景，但是你知道吗，我不觉得没钱没背景就是平庸，那是别人贴给你标签。唯有你自己内心的平庸，才是毁掉你人生的平庸。你内心的平庸，就是你失去追求卓越信念的那个瞬间。(Your internal mediocrity is themoment when you lost the faith of being excellent.)你以后会遇到很多机遇，但你的平庸会毁掉它们。当你觉得自己做的还不错的时候，你已经杀死了那个能够让你做的更好的自己。(When you get the feeling that your work is OK, you have got killed another 'you' who can make it much better.)"
+8. "Clark，在我求学的时候，我看到了很多比我优秀的人才，无论是智力还是背景，但是你知道吗，我不觉得没钱没背景就是平庸，那是别人贴给你标签。唯有你自己内心的平庸，才是毁掉你人生的平庸。你内心的平庸，就是你失去追求卓越信念的那个瞬间。(Your internal mediocrity is themoment when you lost the faith of being excellent.)你以后会遇到很多机遇，但你的平庸会毁掉它们。当你觉得自己做的还不错的时候，你已经杀死了那个能够让你做的更好的自己。(When you get the feeling that your work is OK, you have got killed another 'you' who can make it much better.)"

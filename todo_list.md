@@ -103,14 +103,14 @@ anayway, learn to everyone.
    - [x] I've heard Utada Hikaru's album on Nov. 28, 2001.
    - [x] organize files.
    - [x] go to a concert.
-   - [ ] chat with xiongni. talk about going abroad.
 7. Sunday (June 25th, 2023):
+   - [ ] I've watched HouJie' second part cpp to the ??th episode.
    - [ ] wang:看文档。等板卡。等需求。
 请教wangtao什么是网络编程、多线程编程。
 私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
 你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
 
-仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。
+仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
 ## this week
 1. Monday (June 26th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
