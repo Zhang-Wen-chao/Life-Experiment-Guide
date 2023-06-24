@@ -103,6 +103,7 @@ anayway, learn to everyone.
    - [x] I've heard Utada Hikaru's album on Nov. 28, 2001.
    - [x] organize files.
    - [x] go to a concert.
+   - [x] watch bilibili video.
 7. Sunday (June 25th, 2023):
    - [ ] I've watched HouJie' second part cpp to the ??th episode.
    - [ ] wang:看文档。等板卡。等需求。
