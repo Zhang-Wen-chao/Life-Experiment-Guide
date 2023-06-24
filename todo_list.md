@@ -1,6 +1,14 @@
+# 时间管理
+时间应该用来浪费在美好的事情上，而不是枯燥乏味的工作。
+
+如果你认为一件事情是乏味的就应该研究优化操作流程，让你用最少的时间做最多的事情。 
+
+你应该教孩子如何高效率的完成事情，而不是强迫孩子，傻坐在课桌前一整天，结果啥也没学会。如果你家孩子真的是只能坚持一个小时专心学习，那么每天就认真学一个小时，也比傻坐12个小时的摸鱼要强。
+
+时间管理还能应用在，洗衣服，做饭，办事，以及时间和金钱的平衡优化上。计算你自己时间和金钱的汇率，对比商品和服务的金钱和时间汇率。看看是自己花时间划算，还是用钱买划算。不要什么事情都自己做，也不要什么东西都用钱解决。
 # what is my goal
 have to work hard to find a job
-听说字节跳动是免费吃饭的。所以，我的目标就是去字节跳动上班。对，就是这么没出息。
+听说字节跳动是免费吃饭的。所以，我的目标就是去字节跳动上班。对，就是这么没出息。因为我认为，我的时间不能浪费在做饭上，我又不愿意为饭菜花更多的钱。
 ## 失败的思维方式：贫穷就得多吃苦
 稻盛和夫先生说：大多数人对吃苦的含义可能理解的太肤浅。穷，并不是吃苦。穷就是穷，吃苦不是忍受贫穷的能力。吃苦的本质，是长时间为了某个目标而聚焦的能力，在这个过程中，放弃娱乐生活，放弃无效社交，放弃无意义的消费以及在过程中不被理解的孤独。它本质是种自控力，自制力，坚持和深度思考的能力。从很大程度上来说靠自己成功的富人，往往能比穷人更能吃苦耐劳，否则他不可能白手起家。你会看到他富有之后还是比普通人勤奋，比普通人能忍受孤独,还更有理想。这才是“吃苦”。
 
@@ -91,18 +99,26 @@ anayway, learn to everyone.
    - [x] organize files.
    - [x] I've heard Utada Hikaru's album on July 25, 2001.
 6. Saturday (June 24th, 2023):
-   - [x] I've watched HouJie' oop cpp to the 10th episode.
+   - [x] I've watched HouJie' second part cpp to the 10th episode. I can't understand again.
    - [x] I've heard Utada Hikaru's album on Nov. 28, 2001.
-   - [ ] start the learning of eight-part essay.
-   - [ ] 熟悉网络编程、多线程编程技术
-   - [ ] 熟悉Redis，Mysql等数据库
-   - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
+   - [x] organize files.
+   - [x] go to a concert.
+   - [ ] chat with xiongni. talk about going abroad.
 7. Sunday (June 25th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
+   - [ ] wang:看文档。等板卡。等需求。
+请教wangtao什么是网络编程、多线程编程。
+私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
+你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
+
+仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。
 ## this week
 1. Monday (June 26th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
+   - [ ] start the learning of eight-part essay.
+   - [ ] 熟悉网络编程、多线程编程技术
+   - [ ] 熟悉Redis，Mysql等数据库
+   - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
 2. Tuesday (June 27th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
@@ -115,18 +131,13 @@ anayway, learn to everyone.
 5. Friday (June 30th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
+   - [ ] eat dinner with Xia.
 6. Saturday (July 1st, 2023):
    - [ ] Go to Wuxi to cook for Shao.
    - [ ] It is more important to do the right thing than to do things right.
 7. Sunday (July 2nd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
-
-
-wang:看文档。等板卡。等需求。
-请教wangtao什么是网络编程、多线程编程。
-私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
-你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
 
 Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
@@ -159,6 +170,7 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 2. Tuesday (July 4th, 2023):
    - [ ] Either pen down something worth reading or undertake something worth writing about;
    - [ ] Prioritizing the right course of action surpasses the pursuit of perfection.
+   - [ ] Xia's Birthday. What gift should I give her?
 
 3. Wednesday (July 5th, 2023):
    - [ ] Either produce something of literary value or engage in a noteworthy endeavor;
@@ -179,7 +191,6 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 7. Sunday (July 9th, 2023):
    - [ ] Either write something worth reading or undertake a meaningful action worth documenting;
    - [ ] It is more important to make morally sound choices than to focus solely on executing tasks flawlessly.
-
 
 ```
 1. Monday (July 3rd, 2023):
@@ -288,3 +299,21 @@ http://devplatform.cambricon.com:30080/server
 不要对什么东西抗拒，可能以后会有用；看完之后，太基础的东西是好，但是要动手；可以从实际经验出发。
 这么讲，你到底想去做什么，可能为时尚早，随着认知加深，
 你的经历可能会改变你的看法。项目的附加值是最高的。
+## 箴言
+淼哥：每个人都会的就不值钱了。所以你要掌握稀缺的东西。
+
+邵师姐：拿到手的才是你的，其他都不是。你就好好学习找份好工作把，到时候我给你介绍对象。
+
+郭老师：两分钟说清一件事，是一件本事。精准的两分钟。用尽一切力量和最优秀的人在一起。
+
+美院李教授：细节决定成败是废话。面子会要你的命。动了心，一切皆有可能。
+
+陈大岳教授：人生不是平稳过程，但遍历定理仍然成立！读研或出国只是延缓了选择，书中没有黄金屋，书中也没有颜如玉。
+
+韩教练：Be yourself，be natural，be relax。掌声对你没用！
+
+函姐：谦谦君子，温润如玉。情深不寿，强则极辱。愿你在未来的工作中，永葆君子气质，克制情深，收放自如。不要怕，不要悔，爱自己。
+
+李显龙总理转述纳斯特总裁的话：世界上最宝贵的资源是信用。要赢得别人的信任，我们必须兑现承诺，并付出更大的努力去守护这份信用。
+
+郭师姐：慎重考虑去美国，黄种人歧视，治安问题；不要为了phd的名号去读phd，读phd更多的是要搞学术。去美国定居就更要慎重了，孤独、文化无法融入。
