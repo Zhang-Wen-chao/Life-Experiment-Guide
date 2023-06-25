@@ -226,14 +226,12 @@ Can you write in this style for the next week? I hope you also wrap the content 
 高温假期，去杭州做饭。
 把kindle存上几百本书，给大姐家的闺女。如果我回家的话。
  -->
-
-
 # some advice
 ## xiaokai's advice
 I remember your boss is doing embedded, so he should be proficient in C++ first.
 
 如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
-# jilin's advice
+## jilin's advice
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
 
 我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
@@ -243,7 +241,7 @@ I remember your boss is doing embedded, so he should be proficient in C++ first.
 我觉得没有必要这么想。算法薪资高，但是压力也会很大。因为不确定很高
 
 每一个岗位都有自己晋升的路线，最后大家不会差很多的.最终决定高度的不适什么岗位，也不是发了多少paper，最终决定的甚至不一定是技术多强.leadership & communication更重要一些
-# Proverbs from Taiwanese brothers:
+## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
 提供偉大的Razavi拍攝的電子學影片資源 https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos?view=0&sort=da&flow=grid
 https://hom-wang.gitbooks.io/verilog-hdl/content/
