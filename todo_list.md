@@ -105,13 +105,13 @@ anayway, learn to everyone.
    - [x] go to a concert.
    - [x] watch bilibili video.
 7. Sunday (June 25th, 2023):
-   - [x] I've watched HouJie' second part cpp to the 15th episode.
-   - [ ] wang:看文档。等板卡。等需求。
+   - [x] I've watched HouJie' STL part to the 4th episode.
+   - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
 <!-- 请教wangtao什么是网络编程、多线程编程。
 私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
-你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
+你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。 -->
 
-仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。 -->
+仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
 ## this week
 1. Monday (June 26th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
@@ -193,7 +193,7 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 7. Sunday (July 9th, 2023):
    - [ ] Either write something worth reading or undertake a meaningful action worth documenting;
    - [ ] It is more important to make morally sound choices than to focus solely on executing tasks flawlessly.
-
+<!-- 
 ```
 1. Monday (July 3rd, 2023):
    - [ ] Either compose something worth perusing or accomplish something worth documenting;
@@ -225,16 +225,20 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
+ -->
 ## in the near future
 高温假期，去杭州做饭。
+
 把kindle存上几百本书，给大姐家的闺女。如果我回家的话。
 
 # some advice
 ## xiaokai's advice
 I remember your boss is doing embedded, so he should be proficient in C++ first.
+
 如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
 # jilin's advice
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
+
 我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
 
 算法岗位可能你说的是ML/AI这种岗位吧。这种确实一般需要学术水平很高或者PHD。前后端开发也很好啊，然后慢慢的做一些架构的工作，都可以独当一面的。所以这个倒是不用担心
