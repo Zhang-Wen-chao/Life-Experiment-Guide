@@ -105,13 +105,13 @@ anayway, learn to everyone.
    - [x] go to a concert.
    - [x] watch bilibili video.
 7. Sunday (June 25th, 2023):
-   - [ ] I've watched HouJie' second part cpp to the ??th episode.
+   - [x] I've watched HouJie' second part cpp to the 15th episode.
    - [ ] wang:看文档。等板卡。等需求。
-请教wangtao什么是网络编程、多线程编程。
+<!-- 请教wangtao什么是网络编程、多线程编程。
 私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
 你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。
 
-仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
+仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。 -->
 ## this week
 1. Monday (June 26th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
@@ -129,12 +129,13 @@ anayway, learn to everyone.
 4. Thursday (June 29th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
+   - [ ] cancel eating dinner with Xia on Friday.
 5. Friday (June 30th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
    - [ ] eat dinner with Xia.
 6. Saturday (July 1st, 2023):
-   - [ ] Go to Wuxi to cook for Shao.
+   - [ ] Go to Wuxi to cook for Shao. Learn coffee latte art.
    - [ ] It is more important to do the right thing than to do things right.
 7. Sunday (July 2nd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
@@ -226,7 +227,7 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 ## in the near future
 高温假期，去杭州做饭。
-
+把kindle存上几百本书，给大姐家的闺女。如果我回家的话。
 
 # some advice
 ## xiaokai's advice
