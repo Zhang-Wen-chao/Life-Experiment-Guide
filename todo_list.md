@@ -105,21 +105,10 @@ anayway, learn to everyone.
    - [x] go to a concert.
    - [x] watch bilibili video.
 7. Sunday (June 25th, 2023):
-   - [x] I've watched HouJie' STL part to the 4th episode.
-   - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
-<!-- 请教wangtao什么是网络编程、多线程编程。
-私下给wang说我的诉求。明确一下赵老师的意思。赵老师说的是，不给我留学习的时间，就把我当打工仔用。参与到实际的项目上。不给我留学习的时间。提升我打工的能力，提升我做工程的能力。
-你现在已经参与这些项目了，所以，如果需要出差去洛阳，那一定要带上我。这是我能说上话的地方。 -->
-
-仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
+   - [x] I've watched HouJie' STL part to the 8th episode.
 ## this week
 1. Monday (June 26th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
-   - [ ] start the learning of eight-part essay.
-   - [ ] 熟悉网络编程、多线程编程技术
-   - [ ] 熟悉Redis，Mysql等数据库
-   - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
+   - [ ] I've watched HouJie' STL part to the 8th episode.
 2. Tuesday (June 27th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
@@ -140,7 +129,13 @@ anayway, learn to everyone.
 7. Sunday (July 2nd, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
-
+<!-- 
+   - [ ] 熟悉网络编程、多线程编程技术
+   - [ ] 熟悉Redis，Mysql等数据库
+   - [ ] 仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
+   - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
+   - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
+   - [ ] start the learning of eight-part essay.
 Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
 -计算机或相关专业本科及以上学历
@@ -164,6 +159,7 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 [] https://vuejs.org/
 
 [] 快找到杨说的pytorch实战，过一遍。武的也过一遍。
+ -->
 ## next week
 1. Monday (July 3rd, 2023):
    - [ ] Either compose something worth perusing or accomplish something worth documenting;
@@ -225,11 +221,12 @@ Learn from the strong: The best friends of senior sisters are in securities, Bro
 
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
- -->
-## in the near future
-高温假期，去杭州做饭。
 
+
+高温假期，去杭州做饭。
 把kindle存上几百本书，给大姐家的闺女。如果我回家的话。
+ -->
+
 
 # some advice
 ## xiaokai's advice
@@ -323,3 +320,6 @@ http://devplatform.cambricon.com:30080/server
 李显龙总理转述纳斯特总裁的话：世界上最宝贵的资源是信用。要赢得别人的信任，我们必须兑现承诺，并付出更大的努力去守护这份信用。
 
 郭师姐：慎重考虑去美国，黄种人歧视，治安问题；不要为了phd的名号去读phd，读phd更多的是要搞学术。去美国定居就更要慎重了，孤独、文化无法融入。
+
+执行长的人生经验：不清楚方向没关系，试试看，找一个工作：要喜欢。最重要不是大公司品牌，重要的是为什么人，和什么人工作，我什么都没学到，我跟这个人在一起学到很多。小公司也可以学到很多，大公司有很多资源但看你能不能接触到，重要的是试试看。如果你的部门在公司架构上就体现不出来，那你是没出路的。
+实体经济为本，金融为实体服务。
