@@ -107,10 +107,12 @@ anayway, learn to everyone.
    - [x] go to a concert.
    - [x] watch bilibili video.
 7. Sunday (June 25th, 2023):
-   - [x] I've watched HouJie' STL part to the 8th episode.
+   - [x] I've watched HouJie' STL part to the 16th episode.
+   - [x] I've heard Utada Hikaru's album on Jan. 1, 2002.
 ## this week
 1. Monday (June 26th, 2023):
    - [ ] I've watched HouJie' STL part to the 8th episode.
+   - [ ] I've heard Utada Hikaru's album on Jan. 1, 2002.
 2. Tuesday (June 27th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
