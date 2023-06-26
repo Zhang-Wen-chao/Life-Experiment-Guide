@@ -111,7 +111,9 @@ anayway, learn to everyone.
    - [x] I've heard Utada Hikaru's album on Jan. 1, 2002.
 ## this week
 1. Monday (June 26th, 2023):
-   - [ ] I've watched HouJie' STL part to the 8th episode.
+   - [x] chat with Min's husband.
+   - [x] chat with Che sister.
+   - [ ] I've watched HouJie' STL part to the 40th episode.
    - [ ] I've heard Utada Hikaru's album on Jan. 1, 2002.
 2. Tuesday (June 27th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
@@ -136,11 +138,9 @@ anayway, learn to everyone.
 <!-- 
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
-   - [ ] 仔细看看bilibili一只甜猫投递的企业，还有我在github收藏的，然后呢，开始投。毕竟leetcode也得开始有自己的风格。不要嫌弃小公司，使劲投就完事了。简历呢，看看小红书上，那位同志是怎么写的，感觉挺好的。
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
    - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
    - [ ] start the learning of eight-part essay.
-Learn from the strong: The best friends of senior sisters are in securities, Brother Zhang Miao, Brother Yan Jilin, Menova, Zhang Boli in Zhihu.
 
 -计算机或相关专业本科及以上学历
 -熟练掌握计算机数据结构和算法设计，熟悉C/C++语言编程
@@ -230,21 +230,6 @@ Can you write in this style for the next week? I hope you also wrap the content 
 高温假期，去杭州做饭。
 把kindle存上几百本书，给大姐家的闺女。如果我回家的话。
  -->
-# some advice
-## xiaokai's advice
-I remember your boss is doing embedded, so he should be proficient in C++ first.
-
-如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
-## jilin's advice
-去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
-
-我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
-
-算法岗位可能你说的是ML/AI这种岗位吧。这种确实一般需要学术水平很高或者PHD。前后端开发也很好啊，然后慢慢的做一些架构的工作，都可以独当一面的。所以这个倒是不用担心
-
-我觉得没有必要这么想。算法薪资高，但是压力也会很大。因为不确定很高
-
-每一个岗位都有自己晋升的路线，最后大家不会差很多的.最终决定高度的不适什么岗位，也不是发了多少paper，最终决定的甚至不一定是技术多强.leadership & communication更重要一些
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
 提供偉大的Razavi拍攝的電子學影片資源 https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos?view=0&sort=da&flow=grid
@@ -324,4 +309,3 @@ http://devplatform.cambricon.com:30080/server
 郭师姐：慎重考虑去美国，黄种人歧视，治安问题；不要为了phd的名号去读phd，读phd更多的是要搞学术。去美国定居就更要慎重了，孤独、文化无法融入。
 
 执行长的人生经验：不清楚方向没关系，试试看，找一个工作：要喜欢。最重要不是大公司品牌，重要的是为什么人，和什么人工作，我什么都没学到，我跟这个人在一起学到很多。小公司也可以学到很多，大公司有很多资源但看你能不能接触到，重要的是试试看。如果你的部门在公司架构上就体现不出来，那你是没出路的。
-实体经济为本，金融为实体服务。
