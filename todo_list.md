@@ -122,10 +122,13 @@ anayway, learn to everyone.
    - [x] I've heard Utada Hikaru's album on Jan. 1, 2004.
    - [x] sent resume to tencent.
    - [x] read aaxiu's questions.
+   - [x] Start leetcode again.
 3. Wednesday (June 28th, 2023):
    - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
    - [ ] I've heard Utada Hikaru's album on Jan. 1, 2004.
-   - [ ] leetcode再来一遍。
+   - [ ] 熟悉Redis，Mysql等数据库
+   - [ ] 6点回来吃饭，leetcode.
+   - [ ] 熟悉网络编程、多线程编程技术
 4. Thursday (June 29th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
@@ -141,8 +144,6 @@ anayway, learn to everyone.
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
 <!-- 
-   - [ ] 熟悉网络编程、多线程编程技术
-   - [ ] 熟悉Redis，Mysql等数据库
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
    - [ ] start the learning of eight-part essay.
 
@@ -161,8 +162,6 @@ anayway, learn to everyone.
 [] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
 
 [] https://developer.mozilla.org/en-US/docs/Learn
-
-[] 可以直接学`vue`
 
 [] https://vuejs.org/
 
