@@ -116,13 +116,16 @@ anayway, learn to everyone.
    - [x] chat with wenjuan.
    - [x] chat with wang shiyu.
    - [x] I've watched HouJie's STL part to the 33th episode.
-   - [x] I've heard Utada Hikaru's album on Jun. 29, 2002.
+   - [x] I've heard Utada Hikaru's album on Jun. 19, 2002.
 2. Tuesday (June 27th, 2023):
-   - [ ] I've watched LiJianzhong's design pattern to the 4th episode.
-   - [ ] I've heard Utada Hikaru's album on Jun. 29, 2002.
+   - [x] I've watched LiJianzhong's design pattern to the 12th episode.
+   - [x] I've heard Utada Hikaru's album on Jan. 1, 2004.
+   - [x] sent resume to tencent.
+   - [x] read aaxiu's questions.
 3. Wednesday (June 28th, 2023):
-   - [ ] Either write something worth reading or do something worth writing;
-   - [ ] It is more important to do the right thing than to do things right.
+   - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
+   - [ ] I've heard Utada Hikaru's album on Jan. 1, 2004.
+   - [ ] leetcode再来一遍。
 4. Thursday (June 29th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
@@ -141,7 +144,6 @@ anayway, learn to everyone.
    - [ ] 熟悉网络编程、多线程编程技术
    - [ ] 熟悉Redis，Mysql等数据库
    - [ ] [向这位小兄弟学习cpp](https://07xiaohei.com/)
-   - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。
    - [ ] start the learning of eight-part essay.
 
 -计算机或相关专业本科及以上学历
