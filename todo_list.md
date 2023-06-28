@@ -124,13 +124,14 @@ anayway, learn to everyone.
    - [x] read aaxiu's questions.
    - [x] Start leetcode again.
 3. Wednesday (June 28th, 2023):
+   - [ ] configure zsh on shic server.
    - [ ] wang:看文档。等板卡。等需求。看寒武纪的软件栈视频。这个工作，必须做好，让工程师对我刮目相看，愿意倾囊相授。
    - [ ] 完成腾讯测评。
    - [ ] I've heard Utada Hikaru's album on Jan. 1, 2004.
    - [ ] 熟悉Redis，Mysql等数据库
    - [ ] 6点回来吃饭，leetcode.（必须多线程多任务共同推进）
    - [ ] 熟悉网络编程、多线程编程技术
-   - [ ] 问问chatgpt,自己的一个github帐号，怎么在两台电脑上来回更新同一个仓库? 还是说，我在学校电脑上登陆zvvc,在处理器登陆zwc开启copilot?毕竟在学校的时间短了。学校电脑可以主打不连外网。先把working at shic给弄到公司服务器上也行。然后，todolist直接迁移。人生实验指南可以长时间不更新的。最重要的的就是，在公司服务器也能好好用。对，开始配置oh my zsh.
+   - [ ] 问问chatgpt,自己的一个github帐号，怎么在两台电脑上来回更新同一个仓库? 还是说，我在学校电脑上登陆zvvc,在处理器登陆zwc开启copilot?毕竟在学校的时间短了。学校电脑可以主打不连外网。先把working at shic给弄到公司服务器上也行。然后，todolist直接迁移。人生实验指南可以长时间不更新的。d
 4. Thursday (June 29th, 2023):
    - [ ] Either write something worth reading or do something worth writing;
    - [ ] It is more important to do the right thing than to do things right.
