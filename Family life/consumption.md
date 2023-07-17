@@ -92,15 +92,6 @@ iwatch蜂窝手表可以接短信吗
 新能源汽车专用牌照额度将向纯电动汽车和燃料电池汽车倾斜。上海户口买新能源还是免费上沪牌。
 夜晚3毛一度电可太省钱了。
 ## electronic products that I have
-1. mechanical keyboard. 
-2. logitech mouse G300s(https://support.logi.com/hc/zh-cn/articles/360025298053   https://www.logitechg.com.cn/zh-cn/innovation/g-hub.html)
-
-暂时就想到蓝色红色两个模式下，能做什么。日后随着使用，再想黄色的需求。
-
-![logitech_red](../images/logitech_red.png "logitech_red")
-
-![logitech_blue](../images/logitech_blue.png "logitech_blue")
-
 3. iPhone se 2，Purchased on 2021/06/16
    - 2022/9/3，换一块飞毛腿电池。
    - 2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
