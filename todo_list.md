@@ -112,7 +112,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Reorganize the GitHub repository structure
    - [x] 芮淇讲透资治通鉴，该看：第48集.
 4. Thursday (July 20th, 2023):
-   - [x] I've heard lady gaga's album on 2011-05-22.
+   - [x] I've heard lady gaga's album on 2014-03-16.
    - [x] And then go through design patterns again, rookie.
    - [ ] Then go watch the Houjie video again.
 5. Friday (July 21st, 2023):
