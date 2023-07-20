@@ -117,7 +117,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] Then go watch the Houjie video again.
 5. Friday (July 21st, 2023):
    - [ ] 芮淇讲透资治通鉴，该看：第48集.
-   - [ ] Then go through the original book, design patterns again. 
+   - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
