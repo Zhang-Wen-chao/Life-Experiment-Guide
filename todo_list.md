@@ -113,10 +113,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 芮淇讲透资治通鉴，该看：第48集.
 4. Thursday (July 20th, 2023):
    - [x] I've heard lady gaga's album on 2011-05-22.
-   - [ ] And then go through design patterns again, rookie. 
+   - [x] And then go through design patterns again, rookie.
+   - [ ] Then go watch the Houjie video again.
+5. Friday (July 21st, 2023):
    - [ ] 芮淇讲透资治通鉴，该看：第48集.
    - [ ] Then go through the original book, design patterns again. 
-   - [ ] Then go watch the Houjie video again.
    - [ ] write a report about design patterns.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
@@ -125,11 +126,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍
    - [ ] vscode怎么使用clang作为编译器，而不是gcc？抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
-   - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上所有的东西都搬到GitHub仓库
-5. Friday (July 21st, 2023):
-   - [ ] Either create code that solves a complex problem or contribute to an open-source project;
-   - [ ] The significance lies in choosing the right course of action rather than obsessing over meticulous execution.
-
+   - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
 6. Saturday (July 22nd, 2023):
    - [ ] Either write an insightful blog post or engage in a meaningful discussion with like-minded individuals;
    - [ ] Prioritizing knowledge sharing and collaboration holds more value than striving for individual success.
