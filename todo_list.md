@@ -114,9 +114,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
 4. Thursday (July 20th, 2023):
    - [x] I've heard lady gaga's album on 2014-03-16.
    - [x] And then go through design patterns again, rookie.
-   - [ ] Then go watch the Houjie video again.
+   - [x] chat with zhou kaiyue.
+   - [x] 芮淇讲透资治通鉴，该看：第64集.
 5. Friday (July 21st, 2023):
-   - [ ] 芮淇讲透资治通鉴，该看：第48集.
+   - [ ] Then go watch the Houjie video again.
    - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
