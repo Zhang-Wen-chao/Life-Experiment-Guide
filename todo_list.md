@@ -118,6 +118,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 芮淇讲透资治通鉴，该看：第64集.
 5. Friday (July 21st, 2023):
    - [ ] Then go watch the Houjie video again.
+   - [ ] multi threads.
    - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
