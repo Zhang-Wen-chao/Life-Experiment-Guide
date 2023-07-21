@@ -117,7 +117,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] chat with zhou kaiyue.
    - [x] 芮淇讲透资治通鉴，该看：第64集.
 5. Friday (July 21st, 2023):
-   - [ ] Then go watch the Houjie video again.
+   - [x] Then go watch the LiJianZhong's video again.
+   - [x] 芮淇讲透资治通鉴，该看：第67集.
+6. Saturday (July 22nd, 2023):
    - [ ] multi threads.
    - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
@@ -129,10 +131,6 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍
    - [ ] vscode怎么使用clang作为编译器，而不是gcc？抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
-6. Saturday (July 22nd, 2023):
-   - [ ] Either write an insightful blog post or engage in a meaningful discussion with like-minded individuals;
-   - [ ] Prioritizing knowledge sharing and collaboration holds more value than striving for individual success.
-
 7. Sunday (July 23rd, 2023):
    - [ ] Either develop a new skill or engage in an activity that promotes personal well-being;
    - [ ] Write weekly reports and send emails.
