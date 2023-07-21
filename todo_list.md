@@ -119,7 +119,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
 5. Friday (July 21st, 2023):
    - [x] Then go watch the LiJianZhong's video again.
    - [x] 芮淇讲透资治通鉴，该看：第67集.
+   - [x] explore the software called mouse without borders.
 6. Saturday (July 22nd, 2023):
+   - [ ] Write weekly reports and send emails.
    - [ ] multi threads.
    - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
