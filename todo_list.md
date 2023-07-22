@@ -117,14 +117,16 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] chat with zhou kaiyue.
    - [x] 芮淇讲透资治通鉴，该看：第64集.
 5. Friday (July 21st, 2023):
-   - [x] I've heard lady gaga's album on 2018-01-26.
+   - [x] I've heard lady gaga's album on 2018-03-30.
    - [x] Then go watch the LiJianZhong's video again.
    - [x] 芮淇讲透资治通鉴，该看：第67集.
    - [x] explore the software called mouse without borders.
 6. Saturday (July 22nd, 2023):
-   - [ ] 反正把微信给迁移过去。微信不是工作！再下载一个QQ，再下载腾讯会议。
-   - [ ] Write weekly reports and send emails.
+   - [x] 芮淇讲透资治通鉴，该看：第91集.
+   - [x] install office on Lenovo air 14.
+   - [x] I've heard lady gaga's album on 2018-10-05.
    - [ ] multi threads.
+   - [ ] Write weekly reports and send emails.
    - [ ] Then go through the original book, design patterns again.
    - [ ] write a report about design patterns.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
