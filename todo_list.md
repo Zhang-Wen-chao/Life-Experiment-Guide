@@ -57,43 +57,30 @@ C，python，C++，java，haskell，verilog，机器预言，二进制语言，�
 
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
-# what did I do
+# what shall I do
+<!-- 
+-熟悉网络编程、多线程编程技术，有高并发开发经验、大规模系统开发和设计经验优先
+4、有服务器、大数据开发经验者优先；熟悉Redis，Mysql等数据库，Kafka、RabbitMq等消息队列使用者优先；
+   - [ ] I decide to open a new github repository to record my deep learning notes. 算法岗位真的需要顶会才能入场吗？ - 谢利昂D忒待儿的回答 - 知乎
+https://www.zhihu.com/question/456114288/answer/1954094939
+   - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
+   - [ ] detr,sam模型移植到寒武纪。
+   - [ ] explore Redis
+   - [ ] 先找到apue这本书。然后看看里面的内容。
+   - [ ] 开始学习apue文件夹，先探索着，觉得好，就把文件纳入我的文件夹。
+   - [ ] 抽一个小时把cpp八股文写入quizlet。
+   - [ ] https://github.com/laylalaisy
+   - [ ] 寒武纪的视频, cnstream code 
+   - [ ] 滨崎步、中岛美雪、中岛美嘉、taylor swift、coldplay、queue、pink floyd, Miley Cyrus
+   - [ ] For which position to start updating my resume
+   - [ ] 可以看看高通camx中线程池实现
+   - [ ] learn to use docker. then run rt-detr on shic。请教dengting。
+   - [ ] Take Chinese and English typing test.
+   - [ ] 但是为什么line pc端不能使用网络呢？
+   - [ ] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
+   - [ ] https://developer.mozilla.org/en-US/docs/Learn
+ -->
 ## last week
-1. Monday (July 10th, 2023):
-   - [x] I've heard Aimer's album on March 20, 2013.
-   - [x] Advance the progress of leetcode.
-2. Tuesday (July 11th, 2023):
-   - [x] I've heard Aimer's album on June 11, 2014.
-   - [x] Advance the progress of leetcode.
-3. Wednesday (July 12th, 2023):
-   - [x] I've heard Aimer's album on February 22, 2015.
-   - [x] Advance the progress of leetcode.
-4. Thursday (July 13th, 2023):
-   - [x] I've heard Aimer's album on May 03, 2017.
-   - [x] Advance the progress of leetcode.
-5. Friday (July 14th, 2023):
-   - [x] I've heard Aimer's album on April 9, 2019.
-   - [x] Advance the progress of leetcode.
-   - [x] End of leetcode.
-   - [x] install tree on shic.
-   - [x] Explore crawler technology.
-   - [x] 在谢的帮助下，解决了下载图片的核心问题。
-   - [x] dingchen发了实习生岗位。我感觉非常对口，wxt还真刚给了nlp笔记。
-6. Saturday (July 15th, 2023):
-   - [x] I've heard Aimer's album on January 24, 2022.
-   - [x] 对每一个子文件，也都计算一下总耗时。然后最后再计算一下运行整个程序的时间。遗留问题：图片有名字，但无法显示，就是网络中断时候正在下载的那张图片，不知道怎么处理。
-   - [x] 还得处理化合物名字等信息怎么保存
-   - [x] Explore the powertoys software
-   - [x] 芮淇讲透资治通鉴，第4集看完了。
-   - [x] 微信扫码加入星球获取PDF，但立马申请退款。
-   - [x] 帮York转发消息。
-   - [x] 知道怎么使用quizlet了。leetcode就写算法核心思想。cpp就写各种定义。设计模式也是各种定义。
-7. Sunday (July 16th, 2023):
-   - [x] I've heard Aimer's album on January 24, 2022.
-   - [x] 牛奶已经买了，开始拉花! It is so hard.
-   - [x] Write weekly reports and send emails.
-   - [x] Start learning Wu Xiaotao's nlp notes
-## this week
 1. Monday (July 17th, 2023):
    - [x] Keep learning Wu Xiaotao's nlp notes to 6th chapter.
    - [x] I've heard Dua Lipa's album on 2020-03-27.
@@ -125,66 +112,20 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 芮淇讲透资治通鉴，该看：第91集.
    - [x] install office on Lenovo air 14.
    - [x] I've heard lady gaga's album on 2018-10-05.
-   - [ ] multi threads.
-   - [ ] Write weekly reports and send emails.
-   - [ ] Then go through the original book, design patterns again.
-   - [ ] write a report about design patterns.
+   - [x] Download the cell-painting dataset in a multithreaded manner.
+   - [x] Write weekly reports and send emails.
+7. Sunday (July 23rd, 2023):
    - [ ] Keep learning Wu Xiaotao's nlp notes.
-   - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
+   - [ ] Open zotero and write an overview of the nlp field
    - [ ] 下午去公司跑一下vae. https://github.com/zalandoresearch/pytorch-vq-vae
+   - [ ] Then go through the original book, design patterns again.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍
    - [ ] vscode怎么使用clang作为编译器，而不是gcc？抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
-7. Sunday (July 23rd, 2023):
-   - [ ] Either develop a new skill or engage in an activity that promotes personal well-being;
-   - [ ] Write weekly reports and send emails.
-<!-- 
--熟悉网络编程、多线程编程技术，有高并发开发经验、大规模系统开发和设计经验优先
-4、有服务器、大数据开发经验者优先；熟悉Redis，Mysql等数据库，Kafka、RabbitMq等消息队列使用者优先；
-   - [ ] I decide to open a new github repository to record my deep learning notes. 算法岗位真的需要顶会才能入场吗？ - 谢利昂D忒待儿的回答 - 知乎
-https://www.zhihu.com/question/456114288/answer/1954094939
-   - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
-   - [ ] detr,sam模型移植到寒武纪。
-   - [ ] explore Redis
-   - [ ] 先找到apue这本书。然后看看里面的内容。
-   - [ ] 开始学习apue文件夹，先探索着，觉得好，就把文件纳入我的文件夹。
-   - [ ] 抽一个小时把cpp八股文写入quizlet。
-   - [ ] https://github.com/laylalaisy
-   - [ ] 寒武纪的视频, cnstream code 
-   - [ ] 、滨崎步、中岛美雪、中岛美嘉、taylor swift、coldplay、queue、pink floyd, Miley Cyrus
-   - [ ] For which position to start updating my resume
-   - [ ] 可以看看高通camx中线程池实现
-   - [ ] learn to use docker. then run rt-detr on shic。请教dengting。
-   - [ ] Take Chinese and English typing test.
-   - [ ] 但是为什么line pc端不能使用网络呢？
-[] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
-
-[] https://developer.mozilla.org/en-US/docs/Learn
-
-[] https://vuejs.org/
- -->
-# who can I ask
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo
-yiqun
-weiao
-xiaotao
-zhonglei
-zhibo
-zibo
-yihao
-xiaokai
-chuanguang
-613libo
-zhaohui
-anayway, learn to everyone.
-## Any questions today
-## next week
-```
+   - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
+## this week
 1. Monday (July 24th, 2023):
    - [ ] Either delve into a thought-provoking book or engage in a creative endeavor;
    - [ ] Placing importance on continuous learning goes beyond the mere act of completing tasks.
@@ -212,6 +153,42 @@ anayway, learn to everyone.
 7. Sunday (July 30th, 2023):
    - [ ] Either practice a new skill or engage in activities that promote physical and mental well-being;
    - [ ] It is more important to find balance and take care of oneself than solely focusing on external achievements.
+# who can I ask
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
+anayway, learn to everyone.
+## Any questions today
+## next week
+```
+1. Monday (August 1st, 2023):
+   - [ ] Either explore a new form of artistic expression or engage in a creative project;
+   - [ ] Placing importance on creative exploration nurtures personal growth and fosters innovation.
+
+2. Tuesday (August 2nd, 2023):
+   - [ ] Either set aside time for personal reflection or engage in a mindfulness practice;
+   - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
+
+3. Wednesday (August 3rd, 2023):
+   - [ ] Either dedicate time to learn a new skill or expand knowledge in a specific area of interest;
+   - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
+
+4. Thursday (August 4th, 2023):
+   - [ ] Either engage in an activity that promotes physical well-being or commit to a healthy lifestyle habit;
+   - [ ] Emphasizing the importance of physical health enhances overall well-being and boosts productivity.
+
+5. Friday (August 5th, 2023):
+   - [ ] Either reach out to a friend or family member to strengthen relationships or engage in acts of kindness towards others;
+   - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment.
+
+6. Saturday (August 6th, 2023):
+   - [ ] Either spend time in nature or engage in activities that promote sustainability and environmental consciousness;
+   - [ ] Placing importance on the well-being of the environment nurtures a sense of harmony and responsibility.
+
+7. Sunday (August 7th, 2023):
+   - [ ] Either engage in a form of self-care or dedicate time for relaxation and rejuvenation;
+   - [ ] It is essential to prioritize self-care and create space for relaxation to maintain overall well-being.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
