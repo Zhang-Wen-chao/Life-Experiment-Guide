@@ -117,7 +117,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (July 23rd, 2023):
    - [x] I've heard Ayumi Hamasaki's album on 1998-04-08.
    - [ ] Keep learning Wu Xiaotao's nlp notes.
-   - [ ] Open zotero and write an overview of the nlp field
+   - [ ] Open zotero and write an overview of the nlp field.
    - [ ] 下午去公司跑一下vae. https://github.com/zalandoresearch/pytorch-vq-vae
    - [ ] Then go through the original book, design patterns again.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
