@@ -116,9 +116,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] Write weekly reports and send emails.
 7. Sunday (July 23rd, 2023):
    - [x] I've heard Ayumi Hamasaki's album on 1998-04-08.
-   - [ ] Keep learning Wu Xiaotao's nlp notes.
+   - [x] Finish the study of Wu Xiaotao's nlp course.
    - [ ] Open zotero and write an overview of the nlp field.
-   - [ ] 下午去公司跑一下vae. https://github.com/zalandoresearch/pytorch-vq-vae
+   - [ ] 跑一下pytorch-vq-vae
    - [ ] Then go through the original book, design patterns again.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
