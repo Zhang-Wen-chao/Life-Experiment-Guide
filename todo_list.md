@@ -121,19 +121,16 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 1. Monday (July 24th, 2023):
    - [x] I've heard Ayumi Hamasaki's album on 1999-12-08.
    - [x] Read several reviews of natural language processing.
-   - [x] 芮淇讲透资治通鉴，该看：第91集.
+   - [x] 该看：《资治通鉴》第97集｜白起真的是被秦王所杀？①
+   - [x] Analysis of different classes in contemporary Chinese society.
+2. Tuesday (July 25th, 2023):
    - [ ] Then go through the original book, design patterns again.
-   - [ ] 看看YouTube阶级分析。
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] vscode怎么使用clang作为编译器，而不是gcc？抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
-2. Tuesday (July 25th, 2023):
-   - [ ] Either write a reflective journal entry or embark on an activity that sparks inspiration;
-   - [ ] Prioritizing personal growth and self-reflection surpasses the pursuit of perfection.
-
 3. Wednesday (July 26th, 2023):
    - [ ] Either contribute to a meaningful cause or undertake a project with a positive impact;
    - [ ] Focusing on making a difference takes precedence over flawless execution.
