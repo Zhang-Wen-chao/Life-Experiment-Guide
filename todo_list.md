@@ -124,11 +124,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 该看：《资治通鉴》第97集｜白起真的是被秦王所杀？①
    - [x] Analysis of different classes in contemporary Chinese society.
 2. Tuesday (July 25th, 2023):
+   - [x] Start using clang as the cpp compiler.
+   - [x] I've heard Ayumi Hamasaki's album on 2000-03-08.
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
-   - [ ] vscode怎么使用clang作为编译器，而不是gcc？抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
+   - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
 3. Wednesday (July 26th, 2023):
