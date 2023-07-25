@@ -126,6 +126,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 2. Tuesday (July 25th, 2023):
    - [x] Start using clang as the cpp compiler.
    - [x] I've heard Ayumi Hamasaki's album on 2000-03-08.
+   - [x] 该看：《资治通鉴》112集｜秦始皇也是他的书迷？-上
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
