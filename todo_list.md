@@ -127,6 +127,10 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] Start using clang as the cpp compiler.
    - [x] I've heard Ayumi Hamasaki's album on 2000-03-08.
    - [x] 该看：《资治通鉴》112集｜秦始皇也是他的书迷？-上
+   - [x] install cabc0370 on my computer.
+3. Wednesday (July 26th, 2023):
+   - [x] 该看：《资治通鉴》109集｜春申君被皇帝大舅哥全族灭门-下
+   - [x] install some software on my computer.
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
@@ -134,9 +138,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
-3. Wednesday (July 26th, 2023):
-   - [ ] Either contribute to a meaningful cause or undertake a project with a positive impact;
-   - [ ] Focusing on making a difference takes precedence over flawless execution.
 
 4. Thursday (July 27th, 2023):
    - [ ] Either compose a meaningful piece of art or engage in an endeavor that fosters creativity;
