@@ -131,6 +131,14 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (July 26th, 2023):
    - [x] 该看：《资治通鉴》109集｜春申君被皇帝大舅哥全族灭门-下
    - [x] install some software on my computer.
+4. Thursday (July 27th, 2023):
+   - [x] install mlu_driver.
+5. Friday (July 28th, 2023):
+   - [x] install mlu_driver.
+6. Saturday (July 29th, 2023):
+   - [x] install mlu_driver、CNToolkit、MagicMind、Cambricon PyTorch.
+   - [x] 该看：《资治通鉴》222上
+7. Sunday (July 30th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
@@ -138,22 +146,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
-
-4. Thursday (July 27th, 2023):
-   - [ ] Either compose a meaningful piece of art or engage in an endeavor that fosters creativity;
-   - [ ] Emphasizing self-expression and artistic integrity outweighs the pursuit of procedural perfection.
-
-5. Friday (July 28th, 2023):
-   - [ ] Either solve a challenging problem with code or contribute to a collaborative coding project;
-   - [ ] The significance lies in choosing the right approach rather than obsessing over meticulous execution.
-
-6. Saturday (July 29th, 2023):
-   - [ ] Either engage in a deep conversation or connect with like-minded individuals in a meaningful way;
-   - [ ] Prioritizing open dialogue and fostering connections holds more value than solely striving for individual success.
-
-7. Sunday (July 30th, 2023):
-   - [ ] Either practice a new skill or engage in activities that promote physical and mental well-being;
-   - [ ] It is more important to find balance and take care of oneself than solely focusing on external achievements.
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
