@@ -66,17 +66,12 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
    - [ ] detr,sam模型移植到寒武纪。
    - [ ] explore Redis
-   - [ ] 先找到apue这本书。然后看看里面的内容。
-   - [ ] 开始学习apue文件夹，先探索着，觉得好，就把文件纳入我的文件夹。
    - [ ] 抽一个小时把cpp八股文写入quizlet。
    - [ ] https://github.com/laylalaisy
-   - [ ] 寒武纪的视频, cnstream code 
    - [ ] 滨崎步、中岛美雪、中岛美嘉、taylor swift、coldplay、queue、pink floyd, Miley Cyrus
    - [ ] For which position to start updating my resume
    - [ ] 可以看看高通camx中线程池实现
-   - [ ] learn to use docker. then run rt-detr on shic。请教dengting。
    - [ ] Take Chinese and English typing test.
-   - [ ] 但是为什么line pc端不能使用网络呢？
    - [ ] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
@@ -103,20 +98,19 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 该看：《资治通鉴》222上
 7. Sunday (July 30th, 2023):
    - [x] 该看：《资治通鉴》236下
+   - [ ] learn to use docker. then run rt-detr on shic。请教dengting。
 ## this week
 1. Monday (August 1st, 2023):
    - [ ] Either explore a new form of artistic expression or engage in a creative project;
    - [ ] Placing importance on creative exploration nurtures personal growth and fosters innovation.
-
 2. Tuesday (August 2nd, 2023):
    - [ ] Either set aside time for personal reflection or engage in a mindfulness practice;
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
-
 3. Wednesday (August 3rd, 2023):
    - [ ] Either dedicate time to learn a new skill or expand knowledge in a specific area of interest;
    - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
-
 4. Thursday (August 4th, 2023):
+   - [ ] 寒武纪的视频, cnstream code 
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
@@ -124,14 +118,14 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
    - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
+   - [ ] 先找到apue这本书。然后看看里面的内容。
+   - [ ] 开始学习apue文件夹，先探索着，觉得好，就把文件纳入我的文件夹。
 5. Friday (August 5th, 2023):
    - [ ] Either reach out to a friend or family member to strengthen relationships or engage in acts of kindness towards others;
    - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment.
-
 6. Saturday (August 6th, 2023):
    - [ ] Either spend time in nature or engage in activities that promote sustainability and environmental consciousness;
    - [ ] Placing importance on the well-being of the environment nurtures a sense of harmony and responsibility.
-
 7. Sunday (August 7th, 2023):
    - [ ] Either engage in a form of self-care or dedicate time for relaxation and rejuvenation;
    - [ ] It is essential to prioritize self-care and create space for relaxation to maintain overall well-being.
