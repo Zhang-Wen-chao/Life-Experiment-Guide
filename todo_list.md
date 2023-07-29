@@ -81,43 +81,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 ## last week
-1. Monday (July 17th, 2023):
-   - [x] Keep learning Wu Xiaotao's nlp notes to 6th chapter.
-   - [x] I've heard Dua Lipa's album on 2020-03-27.
-   - [x] 芮淇讲透资治通鉴，该看：第11集｜ 世界风起云涌（上）。
-2. Tuesday (July 18th, 2023):
-   - [x] I've heard lady gaga's album on 2008-08-19.
-   - [x] find the book called design patterns.
-   - [x] 芮淇讲透资治通鉴，该看：第36集.
-   - [x] meeting with professor gao.
-3. Wednesday (July 19th, 2023):
-   - [x] apply two emails named by my own name.
-   - [x] activate windows and office, then uninstall wps. and test the office. It is ok to send email with outlook.
-   - [x] I've heard lady gaga's album on 2011-05-09.
-   - [x] Let chatgpt run design patterns through first. 
-   - [x] learn to use mermaid in markdown.
-   - [x] Reorganize the GitHub repository structure
-   - [x] 芮淇讲透资治通鉴，该看：第48集.
-4. Thursday (July 20th, 2023):
-   - [x] I've heard lady gaga's album on 2014-03-16.
-   - [x] And then go through design patterns again, rookie.
-   - [x] chat with zhou kaiyue.
-   - [x] 芮淇讲透资治通鉴，该看：第64集.
-5. Friday (July 21st, 2023):
-   - [x] I've heard lady gaga's album on 2018-03-30.
-   - [x] Then go watch the LiJianZhong's video again.
-   - [x] 芮淇讲透资治通鉴，该看：第67集.
-   - [x] explore the software called mouse without borders.
-6. Saturday (July 22nd, 2023):
-   - [x] 芮淇讲透资治通鉴，该看：第91集.
-   - [x] install office on Lenovo air 14.
-   - [x] I've heard lady gaga's album on 2018-10-05.
-   - [x] Download the cell-painting dataset in a multithreaded manner.
-   - [x] Write weekly reports and send emails.
-7. Sunday (July 23rd, 2023):
-   - [x] I've heard Ayumi Hamasaki's album on 1998-04-08.
-   - [x] Finish the study of Wu Xiaotao's nlp course.
-## this week
 1. Monday (July 24th, 2023):
    - [x] I've heard Ayumi Hamasaki's album on 1999-12-08.
    - [x] Read several reviews of natural language processing.
@@ -139,22 +102,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] install mlu_driver、CNToolkit、MagicMind、Cambricon PyTorch.
    - [x] 该看：《资治通鉴》222上
 7. Sunday (July 30th, 2023):
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
-   - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
-   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
-   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
-   - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
-   - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
-   - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
-# who can I ask
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
-anayway, learn to everyone.
-## Any questions today
-## next week
-```
+   - [x] 该看：《资治通鉴》236下
+## this week
 1. Monday (August 1st, 2023):
    - [ ] Either explore a new form of artistic expression or engage in a creative project;
    - [ ] Placing importance on creative exploration nurtures personal growth and fosters innovation.
@@ -168,9 +117,13 @@ anayway, learn to everyone.
    - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
 
 4. Thursday (August 4th, 2023):
-   - [ ] Either engage in an activity that promotes physical well-being or commit to a healthy lifestyle habit;
-   - [ ] Emphasizing the importance of physical health enhances overall well-being and boosts productivity.
-
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
+   - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
+   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
+   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
+   - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
+   - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
+   - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
 5. Friday (August 5th, 2023):
    - [ ] Either reach out to a friend or family member to strengthen relationships or engage in acts of kindness towards others;
    - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment.
@@ -182,6 +135,42 @@ anayway, learn to everyone.
 7. Sunday (August 7th, 2023):
    - [ ] Either engage in a form of self-care or dedicate time for relaxation and rejuvenation;
    - [ ] It is essential to prioritize self-care and create space for relaxation to maintain overall well-being.
+# who can I ask
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
+anayway, learn to everyone.
+## Any questions today
+## next week
+```
+1. Monday (August 8th, 2023):
+   - [ ] Either engage in a physical activity or try a new exercise routine;
+   - [ ] Prioritizing physical well-being enhances energy levels and improves overall health.
+
+2. Tuesday (August 9th, 2023):
+   - [ ] Either dedicate time to practicing a hobby or explore a new interest;
+   - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
+
+3. Wednesday (August 10th, 2023):
+   - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
+   - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
+
+4. Thursday (August 11th, 2023):
+   - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
+   - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
+
+5. Friday (August 12th, 2023):
+   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
+   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
+
+6. Saturday (August 13th, 2023):
+   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
+   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
+
+7. Sunday (August 14th, 2023):
+   - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
+   - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
