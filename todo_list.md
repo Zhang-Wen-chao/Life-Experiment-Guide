@@ -87,7 +87,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 该看：《资治通鉴》112集｜秦始皇也是他的书迷？-上
    - [x] install cabc0370 on my computer.
 3. Wednesday (July 26th, 2023):
-   - [x] 该看：《资治通鉴》109集｜春申君被皇帝大舅哥全族灭门-下
+   - [x] 该看：《资治通鉴》109集｜春申君被皇帝大舅哥全族灭门
    - [x] install some software on my computer.
 4. Thursday (July 27th, 2023):
    - [x] install mlu_driver.
