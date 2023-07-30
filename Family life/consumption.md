@@ -65,7 +65,7 @@ ipad用向日葵需要慎重一下，只能用平板里的虚拟键盘。外接�
 
 还有就是苹果专业软件的教育套餐，如果你是一个学生，或老师，或者为教育机构采购设备软件的人员，你可以用199美金的价格，买到苹果所有的专业级别软件，包括 final cut pro x 和 logic pro x，而且还有永久的免费升级，单买 logic pro x 就是 199美金，单买一个标准版的 fl studio 也是199美金adobe premier 年费要上千软妹币
 
-等等ipad mini 7，ipad air 6，ipad 11.
+我最倾向于ipad mini 7.等等ipad mini 7，ipad air 6，ipad 11.
 
 ipad 10, 5g, 4799元。教育优惠后，4599元，免息三期。狗都不买。
 
@@ -75,8 +75,6 @@ ipad air 5, 5g, 5999元。教育优惠后，5599元，免息三期。暑期活�
 支持的分期方式：花呗，招商银行，建设银行，工商银行。
 
 性能方面，iPad Air5的M1，综合性能比iPad mini6的A15提升约50%，另外iPad Air5为8G运存，iPad mini6仅为4G。
-
-我最倾向于ipad mini 7.
 
 小米手环8,NFC版本，可支付、刷公交地铁。
 
