@@ -103,7 +103,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 ## this week
 1. Monday (August 1st, 2023):
    - [ ] Either explore a new form of artistic expression or engage in a creative project;
-   - [ ] then run rt-detr on shic。请教dengting
+   - [ ] then run rt-detr on shic，请教dengting
 2. Tuesday (August 2nd, 2023):
    - [ ] Either set aside time for personal reflection or engage in a mindfulness practice;
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
