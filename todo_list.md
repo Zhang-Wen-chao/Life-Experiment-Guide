@@ -104,6 +104,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 1. Monday (August 1st, 2023):
    - [x] learn to use docker.下午开始学习构建镜像。
    - [x] test wuyouxing app.
+   - [x] 该看：《资治通鉴》339上
 2. Tuesday (August 2nd, 2023):
    - [ ] 继续寒武纪的视频,docker 安装环境。
    - [ ] run rt-detr on shic，请教dengting
