@@ -102,7 +102,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] sent weekly report.
 ## this week
 1. Monday (August 1st, 2023):
-   - [ ] Either explore a new form of artistic expression or engage in a creative project;
+   - [x] learn to use docker.
    - [ ] then run rt-detr on shic，请教dengting
 2. Tuesday (August 2nd, 2023):
    - [ ] Either set aside time for personal reflection or engage in a mindfulness practice;
@@ -117,13 +117,12 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
-   - [ ] 把所有仓库转移到处理器中心,抽时间把306电脑上本地所有的东西都搬到GitHub仓库
-   - [ ] 把破Dell电脑拿到处理器中心，开始尝试编译gentoo Linux
-   - [ ] 先找到apue这本书。然后看看里面的内容。
-   - [ ] 开始学习apue文件夹，先探索着，觉得好，就把文件纳入我的文件夹。
+   - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
+   - [ ] 先找到apue这本书。然后看里面内容
+   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
 5. Friday (August 5th, 2023):
    - [ ] Either reach out to a friend or family member to strengthen relationships or engage in acts of kindness towards others;
-   - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment.
+   - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment
 6. Saturday (August 6th, 2023):
    - [ ] Either spend time in nature or engage in activities that promote sustainability and environmental consciousness;
    - [ ] Placing importance on the well-being of the environment nurtures a sense of harmony and responsibility.
