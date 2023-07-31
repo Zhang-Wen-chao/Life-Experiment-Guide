@@ -102,16 +102,16 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] sent weekly report.
 ## this week
 1. Monday (August 1st, 2023):
-   - [x] learn to use docker.
-   - [ ] then run rt-detr on shic，请教dengting
+   - [x] learn to use docker.下午开始学习构建镜像。
+   - [x] test wuyouxing app.
 2. Tuesday (August 2nd, 2023):
-   - [ ] Either set aside time for personal reflection or engage in a mindfulness practice;
+   - [ ] 寒武纪的视频, cnstream code 
+   - [ ] then run rt-detr on shic，请教dengting
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
 3. Wednesday (August 3rd, 2023):
    - [ ] Either dedicate time to learn a new skill or expand knowledge in a specific area of interest;
    - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
 4. Thursday (August 4th, 2023):
-   - [ ] 寒武纪的视频, cnstream code 
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
