@@ -105,7 +105,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] learn to use docker.下午开始学习构建镜像。
    - [x] test wuyouxing app.
 2. Tuesday (August 2nd, 2023):
-   - [ ] 寒武纪的视频, cnstream code 
+   - [ ] 继续寒武纪的视频,docker 安装环境。
    - [ ] run rt-detr on shic，请教dengting
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
 3. Wednesday (August 3rd, 2023):
