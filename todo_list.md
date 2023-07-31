@@ -97,7 +97,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] install mlu_driver、CNToolkit、MagicMind、Cambricon PyTorch.
    - [x] 该看：《资治通鉴》222上
 7. Sunday (July 30th, 2023):
-   - [x] 该看：《资治通鉴》323上
+   - [x] 该看：《资治通鉴》324上
    - [x] learn to use docker.
    - [x] sent weekly report.
 ## this week
