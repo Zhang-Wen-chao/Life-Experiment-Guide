@@ -106,18 +106,16 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] test wuyouxing app.
    - [x] 该看：《资治通鉴》339上
 2. Tuesday (August 2nd, 2023):
-   - [x] 继续寒武纪的视频,docker 安装环境。
+   - [x] 寒武纪开发者初级课程看完了。
    - [x] 该看：《资治通鉴》341上
+3. Wednesday (August 3rd, 2023):
    - [ ] 先找到apue这本书。然后看里面内
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] run rt-detr on shic，请教dengting
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
-3. Wednesday (August 3rd, 2023):
-   - [ ] Either dedicate time to learn a new skill or expand knowledge in a specific area of interest;
-   - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
 4. Thursday (August 4th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
-   - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
+   - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae. weiao说的霹雳巴拉
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
