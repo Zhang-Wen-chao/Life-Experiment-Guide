@@ -107,6 +107,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 该看：《资治通鉴》339上
 2. Tuesday (August 2nd, 2023):
    - [x] 继续寒武纪的视频,docker 安装环境。
+   - [x] 该看：《资治通鉴》341上
    - [ ] 先找到apue这本书。然后看里面内
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] run rt-detr on shic，请教dengting
