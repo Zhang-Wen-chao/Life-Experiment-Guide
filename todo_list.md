@@ -106,7 +106,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] test wuyouxing app.
    - [x] 该看：《资治通鉴》339上
 2. Tuesday (August 2nd, 2023):
-   - [ ] 继续寒武纪的视频,docker 安装环境。
+   - [x] 继续寒武纪的视频,docker 安装环境。
+   - [ ] 先找到apue这本书。然后看里面内
+   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] run rt-detr on shic，请教dengting
    - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
 3. Wednesday (August 3rd, 2023):
@@ -119,8 +121,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 抛弃工作区目前所有修改，拉取远程仓库最新，命名为forcepull？还是就有这个功能？
    - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
-   - [ ] 先找到apue这本书。然后看里面内
-   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
 5. Friday (August 5th, 2023):
    - [ ] Either reach out to a friend or family member to strengthen relationships or engage in acts of kindness towards others;
    - [ ] Prioritizing connections and fostering meaningful relationships brings joy and fulfillment
