@@ -116,7 +116,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Either dedicate time to learn a new skill or expand knowledge in a specific area of interest;
    - [ ] Focusing on continuous learning broadens horizons and brings new perspectives to daily experiences.
 4. Thursday (August 4th, 2023):
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae.
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
