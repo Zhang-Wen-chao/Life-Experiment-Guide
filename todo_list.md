@@ -109,9 +109,10 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 寒武纪开发者初级课程看完了。
    - [x] 该看：《资治通鉴》341上
 3. Wednesday (August 3rd, 2023):
+   - [ ] 武在学的pytorch入门，
    - [ ] 寒武纪开发者中级课程看完了。
    - [ ] weiao说的霹雳巴拉
-   - [ ] 快找到杨说的pytorch实战，过一遍。武的也过一遍. run pytorch-vq-vae. 
+   - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
    - [ ] 先找到apue这本书。然后看里面内
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] run rt-detr on shic，请教dengting
