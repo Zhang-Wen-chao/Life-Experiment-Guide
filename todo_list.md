@@ -111,11 +111,11 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (August 3rd, 2023):
    - [x] 用306的风扇解决了370散热问题。
    - [x] 采购风扇、树莓派。
-   - [x] 开始学习武在学的pytorch入门。
+   - [x] 开始学习武在学的pytorch入门, 第一集看完了。
 4. Thursday (August 4th, 2023):
    - [x] 采购stm32小车，插线板，键盘鼠标，网关集线器。
    - [x] Enter nvidia jettson nano
-   - [x] 继续学习武在学的pytorch入门。
+   - [x] 继续学习武在学的pytorch入门，第二集看完了。
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
