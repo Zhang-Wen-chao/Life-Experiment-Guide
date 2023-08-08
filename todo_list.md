@@ -104,8 +104,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 西湖。
 ## this week
 1. Monday (August 8th, 2023):
-   - [x] 看书。
-   - [x] 孤注一掷电影。
+   - [x] chat with jin zhenjie.
+   - [x] 看书。孤注一掷电影。
 2. Tuesday (August 9th, 2023):
    - [ ] 把nvidia的docker运行起来，还不够。要在里面能用jupyter,就差一步了；下周探索。然后run起来武的pytorch course的所有代码。
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
