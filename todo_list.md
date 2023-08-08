@@ -107,14 +107,19 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with jin zhenjie.
    - [x] 看书。孤注一掷电影。
 2. Tuesday (August 9th, 2023):
-   - [ ] 把nvidia的docker运行起来，还不够。要在里面能用jupyter,就差一步了；下周探索。然后run起来武的pytorch course的所有代码。
+   - [x] 已看：《资治通鉴》380下。
+   - [x] 把nvidia的docker运行起来，用jupyter。
+   - [x] 然后run起来武的pytorch course的大部分代码。
+   - [x] 帮硬件工程师安装pads。
+   - [x] 聊斋该看峨眉一笑。
+4. Thursday (August 11th, 2023):
+   - [ ] 先找到apue这本书。然后看里面内
+   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
+   - [ ] the shortcut of clip board should be add to logitech mouse.
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
 3. Wednesday (August 10th, 2023):
    - [ ] 晋老师的yolov5过一遍。
    - [ ] 寒武纪开发者中级课程看完了
-4. Thursday (August 11th, 2023):
-   - [ ] 先找到apue这本书。然后看里面内
-   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
 5. Friday (August 12th, 2023):
    - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
    - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
