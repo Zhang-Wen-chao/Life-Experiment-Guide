@@ -76,31 +76,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 ## last week
-1. Monday (July 24th, 2023):
-   - [x] I've heard Ayumi Hamasaki's album on 1999-12-08.
-   - [x] Read several reviews of natural language processing.
-   - [x] 该看：《资治通鉴》第97集｜白起真的是被秦王所杀？①
-   - [x] Analysis of different classes in contemporary Chinese society.
-2. Tuesday (July 25th, 2023):
-   - [x] Start using clang as the cpp compiler.
-   - [x] I've heard Ayumi Hamasaki's album on 2000-03-08.
-   - [x] 该看：《资治通鉴》112集｜秦始皇也是他的书迷？-上
-   - [x] install cabc0370 on my computer.
-3. Wednesday (July 26th, 2023):
-   - [x] 该看：《资治通鉴》109集｜春申君被皇帝大舅哥全族灭门
-   - [x] install some software on my computer.
-4. Thursday (July 27th, 2023):
-   - [x] install mlu_driver.
-5. Friday (July 28th, 2023):
-   - [x] install mlu_driver.
-6. Saturday (July 29th, 2023):
-   - [x] install mlu_driver、CNToolkit、MagicMind、Cambricon PyTorch.
-   - [x] 该看：《资治通鉴》222上
-7. Sunday (July 30th, 2023):
-   - [x] 该看：《资治通鉴》324上
-   - [x] learn to use docker.
-   - [x] sent weekly report.
-## this week
 1. Monday (August 1st, 2023):
    - [x] learn to use docker.下午开始学习构建镜像。
    - [x] test wuyouxing app.
@@ -116,24 +91,43 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 采购stm32小车，插线板，键盘鼠标，网关集线器。
    - [x] Enter nvidia jettson nano
    - [x] 继续学习武在学的pytorch入门，第二集看完了。
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
+   - [x] 该看：《资治通鉴》360上
+5. Friday (August 5th, 2023):
+   - [x] 继续学习武在学的pytorch入门，第二集看完了。
+   - [x] submit reimbursement application
+   - [x] 把nvidia的docker运行起来。
+   - [x] install Raspberry Pi OS。
+   - [x] sent weekly report.
+6. Saturday (August 6th, 2023):
+   - [x] 车展、南宋御街、阿里巴巴。
+7. Sunday (August 7th, 2023):
+   - [x] 西湖。
+## this week
+1. Monday (August 8th, 2023):
+   - [x] 看书。
+   - [x] 孤注一掷电影。
+2. Tuesday (August 9th, 2023):
+   - [ ] 把nvidia的docker运行起来，还不够。要在里面能用jupyter,就差一步了；下周探索。然后run起来武的pytorch course的所有代码。
+   - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
+3. Wednesday (August 10th, 2023):
+   - [ ] 晋老师的yolov5过一遍。
+   - [ ] 寒武纪开发者中级课程看完了。
+4. Thursday (August 11th, 2023):
+   - [ ] 先找到apue这本书。然后看里面内
+   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
+5. Friday (August 12th, 2023):
+   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
+   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
+6. Saturday (August 13th, 2023):
+   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
+   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
+7. Sunday (August 14th, 2023):
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
-5. Friday (August 5th, 2023):
-   - [ ] 寒武纪开发者中级课程看完了。
    - [ ] weiao说的霹雳巴拉
-   - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
-   - [ ] 先找到apue这本书。然后看里面内
-   - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] run rt-detr on shic，请教dengting
-   - [ ] Prioritizing self-awareness and mental well-being leads to a more fulfilling and purposeful life.
-6. Saturday (August 6th, 2023):
-   - [ ] Either spend time in nature or engage in activities that promote sustainability and environmental consciousness;
-   - [ ] Placing importance on the well-being of the environment nurtures a sense of harmony and responsibility.
-7. Sunday (August 7th, 2023):
-   - [ ] Either engage in a form of self-care or dedicate time for relaxation and rejuvenation;
-   - [ ] It is essential to prioritize self-care and create space for relaxation to maintain overall well-being.
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
@@ -143,31 +137,31 @@ anayway, learn to everyone.
 ## Any questions today
 ## next week
 ```
-1. Monday (August 8th, 2023):
+1. Monday (August 15th, 2023):
    - [ ] Either engage in a physical activity or try a new exercise routine;
    - [ ] Prioritizing physical well-being enhances energy levels and improves overall health.
 
-2. Tuesday (August 9th, 2023):
+2. Tuesday (August 16th, 2023):
    - [ ] Either dedicate time to practicing a hobby or explore a new interest;
    - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
 
-3. Wednesday (August 10th, 2023):
+3. Wednesday (August 17th, 2023):
    - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
    - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
 
-4. Thursday (August 11th, 2023):
+4. Thursday (August 18th, 2023):
    - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
    - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
 
-5. Friday (August 12th, 2023):
+5. Friday (August 19th, 2023):
    - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
    - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
 
-6. Saturday (August 13th, 2023):
+6. Saturday (August 20th, 2023):
    - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
    - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
 
-7. Sunday (August 14th, 2023):
+7. Sunday (August 21st, 2023):
    - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
    - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
 ```
