@@ -111,7 +111,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
 3. Wednesday (August 10th, 2023):
    - [ ] 晋老师的yolov5过一遍。
-   - [ ] 寒武纪开发者中级课程看完了。
+   - [ ] 寒武纪开发者中级课程看完了
 4. Thursday (August 11th, 2023):
    - [ ] 先找到apue这本书。然后看里面内
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
