@@ -116,6 +116,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 还是没能run起来武的pytorch course的所有代码。docker居然不能识别gpu,查了一下，居然很多人都有这个问题。
    - [x] 聊斋解读看完了。
    - [x] 整理了一下iphone的照片上传网盘。
+   - [ ] 目前来看，我是解决了docker识别gpu的问题。
 4. Thursday (August 11th, 2023):
    - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
    - [ ] 晋老师的yolov5过一遍。
