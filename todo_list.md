@@ -112,15 +112,18 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 然后run起来武的pytorch course的大部分代码。
    - [x] 帮硬件工程师安装pads。
    - [x] 聊斋该看峨眉一笑。
+3. Wednesday (August 10th, 2023):
+   - [x] 还是没能run起来武的pytorch course的所有代码。docker居然不能识别gpu,查了一下，居然很多人都有这个问题。
+   - [x] 聊斋解读看完了。
+   - [x] 整理了一下iphone的照片上传网盘。
 4. Thursday (August 11th, 2023):
-   - [x] 然后run起来武的pytorch course的所有代码。
-   - [ ] 先找到apue这本书。然后看里面内
+   - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [ ] 晋老师的yolov5过一遍。
+   - [ ] 寒武纪开发者中级课程看完了
+   - [ ] 先找到apue这本书。然后看下内容。有个规划。
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
-3. Wednesday (August 10th, 2023):
-   - [ ] 晋老师的yolov5过一遍。
-   - [ ] 寒武纪开发者中级课程看完了
 5. Friday (August 12th, 2023):
    - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
    - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
