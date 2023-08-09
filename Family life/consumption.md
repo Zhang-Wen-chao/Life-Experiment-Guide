@@ -87,6 +87,7 @@ powertoys可以实现屏幕自定义多分屏。
 3. iPhone se 2，Purchased on 2021/06/16
    - 2022/9/3，换一块飞毛腿电池。
    - 2023/2/3，飞毛腿电池鼓包了，售后免费换新了一块。
+   - 2023/8/9, 又烂屏幕了，无法忍受。决定不用了。
 4. others
    - Purchased on 2022/01/01：长虹小太阳，美的微波炉，飞科电吹风。3 years full warranty and replacement.
    - Purchased on 2022/09/11，绿联网线转接器。3 years full warranty and replacement.
