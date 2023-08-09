@@ -113,6 +113,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 帮硬件工程师安装pads。
    - [x] 聊斋该看峨眉一笑。
 4. Thursday (August 11th, 2023):
+   - [x] 然后run起来武的pytorch course的所有代码。
    - [ ] 先找到apue这本书。然后看里面内
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
