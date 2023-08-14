@@ -118,7 +118,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 开始玩树莓派和nano。
    - [ ] 开始编译Gentoo Linux
    - [ ] 寒武纪开发者中级课程看完了
-   - [ ] 先找到apue这本书。然后看下内容。有个规划。
+   - [ ] 先找到apue这本书。然后看下内容。有个规划
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
 4. Thursday (August 18th, 2023):
