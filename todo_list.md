@@ -116,7 +116,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (August 17th, 2023):
    - [ ] 如果有时间，可以给wt、zh,讲深度学习。
    - [ ] 开始玩树莓派和nano。
-   - [ ] 开始编译Gentoo Linux。
+   - [ ] 开始编译Gentoo Linux
    - [ ] 寒武纪开发者中级课程看完了
    - [ ] 先找到apue这本书。然后看下内容。有个规划。
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
