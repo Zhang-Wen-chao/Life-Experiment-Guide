@@ -105,16 +105,23 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 整理一下华为手机的照片。
    - [x] 安装pytorch、tensorflow的docker。
    - [x] 把飞书的任务转移到lark.
-   - [x] 晋老师的yolov5过一遍, 目前看起来运行得很正常。
-   - [ ] 必须要把wxt的nlp结束掉了。
-   - [ ] 
-   - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [x] 晋老师给的yolov5，目前看起来运行得很正常。
+   - [x] wxt的nlp就剩下两个文件还没跑完了。
+   - [x] wangshihang,让我下载另一个网站的图片。完成了。
+2. Tuesday (August 16th, 2023):
+   - [ ] 告诉赵老师，晋老师没有理我。没写论文。他安排的yolov5已经跑起来了。
+   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
+   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
    - [ ] wangt让我对比函数性能。
+3. Wednesday (August 17th, 2023):
    - [ ] 如果有时间，可以给wt、zh,讲深度学习。
+   - [ ] 开始玩树莓派和nano。
+   - [ ] 开始编译Gentoo Linux。
    - [ ] 寒武纪开发者中级课程看完了
    - [ ] 先找到apue这本书。然后看下内容。有个规划。
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
+4. Thursday (August 18th, 2023):
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
@@ -122,15 +129,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
    - [ ] weiao说的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
-2. Tuesday (August 16th, 2023):
-   - [ ] Either dedicate time to practicing a hobby or explore a new interest;
-   - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
-3. Wednesday (August 17th, 2023):
-   - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
-   - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
-4. Thursday (August 18th, 2023):
-   - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
-   - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
 5. Friday (August 19th, 2023):
    - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
    - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
