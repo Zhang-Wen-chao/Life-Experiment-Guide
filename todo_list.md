@@ -76,33 +76,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 ## last week
-1. Monday (August 1st, 2023):
-   - [x] learn to use docker.下午开始学习构建镜像。
-   - [x] test wuyouxing app.
-   - [x] 该看：《资治通鉴》339上
-2. Tuesday (August 2nd, 2023):
-   - [x] 寒武纪开发者初级课程看完了。
-   - [x] 该看：《资治通鉴》341上
-3. Wednesday (August 3rd, 2023):
-   - [x] 用306的风扇解决了370散热问题。
-   - [x] 采购风扇、树莓派。
-   - [x] 开始学习武在学的pytorch入门, 第一集看完了。
-4. Thursday (August 4th, 2023):
-   - [x] 采购stm32小车，插线板，键盘鼠标，网关集线器。
-   - [x] Enter nvidia jettson nano
-   - [x] 继续学习武在学的pytorch入门，第二集看完了。
-   - [x] 该看：《资治通鉴》360上
-5. Friday (August 5th, 2023):
-   - [x] 继续学习武在学的pytorch入门，第二集看完了。
-   - [x] submit reimbursement application
-   - [x] 把nvidia的docker运行起来。
-   - [x] install Raspberry Pi OS。
-   - [x] sent weekly report.
-6. Saturday (August 6th, 2023):
-   - [x] 车展、南宋御街、阿里巴巴。
-7. Sunday (August 7th, 2023):
-   - [x] 西湖。
-## this week
 1. Monday (August 8th, 2023):
    - [x] chat with jin zhenjie.
    - [x] 看书。孤注一掷电影。
@@ -121,10 +94,18 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 迁移app到三星平板。
    - [x] 看完了正直讲史的雍正部分。
 5. Friday (August 12th, 2023):
+   - [x] 迁移app到三星平板。
+   - [x] 办理上海公交卡。
+6. Saturday (August 13th, 2023):
+   - [x] Met Xie Qing by chance.
+7. Sunday (August 14th, 2023):
+   - [x] 明孝陵
+## this week
+1. Monday (August 15th, 2023):
+   - [x] 整理一下华为手机的照片。
+   - [x] 安装pytorch、tensorflow的docker。
    - [ ] 晋老师的yolov5过一遍,下一步：用docker安装所需要的环境。
    - [ ] 必须要把wxt的nlp结束掉了。
-   - [ ] 测试三星对airpods的支持。
-   - [ ] 
    - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
    - [ ] 如果有时间，可以给wt、zh,讲深度学习。
    - [ ] 寒武纪开发者中级课程看完了
@@ -132,16 +113,35 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
-6. Saturday (August 13th, 2023):
-   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
-   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
-7. Sunday (August 14th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么？
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
    - [ ] weiao说的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
+2. Tuesday (August 16th, 2023):
+   - [ ] Either dedicate time to practicing a hobby or explore a new interest;
+   - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
+
+3. Wednesday (August 17th, 2023):
+   - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
+   - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
+
+4. Thursday (August 18th, 2023):
+   - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
+   - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
+
+5. Friday (August 19th, 2023):
+   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
+   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
+
+6. Saturday (August 20th, 2023):
+   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
+   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
+
+7. Sunday (August 21st, 2023):
+   - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
+   - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
