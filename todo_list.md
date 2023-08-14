@@ -114,7 +114,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
    - [ ] wangt让我对比函数性能。
 3. Wednesday (August 17th, 2023):
-   - [ ] 如果有时间，可以给wt、zh,讲深度学习。
+   - [ ] 如果有时间，可以给wt、zh,讲深度学习
    - [ ] 开始玩树莓派和nano。
    - [ ] 开始编译Gentoo Linux
    - [ ] 寒武纪开发者中级课程看完了
