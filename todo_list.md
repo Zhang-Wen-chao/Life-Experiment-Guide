@@ -104,9 +104,12 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 1. Monday (August 15th, 2023):
    - [x] 整理一下华为手机的照片。
    - [x] 安装pytorch、tensorflow的docker。
-   - [ ] 晋老师的yolov5过一遍,下一步：用docker安装所需要的环境。
+   - [x] 把飞书的任务转移到lark.
+   - [x] 晋老师的yolov5过一遍, 目前看起来运行得很正常。
    - [ ] 必须要把wxt的nlp结束掉了。
+   - [ ] 
    - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [ ] wangt让我对比函数性能。
    - [ ] 如果有时间，可以给wt、zh,讲深度学习。
    - [ ] 寒武纪开发者中级课程看完了
    - [ ] 先找到apue这本书。然后看下内容。有个规划。
@@ -122,23 +125,18 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 2. Tuesday (August 16th, 2023):
    - [ ] Either dedicate time to practicing a hobby or explore a new interest;
    - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
-
 3. Wednesday (August 17th, 2023):
    - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
    - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
-
 4. Thursday (August 18th, 2023):
    - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
    - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
-
 5. Friday (August 19th, 2023):
    - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
    - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
-
 6. Saturday (August 20th, 2023):
    - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
    - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
-
 7. Sunday (August 21st, 2023):
    - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
    - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
@@ -151,33 +149,27 @@ anayway, learn to everyone.
 ## Any questions today
 ## next week
 ```
-1. Monday (August 15th, 2023):
-   - [ ] Either engage in a physical activity or try a new exercise routine;
-   - [ ] Prioritizing physical well-being enhances energy levels and improves overall health.
-
-2. Tuesday (August 16th, 2023):
-   - [ ] Either dedicate time to practicing a hobby or explore a new interest;
-   - [ ] Nurturing hobbies and pursuing new interests adds depth and richness to life.
-
-3. Wednesday (August 17th, 2023):
-   - [ ] Either spend quality time with loved ones or connect with a friend you haven't spoken to in a while;
-   - [ ] Cultivating relationships and fostering connections brings joy and strengthens bonds.
-
-4. Thursday (August 18th, 2023):
-   - [ ] Either try a new recipe or explore a new cuisine through cooking or dining;
-   - [ ] Exploring different flavors and culinary experiences broadens cultural horizons.
-
-5. Friday (August 19th, 2023):
-   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
-   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
-
-6. Saturday (August 20th, 2023):
-   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
-   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
-
-7. Sunday (August 21st, 2023):
-   - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
-   - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
+1. Monday (August 22nd, 2023):
+   - [ ] Either read a book from a different genre or explore a new topic through online articles;
+   - [ ] Expanding your knowledge through reading broadens perspectives and promotes personal growth.
+2. Tuesday (August 23rd, 2023):
+   - [ ] Either try a new outdoor activity or go for a nature walk in a nearby park;
+   - [ ] Connecting with nature improves well-being and provides a refreshing change of scenery.
+3. Wednesday (August 24th, 2023):
+   - [ ] Either learn a new skill or take up a short online course on a subject of interest;
+   - [ ] Continuous learning enhances personal and professional development and opens doors to new opportunities.
+4. Thursday (August 25th, 2023):
+   - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
+   - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
+5. Friday (August 26th, 2023):
+   - [ ] Either create a vision board or set achievable goals for the next month;
+   - [ ] Visualizing and setting goals helps chart a course for personal and professional success.
+6. Saturday (August 27th, 2023):
+   - [ ] Either take a scenic drive or plan a day trip to a nearby town or city;
+   - [ ] Exploring new places and experiencing different landscapes brings about a sense of adventure and enlightenment.
+7. Sunday (August 28th, 2023):
+   - [ ] Either spend time journaling or practicing reflective writing or enjoy a long, leisurely walk to clear your mind;
+   - [ ] Reflecting and taking time for self-discovery promote self-awareness and emotional well-being.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
