@@ -118,16 +118,20 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 整理了一下iphone的照片上传网盘。
    - [x] 目前来看，我是解决了docker识别gpu的问题。
 4. Thursday (August 11th, 2023):
-   - [ ] 晋老师的yolov5过一遍。
+   - [x] 迁移app到三星平板。
+   - [x] 看完了正直讲史的雍正部分。
+5. Friday (August 12th, 2023):
+   - [ ] 晋老师的yolov5过一遍,下一步：用docker安装所需要的环境。
+   - [ ] 必须要把wxt的nlp结束掉了。
+   - [ ] 测试三星对airpods的支持。
+   - [ ] 
    - [ ] wang让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [ ] 如果有时间，可以给wt、zh,讲深度学习。
    - [ ] 寒武纪开发者中级课程看完了
    - [ ] 先找到apue这本书。然后看下内容。有个规划。
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
    - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae. 
-5. Friday (August 12th, 2023):
-   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
-   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
 6. Saturday (August 13th, 2023):
    - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
    - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
