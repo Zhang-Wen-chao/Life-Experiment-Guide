@@ -109,33 +109,32 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] wxt的nlp就剩下两个文件还没跑完了。
    - [x] wangshihang,让我下载另一个网站的图片。完成了。
 2. Tuesday (August 16th, 2023):
-   - [ ] 告诉赵老师，晋老师没有理我。没写论文。他安排的yolov5已经跑起来了。
-   - [ ] 370初级实验、中级实验，最好都跑一下，然后给赵老师说。
-   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
-   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
-   - [ ] wangt让我对比函数性能。
+   - [x] 解决了三星平板用airpods打微信电话的问题。
+   - [x] 三星平板验机。
+   - [x] 重装了370的conda环境和docker环境。
+   - [x] 告诉赵老师，晋老师没有理我。没写论文。他安排的yolov5已经跑起来了。
 3. Wednesday (August 17th, 2023):
-   - [ ] 如果有时间，可以给wt、zh,讲深度学习
+   - [x] chat with Lu Qi.
+   - [x] 制作了gentoo linux安装盘，已经进入live CD,该分区了。
+   - [x] 已经跑起来了好几个370实验了。
+4. Thursday (August 18th, 2023):
+   - [x] ok,不继续寒武纪的课程实验了，没有意义。他自己做的就不好。现在要专心干wangt交代的函数性能比较任务。
    - [ ] 开始玩树莓派和nano。
-   - [ ] 开始编译Gentoo Linux
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
+   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
+   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
+   - [ ] weiao说的霹雳巴拉
+   - [ ] run rt-detr on shic，请教dengting
+5. Friday (August 19th, 2023):
+   - [ ] 如果有时间，可以给wt、zh,讲深度学习
    - [ ] 寒武纪开发者中级课程看完了
    - [ ] 先找到apue这本书。然后看下内容。有个规划
    - [ ] 开始学习apue文件夹，先探索着，觉得好就把文件纳入我的文件夹
    - [ ] the shortcut of clip board should be add to logitech mouse.
-4. Thursday (August 18th, 2023):
-   - [ ] 快找到杨说的pytorch实战，过一遍。. run pytorch-vq-vae 
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
-   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
-   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
-   - [ ] 把破Dell电脑拿到处理器中心，开始编译gentoo Linux
-   - [ ] weiao说的霹雳巴拉
-   - [ ] run rt-detr on shic，请教dengting
-5. Friday (August 19th, 2023):
-   - [ ] Either dedicate time to organizing and decluttering a specific area or try a minimalistic lifestyle experiment;
-   - [ ] Creating an organized and clutter-free environment promotes mental clarity and reduces stress.
 6. Saturday (August 20th, 2023):
-   - [ ] Either visit a local museum or art gallery or explore different forms of creative expression online;
-   - [ ] Immersing yourself in art and creativity stimulates imagination and appreciation for various art forms.
+   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
+   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [ ] wangt让我对比函数性能。
 7. Sunday (August 21st, 2023):
    - [ ] Either explore a new mindfulness or meditation practice or dedicate time for unplugging from technology;
    - [ ] Prioritizing mental well-being and finding moments of tranquility fosters inner peace and balance.
