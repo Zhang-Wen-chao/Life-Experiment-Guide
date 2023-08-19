@@ -126,22 +126,23 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 开始从头安装nano的系统
    - [x] Gentoo 又遇到了新问题，在稳步推进。
 6. Saturday (August 20th, 2023):
-   - [x] Gentoo进展到了安装输入法，但无法Access GitHub。
+   - [x] Gentoo linux解决了访问github问题、安装输入法问题。现在遇到了中文无法正常显示的问题。
    - [x] Jetson nano解决了boot问题、存储问题。
    - [x] 招待杨大哥
+   - [x] raspberry 改装64位系统。
    - [ ] wangt让我对比函数性能。要写进本周的周报。但是我到现在，还不知道在哪里用。
 7. Sunday (August 21st, 2023):
+   - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了？
+   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
+   - [ ] 树莓派开启ssh，让大家都能用。规矩还是写在文档里面。
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] weiao说的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
-   - [ ] Gentoo Linux的编译，要彻底完成！！
    - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
    - [ ] 先找到apue这本书。然后看下内容。有个规划
    - [ ] the shortcut of clip board should be add to logitech mouse.
-   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
-   - [ ] 重新安装树莓派，开启ssh，连接WIFI，让大家都能用。
    - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
    - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
 # who can I ask
@@ -177,8 +178,7 @@ anayway, learn to everyone.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
-下次回家的话，请lvrui吃饭.
-把kindle存上几百本书，给大姐家闺女。
+下次回家的话，请lvrui teacher吃饭.
 找一个背包，把目前的安踏背包淘汰丢弃。
 After finding a job, I started working out. Tell Yuan Hao results. swimming and badminton.
 ## Proverbs from Taiwanese brothers:
