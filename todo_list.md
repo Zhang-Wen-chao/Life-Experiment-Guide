@@ -121,20 +121,29 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] ok,不继续寒武纪的课程实验了，没有意义。他自己做的就不好。现在要专心干wangt交代的函数性能比较任务。
    - [x] gentoo linux 遇到harfbuzz循环依赖问题。
 5. Friday (August 19th, 2023):
-   - [ ] 寒武纪开发者中级课程看完了
-   - [ ] 先找到apue这本书。然后看下内容。有个规划
-   - [ ] the shortcut of clip board should be add to logitech mouse.
+   - [x] harfbuzz循环依赖问题，已经解决了。
+   - [x] 测试了小米蓝牙耳机在三星平板的表现。
+   - [x] 开始从头安装nano的系统
+   - [x] Gentoo 又遇到了新问题，在稳步推进。
 6. Saturday (August 20th, 2023):
-   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
-   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
-   - [ ] wangt让我对比函数性能。
+   - [x] Gentoo进展到了安装输入法，但无法Access GitHub。
+   - [x] Jetson nano解决了boot问题、存储问题。
+   - [x] 招待杨大哥
+   - [ ] wangt让我对比函数性能。要写进本周的周报。但是我到现在，还不知道在哪里用。
 7. Sunday (August 21st, 2023):
-   - [ ] 开始玩树莓派和nano。
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] weiao说的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
+   - [ ] Gentoo Linux的编译，要彻底完成！！
+   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
+   - [ ] 先找到apue这本书。然后看下内容。有个规划
+   - [ ] the shortcut of clip board should be add to logitech mouse.
+   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
+   - [ ] 重新安装树莓派，开启ssh，连接WIFI，让大家都能用。
+   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
+   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
