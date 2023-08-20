@@ -110,10 +110,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 把三星平板的充电器，暂时先给树莓派供电。把songchen师姐给我的充电器，给三星平板供电，作为拓展屏幕。
    - [x] 编译成功了cnnl。
    - [x] 让周师兄的电脑开始运行cupy，怎么还有版本问题？不搞了。换个设备。
-   - [ ] wangt让我对比函数性能。要写进本周的周报。但是我到现在，还不知道在哪里用。
+   - [x] write weekly report and email.
    - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？
 什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
+   - [ ] 把raspberry写进文档
+   - [ ] 把nano写进文档
+   - [ ] 在Windows上配置好zotero开始看论文。
 ## this week
 1. Monday (August 22nd, 2023):
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
