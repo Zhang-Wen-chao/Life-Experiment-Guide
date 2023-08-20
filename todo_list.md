@@ -76,31 +76,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 ## last week
-1. Monday (August 8th, 2023):
-   - [x] chat with jin zhenjie.
-   - [x] 看书。孤注一掷电影。
-2. Tuesday (August 9th, 2023):
-   - [x] 已看：《资治通鉴》380下。
-   - [x] 把nvidia的docker运行起来，用jupyter。
-   - [x] 然后run起来武的pytorch course的大部分代码。
-   - [x] 帮硬件工程师安装pads。
-   - [x] 聊斋该看峨眉一笑。
-3. Wednesday (August 10th, 2023):
-   - [x] 还是没能run起来武的pytorch course的所有代码。docker居然不能识别gpu,查了一下，居然很多人都有这个问题。
-   - [x] 聊斋解读看完了。
-   - [x] 整理了一下iphone的照片上传网盘。
-   - [x] 目前来看，我是解决了docker识别gpu的问题。
-4. Thursday (August 11th, 2023):
-   - [x] 迁移app到三星平板。
-   - [x] 看完了正直讲史的雍正部分。
-5. Friday (August 12th, 2023):
-   - [x] 迁移app到三星平板。
-   - [x] 办理上海公交卡。
-6. Saturday (August 13th, 2023):
-   - [x] Met Xie Qing by chance.
-7. Sunday (August 14th, 2023):
-   - [x] 明孝陵
-## this week
 1. Monday (August 15th, 2023):
    - [x] 整理一下华为手机的照片。
    - [x] 安装pytorch、tensorflow的docker。
@@ -130,11 +105,21 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] Jetson nano解决了boot问题、存储问题。
    - [x] 招待杨大哥
    - [x] raspberry 改装64位系统。
-   - [ ] wangt让我对比函数性能。要写进本周的周报。但是我到现在，还不知道在哪里用。
 7. Sunday (August 21st, 2023):
+   - [x] 所有设备都转向了lark软件，来互通信息。
+   - [x] 把三星平板的充电器，暂时先给树莓派供电。把songchen师姐给我的充电器，给三星平板供电，作为拓展屏幕。
+   - [ ] wangt让我对比函数性能。要写进本周的周报。但是我到现在，还不知道在哪里用。
+   - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？
+什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了？
+## this week
+1. Monday (August 22nd, 2023):
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
    - [ ] 树莓派开启ssh，让大家都能用。规矩还是写在文档里面。
+2. Tuesday (August 23rd, 2023):
+   - [ ] Either try a new outdoor activity or go for a nature walk in a nearby park;
+   - [ ] Connecting with nature improves well-being and provides a refreshing change of scenery.
+3. Wednesday (August 24th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
@@ -142,27 +127,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] run rt-detr on shic，请教dengting
    - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
    - [ ] 先找到apue这本书。然后看下内容。有个规划
-   - [ ] the shortcut of clip board should be add to logitech mouse.
+   - [ ] the shortcut of clip board should be add to logitech mouse. 
    - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
    - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
-# who can I ask
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
-anayway, learn to everyone.
-## Any questions today
-## next week
-```
-1. Monday (August 22nd, 2023):
-   - [ ] Either read a book from a different genre or explore a new topic through online articles;
-   - [ ] Expanding your knowledge through reading broadens perspectives and promotes personal growth.
-2. Tuesday (August 23rd, 2023):
-   - [ ] Either try a new outdoor activity or go for a nature walk in a nearby park;
-   - [ ] Connecting with nature improves well-being and provides a refreshing change of scenery.
-3. Wednesday (August 24th, 2023):
-   - [ ] Either learn a new skill or take up a short online course on a subject of interest;
-   - [ ] Continuous learning enhances personal and professional development and opens doors to new opportunities.
 4. Thursday (August 25th, 2023):
    - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
    - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
@@ -175,6 +142,42 @@ anayway, learn to everyone.
 7. Sunday (August 28th, 2023):
    - [ ] Either spend time journaling or practicing reflective writing or enjoy a long, leisurely walk to clear your mind;
    - [ ] Reflecting and taking time for self-discovery promote self-awareness and emotional well-being.
+# who can I ask
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
+anayway, learn to everyone.
+## Any questions today
+## next week
+```
+1. Monday (August 29th, 2023):
+   - [ ] Either try a new recipe or explore different cuisines through online cooking tutorials;
+   - [ ] Experimenting with food enhances culinary skills and broadens the palate.
+
+2. Tuesday (August 30th, 2023):
+   - [ ] Either engage in a mindfulness or meditation practice or try a relaxing yoga session;
+   - [ ] Cultivating inner peace and mindfulness promotes overall well-being and reduces stress.
+
+3. Wednesday (August 31st, 2023):
+   - [ ] Either listen to a podcast or watch a documentary on a topic that intrigues you;
+   - [ ] Exploring diverse perspectives through audio or visual mediums enriches knowledge and stimulates curiosity.
+
+4. Thursday (September 1st, 2023):
+   - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
+   - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
+
+5. Friday (September 2nd, 2023):
+   - [ ] Either organize and declutter a specific area of your home or rearrange your living space for a fresh look;
+   - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
+
+6. Saturday (September 3rd, 2023):
+   - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
+   - [ ] Connecting with nature and engaging in physical activities contribute to a healthy and active lifestyle.
+
+7. Sunday (September 4th, 2023):
+   - [ ] Either spend quality time with loved ones, enjoying their company and creating lasting memories, or have a self-care day dedicated to relaxation and pampering;
+   - [ ] Nurturing relationships or practicing self-care promotes happiness and overall well-being.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
