@@ -111,14 +111,16 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 编译成功了cnnl。
    - [x] 让周师兄的电脑开始运行cupy，怎么还有版本问题？不搞了。换个设备。
    - [x] write weekly report and email.
+   - [x] 在Windows上配置好zotero开始看论文。
+   - [x] Gentoo linux解决了中文无法正常显示的问题。
+   - [x] 查一下，Ubuntu22怎么安装nvidia驱动。据说联网安装十分省心，开始尝试！
+   - [x] 把nano、raspberry写进文档
+## this week
+1. Monday (August 22nd, 2023):
+   - [x] Gentoo Linux找到了怎么设置双拼，但是似乎还没更新到位。不过似乎没必要继续了，就是，可以但没必要。
    - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？
 什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
-   - [ ] 把raspberry写进文档
-   - [ ] 把nano写进文档
-   - [ ] 在Windows上配置好zotero开始看论文。
-## this week
-1. Monday (August 22nd, 2023):
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
    - [ ] 树莓派开启ssh，让大家都能用。规矩还是写在文档里面。
 2. Tuesday (August 23rd, 2023):
