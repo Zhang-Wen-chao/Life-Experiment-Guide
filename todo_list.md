@@ -120,8 +120,29 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] Gentoo Linux找到了怎么设置双拼，但是似乎还没更新到位。不过似乎没必要继续了，就是，可以但没必要。
    - [x] Ubuntu22联网安装驱动太省心了！work！下一步，安装zsh、conda、cuda、lark、code、百度网盘、edge浏览器。
    - [x] 下午把屏幕搬过来，当我电脑的拓展屏。下午把Gentoo的电脑，搬回306。
-   - [ ] 开始在周师兄的电脑上开始安装cupy
-   - [ ] 玩一玩树莓派
+   - [x] 开始在周师兄的电脑上安装torch，但是cupy是真的装不上去啊！怎么办？
+   - [x] 开始玩树莓派，发现不能开机后插摄像头，要先插上摄像头，再插上电源。
+2. Tuesday (August 23rd, 2023):
+   - [x] 听cellpainting开会。
+   - [x] 装好小车结构件。
+   - [x] 看了航拍中国两季。
+3. Wednesday (August 24th, 2023):
+   - [x] 装好了cupy.但是为什么gpu还慢了呢
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
+   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
+   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
+   - [ ] weiao的霹雳巴拉
+   - [ ] xxx
+   - [ ] run rt-detr on shic，请教dengting
+   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
+   - [ ] 先找到apue这本书。然后看下内容有个规划
+   - [ ] the shortcut of clip board should be add to logitech mouse. 
+   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力
+   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+4. Thursday (August 25th, 2023):
+   - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
+   - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
+5. Friday (August 26th, 2023):
    - [ ] 这个文件名字，必须修改
 应该是怎么用上科大的slurm系统，给我自己看，给上科大的同学看。（去吸收一下jinjiping的内容。）
 另起一个文件应该是，怎么用shic的 服务器。这个是给zhang han bing看。
@@ -129,32 +150,11 @@ mlu370的内容，一直放在我的本地，给wangt看，还行。
    - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？
 什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
-   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。
-   - [ ] 树莓派开启ssh，让大家都能用。规矩还是写在文档里面。
-2. Tuesday (August 23rd, 2023):
-   - [ ] Either try a new outdoor activity or go for a nature walk in a nearby park;
-   - [ ] Connecting with nature improves well-being and provides a refreshing change of scenery.
-3. Wednesday (August 24th, 2023):
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
-   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
-   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
-   - [ ] weiao说的霹雳巴拉
-   - [ ] run rt-detr on shic，请教dengting
-   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
-   - [ ] 先找到apue这本书。然后看下内容。有个规划
-   - [ ] the shortcut of clip board should be add to logitech mouse. 
-   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力。
-   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
-4. Thursday (August 25th, 2023):
-   - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
-   - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
-5. Friday (August 26th, 2023):
-   - [ ] Either create a vision board or set achievable goals for the next month;
-   - [ ] Visualizing and setting goals helps chart a course for personal and professional success.
-6. Saturday (August 27th, 2023):
+   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因。
+1. Saturday (August 27th, 2023):
    - [ ] Either take a scenic drive or plan a day trip to a nearby town or city;
    - [ ] Exploring new places and experiencing different landscapes brings about a sense of adventure and enlightenment.
-7. Sunday (August 28th, 2023):
+2. Sunday (August 28th, 2023):
    - [ ] Either spend time journaling or practicing reflective writing or enjoy a long, leisurely walk to clear your mind;
    - [ ] Reflecting and taking time for self-discovery promote self-awareness and emotional well-being.
 # who can I ask
