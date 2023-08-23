@@ -132,7 +132,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] weiao的霹雳巴拉
-   - [ ] xxx
    - [ ] run rt-detr on shic，请教dengting
    - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
    - [ ] 先找到apue这本书。然后看下内容有个规划
