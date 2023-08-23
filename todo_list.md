@@ -127,7 +127,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 装好小车结构件。
    - [x] 看了航拍中国两季。
 3. Wednesday (August 24th, 2023):
-   - [x] 装好了cupy.但是为什么gpu还慢了呢
+   - [x] 装好了cupy
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
