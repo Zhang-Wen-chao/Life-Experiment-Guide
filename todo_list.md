@@ -142,7 +142,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 先找到apue这本书。然后看下内容有个规划
 6. Saturday (August 27th, 2023):
    - [ ] 应该是怎么用上科大的slurm系统，给我自己看，给上科大的同学看。（去吸收一下jinjiping的内容。）另起一个文件应该是，怎么用shic的 服务器。这个是给zhang han bing看。mlu370的内容，一直放在我的本地，给wangt看，还行。
-   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因。
+   - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因
 7. Sunday (August 28th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
    - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
