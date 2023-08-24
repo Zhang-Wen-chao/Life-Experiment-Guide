@@ -128,16 +128,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 看了航拍中国两季。
 3. Wednesday (August 24th, 2023):
    - [x] 装好了cupy
-   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
-   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
-   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
-   - [ ] weiao的霹雳巴拉
-   - [ ] run rt-detr on shic，请教dengting
-   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
-   - [ ] 先找到apue这本书。然后看下内容有个规划
-   - [ ] the shortcut of clip board should be add to logitech mouse. 
-   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力
-   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
+   - [x] 买了haining的票。
+   - [x] 装好了keil.
 4. Thursday (August 25th, 2023):
    - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
    - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
@@ -150,12 +142,20 @@ mlu370的内容，一直放在我的本地，给wangt看，还行。
 什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因。
-1. Saturday (August 27th, 2023):
+6. Saturday (August 27th, 2023):
    - [ ] Either take a scenic drive or plan a day trip to a nearby town or city;
    - [ ] Exploring new places and experiencing different landscapes brings about a sense of adventure and enlightenment.
-2. Sunday (August 28th, 2023):
-   - [ ] Either spend time journaling or practicing reflective writing or enjoy a long, leisurely walk to clear your mind;
-   - [ ] Reflecting and taking time for self-discovery promote self-awareness and emotional well-being.
+7. Sunday (August 28th, 2023):
+   - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
+   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
+   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
+   - [ ] weiao的霹雳巴拉
+   - [ ] run rt-detr on shic，请教dengting
+   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
+   - [ ] 先找到apue这本书。然后看下内容有个规划
+   - [ ] the shortcut of clip board should be add to logitech mouse. 
+   - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力
+   - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
