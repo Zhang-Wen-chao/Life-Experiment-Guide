@@ -131,15 +131,11 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 买了haining的票。
    - [x] 装好了keil.
 4. Thursday (August 25th, 2023):
-   - [ ] Either practice gratitude by writing a list of things you are thankful for or write a heartfelt letter to someone you appreciate;
-   - [ ] Cultivating gratitude and expressing appreciation promote positivity and strengthen relationships.
+   - [x] stm32 智能小车课程看到24集。
+   - [x] the shortcut of clip board should be add to logitech mouse. 
+   - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？什么时候用多线程好，什么时候用多进程好。kmalloc
 5. Friday (August 26th, 2023):
-   - [ ] 这个文件名字，必须修改
-应该是怎么用上科大的slurm系统，给我自己看，给上科大的同学看。（去吸收一下jinjiping的内容。）
-另起一个文件应该是，怎么用shic的 服务器。这个是给zhang han bing看。
-mlu370的内容，一直放在我的本地，给wangt看，还行。
-   - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？
-什么时候用多线程好，什么时候用多进程好。kmalloc
+   - [ ] 应该是怎么用上科大的slurm系统，给我自己看，给上科大的同学看。（去吸收一下jinjiping的内容。）另起一个文件应该是，怎么用shic的 服务器。这个是给zhang han bing看。mlu370的内容，一直放在我的本地，给wangt看，还行。
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因。
 6. Saturday (August 27th, 2023):
@@ -151,9 +147,7 @@ mlu370的内容，一直放在我的本地，给wangt看，还行。
    - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
    - [ ] weiao的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
-   - [ ] 寒武纪开发者中级课程，看了一点，感觉，还是用先学nvidia比较好。
    - [ ] 先找到apue这本书。然后看下内容有个规划
-   - [ ] the shortcut of clip board should be add to logitech mouse. 
    - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力
    - [ ] wangt让我用cncv,把大分辨率的图片，切割一下。对比一下，370和220的切割速度。
 # who can I ask
