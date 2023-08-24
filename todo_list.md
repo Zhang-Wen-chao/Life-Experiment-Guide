@@ -135,18 +135,19 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] the shortcut of clip board should be add to logitech mouse. 
 5. Friday (August 26th, 2023):
    - [x] stm32 智能小车课程看到24集。
+   - [ ] 知乎收藏了gpu的课程。
    - [ ] 停止看纪录片。要有计划得看。搞清楚，紧急的事情，最重要的事情。这个去查查吧，然后照着画一个框框。开始执行。一定要有紧急的概念！！！
    - [ ] 可能不得不打开一个网页，始终开着chatgpt了。屏幕是急需的，要不申请买一台吧。自己买一台4K的也行。
    - [ ] 刚刚想到了一个问题，我把机械硬盘挂载了mnt,那能不能挂载在/home下呢？这样不就是大家日常可以正常使用了
    - [ ] Linux 怎么分配内存？怎么分配连续内存？怎么分配不连续内存？什么时候用多线程好，什么时候用多进程好。kmalloc
    - [ ] 先找到apue这本书。然后看下内容有个规划
+   - [ ] 写周报，少写一点。
 6. Saturday (August 27th, 2023):
    - [ ] 应该是怎么用上科大的slurm系统，给我自己看，给上科大的同学看。（去吸收一下jinjiping的内容。）另起一个文件应该是，怎么用shic的 服务器。这个是给zhang han bing看。mlu370的内容，一直放在我的本地，给wangt看，还行。
    - [ ] 下一步需要做的是，继续在Jetson nano上安装pytorch等组件。well，21号晚上9点多，登录不上了，不知道原因
 7. Sunday (August 28th, 2023):
    - [ ] 多模态模型的具体目标是什么？输入是什么？输出是什么？我们有什么
-   - [ ] 就能投dingchen这个岗位了。By the way, it is a small paper required by teacher Zhao
-   - [ ] https://github.com/ml-jku/hti-cnn/blob/master/datasets.py   尤其是178-189行的load_view_group函数  那你看看这个代码的功能是不是将5个通道的图像合并成一个npz
+   - [ ] 就能投dingchen这个岗位了。
    - [ ] weiao的霹雳巴拉
    - [ ] run rt-detr on shic，请教dengting
    - [ ] wxt的nlp就剩下两个文件还没跑完了。再努努力
@@ -199,7 +200,6 @@ https://www.tsri.org.tw/main.jsp
 https://hom-wang.gitbooks.io/verilog-hdl/content/
 還有，很重要的是要大量讀paper，ieee paper，
 
-单片机视频。嵌入式linux；
 Hdlbits Verilog的题目；
 模电、数电、Verilog；
 编译原理、c++；
