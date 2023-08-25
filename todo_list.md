@@ -136,7 +136,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] the shortcut of clip board should be add to logitech mouse. 
    - [x] 河西走廊纪录片看完了。
 5. Friday (August 26th, 2023):
-   - [ ] stm32 智能小车课程看到24集。
+   - [x] stm32 智能小车课程看到25集。
    - [ ] 停止看纪录片。要有计划得看。搞清楚，紧急的事情，最重要的事情。这个去查查吧，然后照着画一个框框。开始执行。一定要有紧急的概念！！！
 6. Saturday (August 27th, 2023):
    - [ ] haining crab.
