@@ -1,8 +1,3 @@
-审判、东周列国传、温家宝地质笔记、汤姆叔叔的小屋、
-
-资治通鉴，3册，公元25年。
-
-皮皮虾医院皮院长 回复 @ 石化的化石 :军地两用人才之友、民兵干部手册、赤脚医生手册 三大神书。找到后发给周恒。
 ## 大模型时代，普通人的科研何去何从
 ### 王晋东不在家
 1. 新的分析和评测
@@ -72,67 +67,3 @@ Q7用于定量评估的数据集是什么？代码有没有开源？
 Q8论文中的实验及结果有没有很好地支持需要验证的科学假设？
 Q9这篇论文到底有什么贡献？
 Q10下一步呢？有什么工作可以继续深入？
-
-
-# what I want to read
-I have already listened to Tchaikovsky CD 2.
-
-download the movies recommended by shao ziyu
-irobot 
-matrix
-humans
-westworld
-black mirror
-ex machina 
-terminator
-
-阿凡达水之道。
-
-法扎法红黑什么的，魔戒三部曲。
-
-毛选
-
-伟大的城市和作曲家，哔哩哔哩纪录片。
-
-董老师：资治通鉴、史记
-
-金枝
-
-雅婷师姐：追忆似水年华、儒林外史，荷马史诗•奥德赛，
-
-哲学的故事，喧哗与骚动。逃离，。
-
-中国化的日本，
-
-信仰的时代—中世纪哲学家，弗里曼斯特。窗边的小豆豆。文学回忆录，审批，侯卫东官场笔记，
-艾科的《美的历史》和《丑的历史》；贡布里希的《艺术的故事》；中国的，艺术的故事？
-1.胆小别看画系列
-2.艺术的故事；现代艺术150年
-巴黎圣母院
-
-浮生六记
-
-康蕾老师：ccl领导力开发手册
-
-家庭私有制国家的起源，bilibili有带读。
-
-斯坦福学习方法
-
-社会心理学
-
-金刚经说什么
-
-心经
-
-菜根谭
-
-孤独六讲
-
-曾国藩家书
-
-Melancholian 3 huonetta
-
-
-Watch the movie：the way of Water, The Lord of the Rings.
-
-4. Investigate the composition of the creators of the major self-media platforms（中国社会各阶级分析）,and give it to shao sister.
