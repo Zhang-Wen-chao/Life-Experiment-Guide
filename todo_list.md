@@ -128,6 +128,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 看了航拍中国两季。
 3. Wednesday (August 24th, 2023):
    - [x] 装好了cupy
+   - [x] 航拍中国第三季
    - [x] 买了haining的票。
    - [x] 装好了keil.
 4. Thursday (August 25th, 2023):
