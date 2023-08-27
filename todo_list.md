@@ -102,7 +102,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 ## this week
 1. Monday (August 29th, 2023):
    - [ ] chat with Jin.
-   - [ ] Experimenting with food enhances culinary skills and broadens the palate.
+   - [ ] stm32 智能小车课程看到34集。
 2. Tuesday (August 30th, 2023):
    - [ ] Either engage in a mindfulness or meditation practice or try a relaxing yoga session;
    - [ ] Cultivating inner peace and mindfulness promotes overall well-being and reduces stress.
