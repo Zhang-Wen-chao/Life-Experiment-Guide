@@ -76,46 +76,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 ## last week
-1. Monday (August 15th, 2023):
-   - [x] 整理一下华为手机的照片。
-   - [x] 安装pytorch、tensorflow的docker。
-   - [x] 把飞书的任务转移到lark.
-   - [x] 晋老师给的yolov5，目前看起来运行得很正常。
-   - [x] wxt的nlp就剩下两个文件还没跑完了。
-   - [x] wangshihang,让我下载另一个网站的图片。完成了。
-2. Tuesday (August 16th, 2023):
-   - [x] 解决了三星平板用airpods打微信电话的问题。
-   - [x] 三星平板验机。
-   - [x] 重装了370的conda环境和docker环境。
-   - [x] 告诉赵老师，晋老师没有理我。没写论文。他安排的yolov5已经跑起来了。
-3. Wednesday (August 17th, 2023):
-   - [x] chat with Lu Qi.
-   - [x] 制作了gentoo linux安装盘，已经进入live CD,该分区了。
-   - [x] 已经跑起来了好几个370实验了。
-4. Thursday (August 18th, 2023):
-   - [x] ok,不继续寒武纪的课程实验了，没有意义。他自己做的就不好。现在要专心干wangt交代的函数性能比较任务。
-   - [x] gentoo linux 遇到harfbuzz循环依赖问题。
-5. Friday (August 19th, 2023):
-   - [x] harfbuzz循环依赖问题，已经解决了。
-   - [x] 测试了小米蓝牙耳机在三星平板的表现。
-   - [x] 开始从头安装nano的系统
-   - [x] Gentoo 又遇到了新问题，在稳步推进。
-6. Saturday (August 20th, 2023):
-   - [x] Gentoo linux解决了访问github问题、安装输入法问题。现在遇到了中文无法正常显示的问题。
-   - [x] Jetson nano解决了boot问题、存储问题。
-   - [x] 招待杨大哥
-   - [x] raspberry 改装64位系统。
-7. Sunday (August 21st, 2023):
-   - [x] 所有设备都转向了lark软件，来互通信息。
-   - [x] 把三星平板的充电器，暂时先给树莓派供电。把songchen师姐给我的充电器，给三星平板供电，作为拓展屏幕。
-   - [x] 编译成功了cnnl。
-   - [x] 让周师兄的电脑开始运行cupy，怎么还有版本问题？不搞了。换个设备。
-   - [x] write weekly report and email.
-   - [x] 在Windows上配置好zotero开始看论文。
-   - [x] Gentoo linux解决了中文无法正常显示的问题。
-   - [x] 查一下，Ubuntu22怎么安装nvidia驱动。据说联网安装十分省心，开始尝试！
-   - [x] 把nano、raspberry写进文档
-## this week
 1. Monday (August 22nd, 2023):
    - [x] Gentoo Linux找到了怎么设置双拼，但是似乎还没更新到位。不过似乎没必要继续了，就是，可以但没必要。
    - [x] Ubuntu22联网安装驱动太省心了！work！下一步，安装zsh、conda、cuda、lark、code、百度网盘、edge浏览器。
@@ -137,11 +97,33 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 河西走廊纪录片看完了。
 5. Friday (August 26th, 2023):
    - [x] stm32 智能小车课程看到25集。
-   - [ ] 停止看纪录片。要有计划得看。搞清楚，紧急的事情，最重要的事情。这个去查查吧，然后照着画一个框框。开始执行。一定要有紧急的概念！！！
+   - [x] 停止看纪录片。要有计划得看。搞清楚，紧急的事情，最重要的事情。开始执行。一定要有紧急的概念！！！
 6. Saturday (August 27th, 2023):
-   - [ ] haining crab.
+   - [x] haining crab.
 7. Sunday (August 28th, 2023):
-   - [ ] haining library
+   - [x] stm32 智能小车课程看到34集。
+## this week
+1. Monday (August 29th, 2023):
+   - [ ] chat with Jin.
+   - [ ] Experimenting with food enhances culinary skills and broadens the palate.
+2. Tuesday (August 30th, 2023):
+   - [ ] Either engage in a mindfulness or meditation practice or try a relaxing yoga session;
+   - [ ] Cultivating inner peace and mindfulness promotes overall well-being and reduces stress.
+3. Wednesday (August 31st, 2023):
+   - [ ] Either listen to a podcast or watch a documentary on a topic that intrigues you;
+   - [ ] Exploring diverse perspectives through audio or visual mediums enriches knowledge and stimulates curiosity.
+4. Thursday (September 1st, 2023):
+   - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
+   - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
+5. Friday (September 2nd, 2023):
+   - [ ] Either organize and declutter a specific area of your home or rearrange your living space for a fresh look;
+   - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
+6. Saturday (September 3rd, 2023):
+   - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
+   - [ ] Connecting with nature and engaging in physical activities contribute to a healthy and active lifestyle.
+7. Sunday (September 4th, 2023):
+   - [ ] Either spend quality time with loved ones, enjoying their company and creating lasting memories, or have a self-care day dedicated to relaxation and pampering;
+   - [ ] Nurturing relationships or practicing self-care promotes happiness and overall well-being.
 # who can I ask
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
@@ -151,33 +133,33 @@ anayway, learn to everyone.
 ## Any questions today
 ## next week
 ```
-1. Monday (August 29th, 2023):
-   - [ ] Either try a new recipe or explore different cuisines through online cooking tutorials;
-   - [ ] Experimenting with food enhances culinary skills and broadens the palate.
+1. Monday (September 5th, 2023):
+   - [ ] Either read a book or listen to an audiobook on a genre that interests you;
+   - [ ] Exploring different literary works expands knowledge and fuels imagination.
 
-2. Tuesday (August 30th, 2023):
-   - [ ] Either engage in a mindfulness or meditation practice or try a relaxing yoga session;
-   - [ ] Cultivating inner peace and mindfulness promotes overall well-being and reduces stress.
+2. Tuesday (September 6th, 2023):
+   - [ ] Either try out a new form of exercise or join a fitness class to stay active and maintain a healthy lifestyle;
+   - [ ] Physical activity enhances physical and mental well-being.
 
-3. Wednesday (August 31st, 2023):
-   - [ ] Either listen to a podcast or watch a documentary on a topic that intrigues you;
-   - [ ] Exploring diverse perspectives through audio or visual mediums enriches knowledge and stimulates curiosity.
+3. Wednesday (September 7th, 2023):
+   - [ ] Either spend time learning a new musical instrument or listen to a curated playlist of your favorite songs;
+   - [ ] Immersion in the world of music brings joy and fosters creativity.
 
-4. Thursday (September 1st, 2023):
-   - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
-   - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
+4. Thursday (September 8th, 2023):
+   - [ ] Either engage in a DIY project or try your hand at a new craft, such as painting, knitting, or origami;
+   - [ ] Channeling your creativity through crafts enables self-expression and provides a sense of accomplishment.
 
-5. Friday (September 2nd, 2023):
-   - [ ] Either organize and declutter a specific area of your home or rearrange your living space for a fresh look;
-   - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
+5. Friday (September 9th, 2023):
+   - [ ] Either explore a new park or garden in your area or engage in some gardening at home;
+   - [ ] Connecting with nature and nurturing plants cultivates a sense of tranquility.
 
-6. Saturday (September 3rd, 2023):
-   - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
-   - [ ] Connecting with nature and engaging in physical activities contribute to a healthy and active lifestyle.
+6. Saturday (September 10th, 2023):
+   - [ ] Either try a new recipe or have a themed dinner night with friends or family;
+   - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
 
-7. Sunday (September 4th, 2023):
-   - [ ] Either spend quality time with loved ones, enjoying their company and creating lasting memories, or have a self-care day dedicated to relaxation and pampering;
-   - [ ] Nurturing relationships or practicing self-care promotes happiness and overall well-being.
+7. Sunday (September 11th, 2023):
+   - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
+   - [ ] Photography allows for creative expression and captures moments that can be cherished for years to come.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
