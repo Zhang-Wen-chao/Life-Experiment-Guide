@@ -108,7 +108,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] cadence开会。
    - [x] print invoice.
 3. Wednesday (August 31st, 2023):
-   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容。
+   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 4. Thursday (September 1st, 2023):
    - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
    - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
