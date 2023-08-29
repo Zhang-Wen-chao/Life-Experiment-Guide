@@ -111,7 +111,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 4. Thursday (September 1st, 2023):
    - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
-   - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
+   - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression
 5. Friday (September 2nd, 2023):
    - [ ] Either organize and declutter a specific area of your home or rearrange your living space for a fresh look;
    - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
