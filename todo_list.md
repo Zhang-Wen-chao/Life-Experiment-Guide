@@ -102,14 +102,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 ## this week
 1. Monday (August 29th, 2023):
    - [x] chat with Jin.
-   - [ ] stm32 智能小车课程，看完了第34集。
+   - [x] stm32 智能小车课程，看完了.
    - [x] 当卢浮宫遇见紫禁城，看完了第六集。
 2. Tuesday (August 30th, 2023):
-   - [ ] Either engage in a mindfulness or meditation practice or try a relaxing yoga session;
-   - [ ] Cultivating inner peace and mindfulness promotes overall well-being and reduces stress.
+   - [x] cadence开会。
+   - [x] print invoice.
 3. Wednesday (August 31st, 2023):
-   - [ ] Either listen to a podcast or watch a documentary on a topic that intrigues you;
-   - [ ] Exploring diverse perspectives through audio or visual mediums enriches knowledge and stimulates curiosity.
+   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容。
 4. Thursday (September 1st, 2023):
    - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
    - [ ] Engaging in creative pursuits nurtures imagination and provides an outlet for self-expression.
