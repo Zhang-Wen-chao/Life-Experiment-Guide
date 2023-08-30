@@ -110,6 +110,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (August 31st, 2023):
    - [x] 看MIT的自动驾驶课程。
    - [x] 敦煌看完了第五集。
+   - [x] lark 部署了 chatgpt，最后发现我已经没有API的余额了。
+   - [x] 固定我的安卓chatgpt APP在桌面，随时chat。
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 4. Thursday (September 1st, 2023):
    - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
