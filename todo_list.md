@@ -108,10 +108,12 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] cadence开会。
    - [x] print invoice.
 3. Wednesday (August 31st, 2023):
-   - [x] 看MIT的自动驾驶课程。
+   - [x] 看MIT的自动驾驶课程，到第10集。
    - [x] 敦煌看完了第五集。
    - [x] lark 部署了 chatgpt，最后发现我已经没有API的余额了。
    - [x] 固定我的安卓chatgpt APP在桌面，随时chat。
+   - [x] 和老师谈话后，感觉时间还很多。
+   - [x] 开始准备转移文件到另一台Windows电脑。然后把我自己的电脑送给宝宝。
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 4. Thursday (September 1st, 2023):
    - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
