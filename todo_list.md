@@ -119,7 +119,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] diskgenius确实很好用，可以整体迁移系统。
 5. Friday (September 2nd, 2023):
    - [x] 看完官方numpy、Python的tutorial。
-   - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 6. Saturday (September 3rd, 2023):
    - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
