@@ -114,13 +114,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 固定我的安卓chatgpt APP在桌面，随时chat。
    - [x] 和老师谈话后，感觉时间还很多。
    - [x] 开始准备转移文件到另一台Windows电脑。然后把我自己的电脑送给宝宝。
-   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 4. Thursday (September 1st, 2023):
-   - [ ] Either take up a new hobby or spend time indulging in a favorite creative activity;
-   - [ ] Engaging in creative pursuits nurtures imagination and pro
+   - [x] 抛弃不稳定的fcitx5,安装百度输入法。
+   - [x] diskgenius确实很好用，可以整体迁移系统。
 5. Friday (September 2nd, 2023):
-   - [ ] Either organize and declutter a specific area of your home or rearrange your living space for a fresh look;
+   - [x] 看完官方numpy、Python的tutorial。
    - [ ] Creating an organized and visually appealing environment promotes a sense of calm and productivity.
+   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 6. Saturday (September 3rd, 2023):
    - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
    - [ ] Connecting with nature and engaging in physical activities contribute to a healthy and active lifestyle.
