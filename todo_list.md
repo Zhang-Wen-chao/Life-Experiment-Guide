@@ -72,34 +72,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
+
 ## last week
-1. Monday (August 22nd, 2023):
-   - [x] Gentoo Linux找到了怎么设置双拼，但是似乎还没更新到位。不过似乎没必要继续了，就是，可以但没必要。
-   - [x] Ubuntu22联网安装驱动太省心了！work！下一步，安装zsh、conda、cuda、lark、code、百度网盘、edge浏览器。
-   - [x] 下午把屏幕搬过来，当我电脑的拓展屏。下午把Gentoo的电脑，搬回306。
-   - [x] 开始在周师兄的电脑上安装torch，但是cupy是真的装不上去啊！怎么办？
-   - [x] 开始玩树莓派，发现不能开机后插摄像头，要先插上摄像头，再插上电源。
-2. Tuesday (August 23rd, 2023):
-   - [x] 听cellpainting开会。
-   - [x] 装好小车结构件。
-   - [x] 看了航拍中国两季。
-3. Wednesday (August 24th, 2023):
-   - [x] 装好了cupy
-   - [x] 航拍中国第三季
-   - [x] 买了haining的票。
-   - [x] 装好了keil.
-4. Thursday (August 25th, 2023):
-   - [x] stm32 智能小车课程看到24集。
-   - [x] the shortcut of clip board should be add to logitech mouse. 
-   - [x] 河西走廊纪录片看完了。
-5. Friday (August 26th, 2023):
-   - [x] stm32 智能小车课程看到25集。
-   - [x] 停止看纪录片。要有计划得看。搞清楚，紧急的事情，最重要的事情。开始执行。一定要有紧急的概念！！！
-6. Saturday (August 27th, 2023):
-   - [x] haining crab.
-7. Sunday (August 28th, 2023):
-   - [x] stm32 智能小车课程看到34集。
-## this week
 1. Monday (August 29th, 2023):
    - [x] chat with Jin.
    - [x] stm32 智能小车课程，看完了.
@@ -119,26 +93,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] diskgenius确实很好用，可以整体迁移系统。
 5. Friday (September 2nd, 2023):
    - [x] 看完官方numpy、Python的tutorial。
-   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 6. Saturday (September 3rd, 2023):
-   - [ ] Either go for a long, refreshing hike or indulge in a fun outdoor game with friends or family;
-   - [ ] Connecting with nature and engaging in physical activities contribute to a healthy and active lifestyle.
+   - [x] tanxu took me on a trip to suzhou.
 7. Sunday (September 4th, 2023):
-   - [ ] Either spend quality time with loved ones, enjoying their company and creating lasting memories, or have a self-care day dedicated to relaxation and pampering;
-   - [ ] Nurturing relationships or practicing self-care promotes happiness and overall well-being.
-# who can I ask
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
-anayway, learn to everyone.
-## Any questions today
-## next week
-```
+   - [x] tanxu took me on a trip to suzhou.
+## this week
 1. Monday (September 5th, 2023):
-   - [ ] Either read a book or listen to an audiobook on a genre that interests you;
-   - [ ] Exploring different literary works expands knowledge and fuels imagination.
-
+   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
 2. Tuesday (September 6th, 2023):
    - [ ] Either try out a new form of exercise or join a fitness class to stay active and maintain a healthy lifestyle;
    - [ ] Physical activity enhances physical and mental well-being.
@@ -162,6 +123,42 @@ anayway, learn to everyone.
 7. Sunday (September 11th, 2023):
    - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
    - [ ] Photography allows for creative expression and captures moments that can be cherished for years to come.
+# who can I ask
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
+anayway, learn to everyone.
+## Any questions today
+## next week
+```
+1. Monday (September 12th, 2023):
+   - [ ] Either start a new coding project or solve coding challenges to enhance your programming skills;
+   - [ ] Learning and practicing coding builds problem-solving abilities and encourages logical thinking.
+
+2. Tuesday (September 13th, 2023):
+   - [ ] Either try your hand at painting or visit an art gallery to appreciate different forms of visual art;
+   - [ ] Engaging with art stimulates creativity and allows for self-expression.
+
+3. Wednesday (September 14th, 2023):
+   - [ ] Either spend time reading articles or watching videos on a subject of interest, expanding your knowledge;
+   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
+
+4. Thursday (September 15th, 2023):
+   - [ ] Either go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors;
+   - [ ] Connecting with nature boosts mental and physical well-being.
+
+5. Friday (September 16th, 2023):
+   - [ ] Either write in a journal or start a blog to reflect on your thoughts and experiences;
+   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
+
+6. Saturday (September 17th, 2023):
+   - [ ] Either volunteer for a cause you care about or donate to a charity that supports your values;
+   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
+
+7. Sunday (September 18th, 2023):
+   - [ ] Either visit a local museum or watch a documentary to learn about history or a new subject;
+   - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
