@@ -98,7 +98,10 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] tanxu took me on a trip to suzhou.
 ## this week
 1. Monday (September 5th, 2023):
+   - [ｘ] 看完官方numpy的tutorial。
+   - [ｘ] 看完官方torch的tutorial
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam。
 2. Tuesday (September 6th, 2023):
    - [ ] Either try out a new form of exercise or join a fitness class to stay active and maintain a healthy lifestyle;
    - [ ] Physical activity enhances physical and mental well-being.
@@ -129,6 +132,10 @@ jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工
 wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
 anayway, learn to everyone.
 ## Any questions today
+[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
+%whos
+whos
+这两句有什么区别
 ## next week
 ```
 1. Monday (September 12th, 2023):
