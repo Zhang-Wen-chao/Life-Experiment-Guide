@@ -99,29 +99,22 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 ## this week
 1. Monday (September 5th, 2023):
    - [ｘ] 看完官方numpy的tutorial。
-   - [ｘ] 看完官方torch的tutorial
+   - [ｘ] 开始看官方torch的tutorial
+2. Tuesday (September 6th, 2023):
+   - [x] 看完mit自动驾驶的课程。但是还没有去跑它的算法。
+   - [ ] 看了大部分官方torch的tutorial
+3. Wednesday (September 7th, 2023):
    - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam。
-2. Tuesday (September 6th, 2023):
-   - [ ] Either try out a new form of exercise or join a fitness class to stay active and maintain a healthy lifestyle;
-   - [ ] Physical activity enhances physical and mental well-being.
-
-3. Wednesday (September 7th, 2023):
-   - [ ] Either spend time learning a new musical instrument or listen to a curated playlist of your favorite songs;
-   - [ ] Immersion in the world of music brings joy and fosters creativity.
-
 4. Thursday (September 8th, 2023):
    - [ ] Either engage in a DIY project or try your hand at a new craft, such as painting, knitting, or origami;
    - [ ] Channeling your creativity through crafts enables self-expression and provides a sense of accomplishment.
-
 5. Friday (September 9th, 2023):
    - [ ] Either explore a new park or garden in your area or engage in some gardening at home;
    - [ ] Connecting with nature and nurturing plants cultivates a sense of tranquility.
-
 6. Saturday (September 10th, 2023):
    - [ ] Either try a new recipe or have a themed dinner night with friends or family;
    - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
-
 7. Sunday (September 11th, 2023):
    - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
    - [ ] Photography allows for creative expression and captures moments that can be cherished for years to come.
