@@ -102,9 +102,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ｘ] 开始看官方torch的tutorial
 2. Tuesday (September 6th, 2023):
    - [x] 看完mit自动驾驶的课程。但是还没有去跑它的算法。
-   - [ ] 看了大部分官方torch的tutorial
+   - [x] 看了大部分官方torch的tutorial
 3. Wednesday (September 7th, 2023):
-   - [ ] 开始找一些自动驾驶的论文？反正现在要围绕自动驾驶多看内容
+   - [x] 想了下论文题目。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam。
 4. Thursday (September 8th, 2023):
    - [ ] Either engage in a DIY project or try your hand at a new craft, such as painting, knitting, or origami;
@@ -119,6 +119,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
    - [ ] Photography allows for creative expression and captures moments that can be cherished for years to come.
 # who can I ask
+何为自动驾驶领域的工程化能力 - TechTorch的文章 - 知乎
+https://zhuanlan.zhihu.com/p/461656580
+
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
