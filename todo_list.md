@@ -117,7 +117,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
 7. Sunday (September 11th, 2023):
    - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
-   - [ ] Photography allows for creative expression and captures moments that can be cherished for years to come.
+   - [ ] Photography allows for creative expression and 
 # who can I ask
 何为自动驾驶领域的工程化能力 - TechTorch的文章 - 知乎
 https://zhuanlan.zhihu.com/p/461656580
