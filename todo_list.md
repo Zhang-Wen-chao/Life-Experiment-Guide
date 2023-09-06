@@ -106,7 +106,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (September 7th, 2023):
    - [x] 想了下论文题目。
    - [ ] 看了大部分官方torch的tutorial
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam。
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
 4. Thursday (September 8th, 2023):
    - [ ] Either engage in a DIY project or try your hand at a new craft, such as painting, knitting, or origami;
    - [ ] Channeling your creativity through crafts enables self-expression and provides a sense of accomplishment.
