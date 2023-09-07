@@ -107,8 +107,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 想了下论文题目。
    - [x] 看了tensorrt的哔哩哔哩视频。
 4. Thursday (September 8th, 2023):
+   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
-   - [ ] 
 5. Friday (September 9th, 2023):
    - [ ] Either explore a new park or garden in your area or engage in some gardening at home;
    - [ ] Connecting with nature and nurturing plants cultivates a sense of tranquility.
