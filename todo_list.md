@@ -110,6 +110,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 怎么安装tensorrt也搞不清楚位置在哪里呢？经过这个事情，我决定，全面转向docker，conda予以辅助。
 5. Friday (September 9th, 2023):
    - [x] 算了，做个简单的，开始下载bdd数据集，然后yolov7跑一下。
+   - [x] tmd，给我配的是什么破电脑，vscode终端屡屡卡死。有什么运行时间长的命令，务必使用自带的终端。
 6. Saturday (September 10th, 2023):
    - [ ] Either try a new recipe or have a themed dinner night with friends or family;
    - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
