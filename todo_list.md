@@ -117,6 +117,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
 # who can I ask
+摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 xinzhu
@@ -128,7 +129,6 @@ anayway, learn to everyone.
 %whos
 whos
 这两句有什么区别
-
 
 ## next week
 ```
