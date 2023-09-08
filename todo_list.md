@@ -107,17 +107,15 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 想了下论文题目。
    - [x] 看了tensorrt的哔哩哔哩视频。
 4. Thursday (September 8th, 2023):
-   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+   - [x] 怎么安装tensorrt也搞不清楚位置在哪里呢？经过这个事情，我决定，全面转向docker，conda予以辅助。
 5. Friday (September 9th, 2023):
-   - [ ] Either explore a new park or garden in your area or engage in some gardening at home;
-   - [ ] Connecting with nature and nurturing plants cultivates a sense of tranquility.
+   - [x] 算了，做个简单的，开始下载bdd数据集，然后yolov7跑一下。
 6. Saturday (September 10th, 2023):
    - [ ] Either try a new recipe or have a themed dinner night with friends or family;
    - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
 7. Sunday (September 11th, 2023):
-   - [ ] Either go on a photography excursion to capture the beauty around you or create a photo album to cherish memories;
-   - [ ] Photography allows for creative expression and 
+   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
 # who can I ask
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
