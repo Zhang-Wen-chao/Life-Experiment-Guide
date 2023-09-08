@@ -112,7 +112,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 算了，做个简单的，开始下载bdd数据集，然后yolov7跑一下。
    - [x] tmd，给我配的是什么破电脑，vscode终端屡屡卡死。有什么运行时间长的命令，务必使用自带的终端。
 6. Saturday (September 10th, 2023):
-   - [ ] Either try a new recipe or have a themed dinner night with friends or family;
+   - [ ] 370已经支持onnx了，那还不快快搞一波。像老师证明一下我的实力。首先是用tensorrt把常用的算法通通部署到英伟达的docker，然后是本地的370.
    - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
 7. Sunday (September 11th, 2023):
    - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
