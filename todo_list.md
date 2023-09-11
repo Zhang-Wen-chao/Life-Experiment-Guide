@@ -98,8 +98,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 设计yolov5的对照实验，看下量化效果对比。
    - [x] 开始看商汤科技的模型量化课程。
    - [x] 分析清楚了当前的局势，开始认真学习计算机体系结构。
+   - [x] chat with yuting。
 2. Tuesday (September 13th, 2023):
-   - [ ] Either try your hand at painting or visit an art gallery to appreciate different forms of visual art;
+   - [x] 训练后量化。先完成寒武纪上的3个epoch的。
    - [ ] Engaging with art stimulates creativity and allows for self-expression.
 3. Wednesday (September 14th, 2023):
    - [ ] Either spend time reading articles or watching videos on a subject of interest, expanding your knowledge;
