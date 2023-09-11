@@ -73,30 +73,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
  -->
 
 ## last week
-1. Monday (August 29th, 2023):
-   - [x] chat with Jin.
-   - [x] stm32 智能小车课程，看完了.
-   - [x] 当卢浮宫遇见紫禁城，看完了第六集。
-2. Tuesday (August 30th, 2023):
-   - [x] cadence开会。
-   - [x] print invoice.
-3. Wednesday (August 31st, 2023):
-   - [x] 看MIT的自动驾驶课程，到第10集。
-   - [x] 敦煌看完了第五集。
-   - [x] lark 部署了 chatgpt，最后发现我已经没有API的余额了。
-   - [x] 固定我的安卓chatgpt APP在桌面，随时chat。
-   - [x] 和老师谈话后，感觉时间还很多。
-   - [x] 开始准备转移文件到另一台Windows电脑。然后把我自己的电脑送给宝宝。
-4. Thursday (September 1st, 2023):
-   - [x] 抛弃不稳定的fcitx5,安装百度输入法。
-   - [x] diskgenius确实很好用，可以整体迁移系统。
-5. Friday (September 2nd, 2023):
-   - [x] 看完官方numpy、Python的tutorial。
-6. Saturday (September 3rd, 2023):
-   - [x] tanxu took me on a trip to suzhou.
-7. Sunday (September 4th, 2023):
-   - [x] tanxu took me on a trip to suzhou.
-## this week
 1. Monday (September 5th, 2023):
    - [ｘ] 看完官方numpy的tutorial。
    - [ｘ] 开始看官方torch的tutorial
@@ -111,36 +87,20 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 5. Friday (September 9th, 2023):
    - [x] 算了，做个简单的，开始下载bdd数据集，然后yolov7跑一下。
    - [x] tmd，给我配的是什么破电脑，vscode终端屡屡卡死。有什么运行时间长的命令，务必使用自带的终端。
+   - [x] 导师在追问创新点。
 6. Saturday (September 10th, 2023):
-   - [ ] 370已经支持onnx了，那还不快快搞一波。像老师证明一下我的实力。首先是用tensorrt把常用的算法通通部署到英伟达的docker，然后是本地的370.
-   - [ ] Sharing delicious food and laughter strengthens relationships and creates memorable experiences.
+   - [x] 改变命运的一天。
 7. Sunday (September 11th, 2023):
-   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
-# who can I ask
-摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
-
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
-anayway, learn to everyone.
-## Any questions today
-[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
-%whos
-whos
-这两句有什么区别
-
-## next week
-```
+   - [x] 吃蛋糕的一天。
+   - [x] 问候教师朋友们。
+## this week
 1. Monday (September 12th, 2023):
-   - [ ] Either start a new coding project or solve coding challenges to enhance your programming skills;
-   - [ ] Learning and practicing coding builds problem-solving abilities and encourages logical thinking.
-
+   - [x] 设计yolov5的对照实验，看下量化效果对比。
+   - [x] 开始看商汤科技的模型量化课程。
+   - [x] 分析清楚了当前的局势，开始认真学习计算机体系结构。
 2. Tuesday (September 13th, 2023):
    - [ ] Either try your hand at painting or visit an art gallery to appreciate different forms of visual art;
    - [ ] Engaging with art stimulates creativity and allows for self-expression.
-
 3. Wednesday (September 14th, 2023):
    - [ ] Either spend time reading articles or watching videos on a subject of interest, expanding your knowledge;
    - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
@@ -159,6 +119,52 @@ whos
 
 7. Sunday (September 18th, 2023):
    - [ ] Either visit a local museum or watch a documentary to learn about history or a new subject;
+   - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
+   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+   - [ ] 370已经支持onnx了，那还不快快搞一波。像老师证明一下我的实力。首先是用tensorrt把常用的算法通通部署到英伟达的docker，然后是本地的370.
+# who can I ask
+摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
+
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+xinzhu
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
+anayway, learn to everyone.
+## Any questions today
+[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
+%whos
+whos
+这两句有什么区别
+
+## next week
+```
+1. Monday (September 19th, 2023):
+   - [ ] Start a new coding project or solve coding challenges to enhance your programming skills.
+   - [ ] Learning and practicing coding builds problem-solving abilities and encourages logical thinking.
+
+2. Tuesday (September 20th, 2023):
+   - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
+   - [ ] Engaging with art stimulates creativity and allows for self-expression.
+
+3. Wednesday (September 21st, 2023):
+   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
+   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
+
+4. Thursday (September 22nd, 2023):
+   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
+   - [ ] Connecting with nature boosts mental and physical well-being.
+
+5. Friday (September 23rd, 2023):
+   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
+   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
+
+6. Saturday (September 24th, 2023):
+   - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
+   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
+
+7. Sunday (September 25th, 2023):
+   - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
    - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
