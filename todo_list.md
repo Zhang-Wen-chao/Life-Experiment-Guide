@@ -104,6 +104,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 看完了商汤的mqbench。
 3. Wednesday (September 14th, 2023):
    - [x] 学习寒武纪的量化方式。
+   - [ ] 然后复现寒武纪的量化仓库。
+   - [ ] 然后浮现商汤的mqbench。
    - [ ] 继续看计算机体系结构的书。
 4. Thursday (September 15th, 2023):
    - [ ] Either go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors;
