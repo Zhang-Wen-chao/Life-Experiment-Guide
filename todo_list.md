@@ -104,17 +104,14 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 看完了商汤的mqbench。
 3. Wednesday (September 14th, 2023):
    - [x] 学习寒武纪的量化方式。
+   - [x] 继续看计算机体系结构的书。
+4. Thursday (September 15th, 2023):
+   - [x] 继续看计算机体系结构的书。
+   - [x] 看Verilog的书。
+5. Friday (September 16th, 2023):
+   - [ ] 写一下我想对江哲说什么。
    - [ ] 然后复现寒武纪的量化仓库。
    - [ ] 然后浮现商汤的mqbench。
-   - [ ] 继续看计算机体系结构的书。
-4. Thursday (September 15th, 2023):
-   - [ ] Either go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors;
-   - [ ] Connecting with nature boosts mental and physical well-being.
-
-5. Friday (September 16th, 2023):
-   - [ ] Either write in a journal or start a blog to reflect on your thoughts and experiences;
-   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
-
 6. Saturday (September 17th, 2023):
    - [ ] Either volunteer for a cause you care about or donate to a charity that supports your values;
    - [ ] Giving back to the community cultivates empathy and makes a positive impact.
