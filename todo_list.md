@@ -115,7 +115,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 6. Saturday (September 17th, 2023):
    - [ ] Either volunteer for a cause you care about or donate to a charity that supports your values;
    - [ ] Giving back to the community cultivates empathy and makes a positive impact.
-
 7. Sunday (September 18th, 2023):
    - [ ] Either visit a local museum or watch a documentary to learn about history or a new subject;
    - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
