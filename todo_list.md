@@ -109,7 +109,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 继续看计算机体系结构的书。
    - [x] 看Verilog的书。
 5. Friday (September 16th, 2023):
-   - [ ] 写一下我想对江哲说什么。
+   - [ ] 写一下我想对jiang说什么。
    - [ ] 然后复现寒武纪的量化仓库。
    - [ ] 然后浮现商汤的mqbench。
 6. Saturday (September 17th, 2023):
