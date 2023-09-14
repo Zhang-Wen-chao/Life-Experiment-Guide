@@ -108,6 +108,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 4. Thursday (September 15th, 2023):
    - [x] 继续看计算机体系结构的书。
    - [x] 看Verilog的书。
+   - [x] 证明了我的华为手机不能实现电脑互联。
 5. Friday (September 16th, 2023):
    - [ ] 写一下我想对jiang说什么。
    - [ ] 然后复现寒武纪的量化仓库。
