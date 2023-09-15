@@ -112,11 +112,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 5. Friday (September 16th, 2023):
    - [x] chat with jiang
    - [x] 未能实现三星notes在pc端的使用。
+   - [x] 整理一下百度网盘
+   - [x] 向jin汇报
+   - [x] 复现寒武纪的量化仓库，遇到困难。
 6. Saturday (September 17th, 2023):
    - [ ] Either volunteer for a cause you care about or donate to a charity that supports your values;
    - [ ] Giving back to the community cultivates empathy and makes a positive impact.
 7. Sunday (September 18th, 2023):
-   - [ ] 然后复现寒武纪的量化仓库。
    - [ ] 然后浮现商汤的mqbench。
    - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
