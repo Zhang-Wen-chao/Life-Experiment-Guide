@@ -111,6 +111,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 证明了我的华为手机不能实现电脑互联。
 5. Friday (September 16th, 2023):
    - [ ] 写一下我想对jiang说什么。
+   - [ ] 测试三星notes在pc端的使用。
    - [ ] 然后复现寒武纪的量化仓库。
    - [ ] 然后浮现商汤的mqbench。
 6. Saturday (September 17th, 2023):
