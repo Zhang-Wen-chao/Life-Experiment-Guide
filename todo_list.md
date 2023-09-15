@@ -15,7 +15,6 @@ find a job
 
 至于程序员失业与否其实要看行业，你踩错了方向，就是要失业的。这和你是不是程序员，AI会不会写程序是没有关系的。
 ## 硬实力先堆起来
-
 非计算机专业要走计算机的路那就在硬实力上超过计算机专业的学生。计算机专业的学生不会写的程序你会写，那你就是牛逼。想让别人看你没学过计算机就给你更多的优待想都别想，不歧视已经够意思了。
 C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都要会，常用library要会用，能读懂英文的技术博客和doc，概念理论大致了解即可。
 不是专业人士就别研究算法，操作系统，人工智能了。会调参，会管理进程线程，知道用哪些library中的算法能解决问题就行了，不需要你自己写。
@@ -23,8 +22,8 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 
 ### 走外包路线
 如果你是非计算机专业，先别想着能到大厂找个996，进不去的。没那么多高大上的工作给你做，即使进去也是底层码农，35岁裁员警告。
-淘宝上挂个号帮人代写代码。所以对于初学者来说最重要的能力就是帮委托人解决问题。github上开源代码你别管版权问题，见了有用代码你就抄过来，各种库都可以用，只要能帮委托人解决问题。
 
+淘宝上挂个号帮人代写代码。所以对于初学者来说最重要的能力就是帮委托人解决问题。github上开源代码你别管版权问题，见了有用代码你就抄过来，各种库都可以用，只要能帮委托人解决问题。
 ### 为什么走外包
 你赚的钱完全取决于你创造的价值，你如果1小时能完成别人一周的活，那你的赚的钱并不比大厂打工少。非常适合硬实力强的10倍速程序员。优秀的程序员和菜鸡之间真的是1小时和一周的区别。
 
@@ -60,7 +59,6 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] I decide to open a new github repository to record my deep learning notes. 算法岗位真的需要顶会才能入场吗？ - 谢利昂D忒待儿的回答 - 知乎
 https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
-   - [ ] detr,sam模型移植到寒武纪。
    - [ ] explore Redis
    - [ ] 抽一个小时把cpp八股文写入quizlet。
    - [ ] https://github.com/laylalaisy
@@ -116,8 +114,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 向jin汇报
    - [x] 复现寒武纪的量化仓库，遇到困难。
 6. Saturday (September 17th, 2023):
-   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？
-   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
+   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
+   - [ ] 淘宝上挂个号帮人代写代码？
 7. Sunday (September 18th, 2023):
    - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
