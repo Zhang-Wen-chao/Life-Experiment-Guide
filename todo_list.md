@@ -117,6 +117,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with yangzh.
 ## this week
 1. Monday (September 19th, 2023):
+   - [ ] 继续复现寒武纪的量化仓库
+   - [ ] 开始广泛看知乎，关于计算机系统的说法 
+   - [ ] 开始广泛看计算机系统的论文。
    - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？
    - [ ] 有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
    - [ ] 淘宝上挂个号帮人代写代码？
