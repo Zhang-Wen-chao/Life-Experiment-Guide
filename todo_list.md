@@ -69,8 +69,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
-
-## last week
+# last month
 1. Monday (September 5th, 2023):
    - [ｘ] 看完官方numpy的tutorial。
    - [ｘ] 开始看官方torch的tutorial
@@ -91,7 +90,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (September 11th, 2023):
    - [x] 吃蛋糕的一天。
    - [x] 问候教师朋友们。
-## this week
+## last week
 1. Monday (September 12th, 2023):
    - [x] 设计yolov5的对照实验，看下量化效果对比。
    - [x] 开始看商汤科技的模型量化课程。
@@ -114,11 +113,33 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 向jin汇报
    - [x] 复现寒武纪的量化仓库，遇到困难。
 6. Saturday (September 17th, 2023):
+   - [x] chat with lanqi.
+7. Sunday (September 18th, 2023):
+   - [x] chat with yangzh.
+## this week
+1. Monday (September 19th, 2023):
    - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
    - [ ] 淘宝上挂个号帮人代写代码？
-7. Sunday (September 18th, 2023):
    - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+2. Tuesday (September 20th, 2023):
+   - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
+   - [ ] Engaging with art stimulates creativity and allows for self-expression.
+3. Wednesday (September 21st, 2023):
+   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
+   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
+4. Thursday (September 22nd, 2023):
+   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
+   - [ ] Connecting with nature boosts mental and physical well-being.
+5. Friday (September 23rd, 2023):
+   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
+   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
+6. Saturday (September 24th, 2023):
+   - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
+   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
+7. Sunday (September 25th, 2023):
+   - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
+   - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 # who can I ask
 摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
 
@@ -135,31 +156,31 @@ whos
 
 ## next week
 ```
-1. Monday (September 19th, 2023):
+1. Monday (September 26th, 2023):
    - [ ] Start a new coding project or solve coding challenges to enhance your programming skills.
    - [ ] Learning and practicing coding builds problem-solving abilities and encourages logical thinking.
 
-2. Tuesday (September 20th, 2023):
+2. Tuesday (September 27th, 2023):
    - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
    - [ ] Engaging with art stimulates creativity and allows for self-expression.
 
-3. Wednesday (September 21st, 2023):
+3. Wednesday (September 28th, 2023):
    - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
    - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
 
-4. Thursday (September 22nd, 2023):
+4. Thursday (September 29th, 2023):
    - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
    - [ ] Connecting with nature boosts mental and physical well-being.
 
-5. Friday (September 23rd, 2023):
+5. Friday (September 30th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
    - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
 
-6. Saturday (September 24th, 2023):
+6. Saturday (October 1st, 2023):
    - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
    - [ ] Giving back to the community cultivates empathy and makes a positive impact.
 
-7. Sunday (September 25th, 2023):
+7. Sunday (October 2nd, 2023):
    - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
    - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 ```
