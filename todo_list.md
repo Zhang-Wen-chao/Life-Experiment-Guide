@@ -60,7 +60,6 @@ https://www.zhihu.com/question/356351510/answer/913928066
 https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
    - [ ] explore Redis
-   - [ ] 抽一个小时把cpp八股文写入quizlet。
    - [ ] https://github.com/laylalaisy
    - [ ] 滨崎步、中岛美雪、中岛美嘉、taylor swift、coldplay、queue、pink floyd, Miley Cyrus
    - [ ] For which position to start updating my resume
@@ -118,9 +117,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with yangzh.
 ## this week
 1. Monday (September 19th, 2023):
-   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
+   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？
+   - [ ] 有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
    - [ ] 淘宝上挂个号帮人代写代码？
-   - [ ] 开始照着tensor rt哔哩哔哩视频教程，做一遍。
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
 2. Tuesday (September 20th, 2023):
    - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
