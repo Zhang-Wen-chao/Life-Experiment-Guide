@@ -117,16 +117,12 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with yangzh.
 ## this week
 1. Monday (September 19th, 2023):
-   - [ ] 继续复现寒武纪的量化仓库
-   - [ ] 开始广泛看知乎，关于计算机系统的说法 
-   - [ ] 开始广泛看计算机系统的论文。
-   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？
-   - [ ] 有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
-   - [ ] 淘宝上挂个号帮人代写代码？
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+   - [x] 开始广泛看知乎，关于计算机系统的说法。
+   - [x] chat with songchen, tang, jiang and xu.
 2. Tuesday (September 20th, 2023):
-   - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
-   - [ ] Engaging with art stimulates creativity and allows for self-expression.
+   - [ ] 继续复现寒武纪的量化仓库,问jin什么是remote ip
+   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
 3. Wednesday (September 21st, 2023):
    - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
    - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
