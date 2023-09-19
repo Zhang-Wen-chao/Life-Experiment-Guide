@@ -120,15 +120,13 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 开始广泛看知乎，关于计算机系统的说法。
    - [x] chat with songchen, tang, jiang and xu.
 2. Tuesday (September 20th, 2023):
+   - [x] 看完了中文版第五版的《计算机体系结构：量化研究方法》，开始看英文版第六版的。
+3. Wednesday (September 21st, 2023):
+   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
+4. Thursday (September 22nd, 2023):
    - [ ] 继续复现寒武纪的量化仓库,问jin什么是remote ip
    - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
-3. Wednesday (September 21st, 2023):
-   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
-   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
-4. Thursday (September 22nd, 2023):
-   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
-   - [ ] Connecting with nature boosts mental and physical well-being.
 5. Friday (September 23rd, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
    - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
@@ -139,6 +137,9 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
    - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 # who can I ask
+针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
+使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
+
 摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
