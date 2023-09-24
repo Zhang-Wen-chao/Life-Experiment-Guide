@@ -89,7 +89,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (September 11th, 2023):
    - [x] 吃蛋糕的一天。
    - [x] 问候教师朋友们。
-## last week
+## the week before last week
 1. Monday (September 12th, 2023):
    - [x] 设计yolov5的对照实验，看下量化效果对比。
    - [x] 开始看商汤科技的模型量化课程。
@@ -115,25 +115,44 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with lanqi.
 7. Sunday (September 18th, 2023):
    - [x] chat with yangzh.
-## this week
+## last week
 1. Monday (September 19th, 2023):
    - [x] 开始广泛看知乎，关于计算机系统的说法。
    - [x] chat with songchen, tang, jiang and xu.
 2. Tuesday (September 20th, 2023):
    - [x] 看完了中文版第五版的《计算机体系结构：量化研究方法》，开始看英文版第六版的。
 3. Wednesday (September 21st, 2023):
-   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
+   - [x] help yangzhh.
 4. Thursday (September 22nd, 2023):
-   - [ ] 继续复现寒武纪的量化仓库,问jin什么是remote ip
-   - [ ] 下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+   - [x] help yangzhh.
 5. Friday (September 23rd, 2023):
+   - [x] eat with liaosh.
+   - [x] huawei connect meeting.
+   - [x] watch everything and everywhere with yangzhh.
+6. Saturday (September 24th, 2023):
+   - [x] eat with wangcht.
+   - [x] visit museum of suzhou and liuyuan.
+7. Sunday (September 25th, 2023):
+   - [x] register for new semester.
+## this week
+1. Monday (September 26th, 2023):
+   - [ ] learn lattin arts in manner coffee.
+2. Tuesday (September 27th, 2023):
+   - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
+   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
+3. Wednesday (September 28th, 2023):
+   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
+   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
+4. Thursday (September 29th, 2023):
+   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
+   - [ ] Connecting with nature boosts mental and physical well-being.
+5. Friday (September 30th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
    - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
-6. Saturday (September 24th, 2023):
+6. Saturday (October 1st, 2023):
    - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
    - [ ] Giving back to the community cultivates empathy and makes a positive impact.
-7. Sunday (September 25th, 2023):
+7. Sunday (October 2nd, 2023):
    - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
    - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 # who can I ask
@@ -152,36 +171,35 @@ anayway, learn to everyone.
 %whos
 whos
 这两句有什么区别
-
 ## next week
 ```
-1. Monday (September 26th, 2023):
-   - [ ] Start a new coding project or solve coding challenges to enhance your programming skills.
-   - [ ] Learning and practicing coding builds problem-solving abilities and encourages logical thinking.
+1. Monday (October 3rd, 2023):
+   - [ ] Start a new workout routine or engage in physical activities to stay fit and healthy.
+   - [ ] Regular exercise improves physical strength and boosts mental well-being.
 
-2. Tuesday (September 27th, 2023):
-   - [ ] Try your hand at painting or visit an art gallery to appreciate different forms of visual art.
-   - [ ] Engaging with art stimulates creativity and allows for self-expression.
+2. Tuesday (October 4th, 2023):
+   - [ ] Cook a new recipe or try a new cuisine to explore your culinary skills and expand your taste buds.
+   - [ ] Cooking and experimenting with food can be a fun and enriching experience.
 
-3. Wednesday (September 28th, 2023):
-   - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
-   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
+3. Wednesday (October 5th, 2023):
+   - [ ] Practice meditation or engage in mindfulness activities to promote relaxation and reduce stress.
+   - [ ] Taking time for mental well-being enhances focus and overall productivity.
 
-4. Thursday (September 29th, 2023):
-   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
-   - [ ] Connecting with nature boosts mental and physical well-being.
+4. Thursday (October 6th, 2023):
+   - [ ] Spend time with loved ones or catch up with friends to nurture relationships and promote social connections.
+   - [ ] Building and maintaining meaningful connections contributes to happiness and emotional well-being.
 
-5. Friday (September 30th, 2023):
-   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
-   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
+5. Friday (October 7th, 2023):
+   - [ ] Learn a musical instrument or listen to music that inspires and uplifts your mood.
+   - [ ] Music has the power to relax, motivate, and express emotions.
 
-6. Saturday (October 1st, 2023):
-   - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
-   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
+6. Saturday (October 8th, 2023):
+   - [ ] Engage in a DIY (do-it-yourself) project or home improvement task to unleash your creativity and enhance your living space.
+   - [ ] DIY activities provide a sense of accomplishment and can be a productive way to spend time.
 
-7. Sunday (October 2nd, 2023):
-   - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
-   - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
+7. Sunday (October 9th, 2023):
+   - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
+   - [ ] Prioritizing self-care rejuvenates and nurtures your well-being.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
