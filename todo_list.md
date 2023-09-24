@@ -203,7 +203,6 @@ whos
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
-下次回家的话，请lvrui teacher吃饭.
 找一个背包，把目前的安踏背包淘汰丢弃。
 After finding a job, I started working out. Tell Yuan Hao results. swimming and badminton.
 ## Proverbs from Taiwanese brothers:
