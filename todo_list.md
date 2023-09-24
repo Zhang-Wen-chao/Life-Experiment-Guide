@@ -134,6 +134,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] visit museum of suzhou and liuyuan.
 7. Sunday (September 25th, 2023):
    - [x] register for new semester.
+   - [x] Complete the computer upgrade.
 ## this week
 1. Monday (September 26th, 2023):
    - [ ] learn lattin arts in manner coffee.
