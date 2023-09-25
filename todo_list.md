@@ -146,7 +146,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
    - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
 4. Thursday (September 29th, 2023):
-   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the outdoors.
+   - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the
    - [ ] Connecting with nature boosts mental and physical well-being.
 5. Friday (September 30th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
