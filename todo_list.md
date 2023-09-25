@@ -136,27 +136,22 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] register for new semester.
    - [x] Complete the computer upgrade.
 ## this week
-1. Monday (September 26th, 2023):
+1. Monday (September 25th, 2023):
    - [x] learn lattin arts in manner coffee.
    - [x] 测试显示器不支持4k，又下单了2.5k的。
-2. Tuesday (September 27th, 2023):
+2. Tuesday (September 26th, 2023):
    - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
-   - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
-3. Wednesday (September 28th, 2023):
+   - [ ] 开始整理百度网盘，准备分享。
+3. Wednesday (September 27th, 2023):
    - [ ] Spend time reading articles or watching videos on a subject of interest, expanding your knowledge.
-   - [ ] Continuous learning broadens perspectives and opens doors to new opportunities.
-4. Thursday (September 29th, 2023):
+4. Thursday (September 28th, 2023):
    - [ ] Go on a hike or have a picnic in a nearby natural setting to enjoy the
-   - [ ] Connecting with nature boosts mental and physical well-being.
-5. Friday (September 30th, 2023):
+5. Friday (September 29th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
-   - [ ] Journaling promotes self-reflection and provides a creative outlet for thoughts and emotions.
-6. Saturday (October 1st, 2023):
+6. Friday (September 30th, 2023):
+   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
+7. Saturday (October 1st, 2023):
    - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
-   - [ ] Giving back to the community cultivates empathy and makes a positive impact.
-7. Sunday (October 2nd, 2023):
-   - [ ] Visit a local museum or watch a documentary to learn about history or a new subject.
-   - [ ] Exploring culture and knowledge broadens horizons and encourages curiosity.
 # who can I ask
 针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
 使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
