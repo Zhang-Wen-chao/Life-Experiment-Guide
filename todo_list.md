@@ -137,7 +137,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] Complete the computer upgrade.
 ## this week
 1. Monday (September 26th, 2023):
-   - [ ] learn lattin arts in manner coffee.
+   - [x] learn lattin arts in manner coffee.
+   - [x] 测试显示器不支持4k，又下单了2.5k的。
 2. Tuesday (September 27th, 2023):
    - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？
    - [ ] cuda的tutorial，将人工智能的算法一路推进到slam
