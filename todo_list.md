@@ -146,11 +146,14 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 体系结构讲什么呢？我现在在vivado上跑一下hdl的题目。最终的目标是写一个mini处理器。
    - [x] 下一步呢，可以把寒武纪官方的yolov5跑起来。
 3. Wednesday (September 27th, 2023):
-   - [ ] 
+   - [x] 在知道下午会议推迟后，开始继续写Verilog题目。
+   - [x] 听高老师讲奋斗，听张某人讲就业，听陈某人讲政治。
 4. Thursday (September 28th, 2023):
-   - [ ] Go on a hike or have a picnic in a nearby natural setting to 
+   - [x] 开会挨批。
+   - [x] 安装vcs，verdi，跑通c906,e203.
+   - [x] 下载isca论文,看一篇。
 5. Friday (September 29th, 2023):
-   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
+   - [ ] 看蜂鸟书籍，写hdl题目、牛客网题目。
 6. Friday (September 30th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
 7. Saturday (October 1st, 2023):
