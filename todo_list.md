@@ -146,7 +146,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 体系结构讲什么呢？我现在在vivado上跑一下hdl的题目。最终的目标是写一个mini处理器。
    - [x] 下一步呢，可以把寒武纪官方的yolov5跑起来。
 3. Wednesday (September 27th, 2023):
-   - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
+   - [ ] 
 4. Thursday (September 28th, 2023):
    - [ ] Go on a hike or have a picnic in a nearby natural setting to 
 5. Friday (September 29th, 2023):
@@ -154,7 +154,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 6. Friday (September 30th, 2023):
    - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences.
 7. Saturday (October 1st, 2023):
-   - [ ] Volunteer for a cause you care about or donate to a charity that supports your values.
+   - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
 # who can I ask
 针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
 使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
@@ -162,7 +162,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-xinzhu
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
 wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
 anayway, learn to everyone.
