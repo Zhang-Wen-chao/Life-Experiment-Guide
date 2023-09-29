@@ -154,10 +154,10 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 下载isca论文,看一篇。
 5. Friday (September 29th, 2023):
    - [x] 上午看蜂鸟书籍6章。到下午三点半，蜂鸟书籍基本翻看完毕了。
-   - [x] 什么是coremark？
-   - [x] 看蜂鸟书籍，写hdl题目、牛客网题目。
+   - [x] 写完第4、5章hdl题目。
 6. Friday (September 30th, 2023):
-   - [ ] Write in a journal or start a blog to reflect on your thoughts and experiences
+   - [x] 什么是coremark？
+   - [x] 、牛客网题目。
 7. Saturday (October 1st, 2023):
    - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
 # who can I ask
