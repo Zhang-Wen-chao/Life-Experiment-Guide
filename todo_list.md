@@ -135,7 +135,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (September 25th, 2023):
    - [x] register for new semester.
    - [x] Complete the computer upgrade.
-## this week
+## dddd
 1. Monday (September 25th, 2023):
    - [x] learn lattin arts in manner coffee.
    - [x] 测试显示器不支持4k，又下单了2.5k的。
@@ -156,15 +156,33 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 上午看蜂鸟书籍6章。到下午三点半，蜂鸟书籍基本翻看完毕了。
    - [x] 写完第4、5章hdl题目。
 6. Friday (September 30th, 2023):
-   - [x] 什么是coremark？
-   - [x] 、牛客网题目。
+   - [x] 咋回事，到十点才起来。
+   - [x] 写完第6、7、8章hdl题目。怎么还有那么多。得加速了。
+   - [x] 开了gpt4，但没有voice功能。
 7. Saturday (October 1st, 2023):
+   - [x] 写完hdl题目。
+   - [x] 牛客网题目写完了入门特别版、快速入门。
+## this week
+1. Monday (October 2nd, 2023):
+   - [x] 回学校剪发，洗澡。
+   - [x] 牛客网题目写完了进阶挑战、企业真题
+   - [ ] 当我打开ddca的视频，我就知道完了，看牛客网、菜鸟网站就是浪费两三天时间。然后呢。怎么写一个五级流水呢？
+2. Tuesday (October 3rd, 2023):
+   - [ ] Cook a new recipe or try a new cuisine to explore your culinary skills and expand your taste buds.
+3. Wednesday (October 4th, 2023):
+   - [ ] Practice meditation or engage in mindfulness activities to promote relaxation and reduce stress.
+4. Thursday (October 5th, 2023):
+   - [ ] Spend time with loved ones or catch up with friends to nurture relationships and promote social connections.
+5. Friday (October 6th, 2023):
+   - [ ] Learn a musical instrument or listen to music that inspires and uplifts your mood.
+6. Saturday (October 7th, 2023):
+   - [ ] Engage in a DIY (do-it-yourself) project or home improvement task to unleash your creativity and enhance your living space.
+7. Sunday (October 8th, 2023):
+   - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
    - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
 # who can I ask
 针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
 使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
-
-摊子不要铺得太大，重要且紧急的事情只有那么两三件。其他事情往后拖，可能在后来的阶段，那就不再是个问题了。
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
@@ -177,20 +195,20 @@ whos
 这两句有什么区别
 ## next week
 ```
-1. Monday (October 3rd, 2023):
-   - [ ] Start a new workout routine or engage in physical activities to stay fit and healthy.
-2. Tuesday (October 4th, 2023):
-   - [ ] Cook a new recipe or try a new cuisine to explore your culinary skills and expand your taste buds.
-3. Wednesday (October 5th, 2023):
-   - [ ] Practice meditation or engage in mindfulness activities to promote relaxation and reduce stress.
-4. Thursday (October 6th, 2023):
-   - [ ] Spend time with loved ones or catch up with friends to nurture relationships and promote social connections.
-5. Friday (October 7th, 2023):
-   - [ ] Learn a musical instrument or listen to music that inspires and uplifts your mood.
-6. Saturday (October 8th, 2023):
-   - [ ] Engage in a DIY (do-it-yourself) project or home improvement task to unleash your creativity and enhance your living space.
-7. Sunday (October 9th, 2023):
-   - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
+1. Monday (October 9th, 2023):
+   - [ ] Read a book or dive into an interesting article to stimulate your mind and expand your knowledge.
+2. Tuesday (October 10th, 2023):
+   - [ ] Take a nature walk or visit a local park to reconnect with nature and enjoy the serenity of the outdoors.
+3. Wednesday (October 11th, 2023):
+   - [ ] Attend a workshop or online class to learn a new skill or enhance your existing ones.
+4. Thursday (October 12th, 2023):
+   - [ ] Dedicate time to decluttering and organizing your workspace or home to create a more harmonious environment.
+5. Friday (October 13th, 2023):
+   - [ ] Watch a documentary or educational video to gain insights into different cultures, histories, or scientific phenomena.
+6. Saturday (October 14th, 2023):
+   - [ ] Visit a museum, art gallery, or historical site to appreciate art, history, and culture.
+7. Sunday (October 15th, 2023):
+   - [ ] Engage in physical activities like yoga, dancing, or a sport to boost your energy levels and promote physical well-being.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
