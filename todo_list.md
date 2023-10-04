@@ -166,11 +166,11 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 1. Monday (October 2nd, 2023):
    - [x] 回学校剪发，洗澡。
    - [x] 牛客网题目写完了进阶挑战、企业真题
-   - [ ] 当我打开ddca的视频，我就知道完了，看牛客网、菜鸟网站就是浪费两三天时间。然后呢。怎么写一个五级流水呢？
+   - [x] 当我打开ddca的视频，我就知道完了，看牛客网、菜鸟网站就是浪费两三天时间。
 2. Tuesday (October 3rd, 2023):
-   - [ ] Cook a new recipe or try a new cuisine to explore your culinary skills and expand your taste buds.
+   - [x] ddca的视频，看到了52集了。
 3. Wednesday (October 4th, 2023):
-   - [ ] Practice meditation or engage in mindfulness activities to promote relaxation and reduce stress.
+   - [x] 思考人生。
 4. Thursday (October 5th, 2023):
    - [ ] Spend time with loved ones or catch up with friends to nurture relationships and promote social connections.
 5. Friday (October 6th, 2023):
