@@ -172,7 +172,8 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 3. Wednesday (October 4th, 2023):
    - [x] 思考人生。
 4. Thursday (October 5th, 2023):
-   - [ ] Spend time with loved ones or catch up with friends to nurture relationships and promote social connections.
+   - [x] 看完ddca视频。
+   - [x] 清理github。
 5. Friday (October 6th, 2023):
    - [ ] Learn a musical instrument or listen to music that inspires and uplifts your mood.
 6. Saturday (October 7th, 2023):
