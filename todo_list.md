@@ -208,17 +208,12 @@ whos
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
-
-After finding a job, I started working out. Tell Yuan Hao results. swimming and badminton.
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
 提供偉大的Razavi拍攝的電子學影片資源 https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos?view=0&sort=da&flow=grid
 https://hom-wang.gitbooks.io/verilog-hdl/content/
 還有，很重要的是要大量讀paper，ieee paper，
 
-Hdlbits Verilog的题目；
-模电、数电、Verilog；
-编译原理、c++；
 1. 并行计算
 2. 微机原理
 3. 类比电路
@@ -227,29 +222,9 @@ Hdlbits Verilog的题目；
 6. 电路学、电子学
 ## zihao's advice
 两手准备：计算机、金融，两手准备。依然比其他行业好。金融圈：多关注，金融科技，其实需要真技术、真本事，喜欢招收的人还就是计算机类的，培养的交叉学科的。金融科技要比纯金融好找工作。银行、券商、基金、信息技术岗位。对于未来的判断，不能通过财报、研报，需要考虑更多的因素：直觉、宏观经济、政策支持。
-## Zhaohui's advice
-The database, network, asynchronous, and multi-threaded programming involved are the most useful knowledge.
-
-In your weekly report to the teacher, you only write what you have done and what you have learned. These are not important. You try to write down what you think about for a week and whether your scientific research progress is on track. It is useless to learn so much, the important thing is to think more. Time in graduate school is short, so be sure to stay focused. Stick to some papers every week.
-
-If you want to specialize in a field, you must at least read a textbook in depth, so that you can think about it and let you know how the many methods of the entire discipline are established based on certain logical principles.
 ## Teacher Li's advice
 要dig in code，代码实验不是voodoo，要会调试代码，知道运行到哪里报的错，为什么报错。比如这个错误，字面意思已经告诉你了它不识别mp4后缀文件，说明没有装或者没有正确安装视频解码包，所以你装一个ffmpeg就好了。所以他不是个bug，更不“神奇”，只是你比较菜（没有批评你的意思，刚开始都这样）。
 学会用pdb.set_trace()和基础的print()定位错误，并且理解错误哈。
-## Teacher Zhao's advice
-注意研究方向的收敛，聚焦解决具体的且具有挑战的工程问题。
-
-一周精读一篇论文，顶级会议，顶级期刊，ccf中国计算机协会，对国际期刊有排名，看a类，，有精力再看b，，，找计算机体系结构，嵌入式计算，，，，三五篇摘要粗读
-找最相关的论文，近三年的，先看去年的
-b类
-TECS ACM Transactions on Embedded Computing Systems 
-JSA Journal of Systems Architecture: Embedded Software Design
-HiPEAC
-International Conference on High Performance and Embedded 
-Architectures and Compilers
-RTAS
-Real-Time and Embedded Technology and Applications 
-Symposium
 ## Teacher Wang's advice
 不可能面面俱到，好比说，
 情景一，去了大，华为，中芯，不可能面面俱到地干。只会让你干一个点。
