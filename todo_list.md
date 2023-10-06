@@ -69,27 +69,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] https://developer.mozilla.org/en-US/docs/Learn
  -->
 # last month
-1. Monday (September 5th, 2023):
-   - [ｘ] 看完官方numpy的tutorial。
-   - [ｘ] 开始看官方torch的tutorial
-2. Tuesday (September 6th, 2023):
-   - [x] 看完mit自动驾驶的课程。但是还没有去跑它的算法。
-   - [x] 看了大部分官方torch的tutorial
-3. Wednesday (September 7th, 2023):
-   - [x] 想了下论文题目。
-   - [x] 看了tensorrt的哔哩哔哩视频。
-4. Thursday (September 8th, 2023):
-   - [x] 怎么安装tensorrt也搞不清楚位置在哪里呢？经过这个事情，我决定，全面转向docker，conda予以辅助。
-5. Friday (September 9th, 2023):
-   - [x] 算了，做个简单的，开始下载bdd数据集，然后yolov7跑一下。
-   - [x] tmd，给我配的是什么破电脑，vscode终端屡屡卡死。有什么运行时间长的命令，务必使用自带的终端。
-   - [x] 导师在追问创新点。
-6. Saturday (September 10th, 2023):
-   - [x] 改变命运的一天。
-7. Sunday (September 11th, 2023):
-   - [x] 吃蛋糕的一天。
-   - [x] 问候教师朋友们。
-## the week before last week
 1. Monday (September 12th, 2023):
    - [x] 设计yolov5的对照实验，看下量化效果对比。
    - [x] 开始看商汤科技的模型量化课程。
@@ -115,7 +94,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] chat with lanqi.
 7. Sunday (September 18th, 2023):
    - [x] chat with yangzh.
-## last week
+## the beginning of the month
 1. Monday (September 19th, 2023):
    - [x] 开始广泛看知乎，关于计算机系统的说法。
    - [x] chat with songchen, tang, jiang and xu.
@@ -135,7 +114,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (September 25th, 2023):
    - [x] register for new semester.
    - [x] Complete the computer upgrade.
-## dddd
+## the week before last week
 1. Monday (September 25th, 2023):
    - [x] learn lattin arts in manner coffee.
    - [x] 测试显示器不支持4k，又下单了2.5k的。
@@ -162,7 +141,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Saturday (October 1st, 2023):
    - [x] 写完hdl题目。
    - [x] 牛客网题目写完了入门特别版、快速入门。
-## this week
+## last week
 1. Monday (October 2nd, 2023):
    - [x] 回学校剪发，洗澡。
    - [x] 牛客网题目写完了进阶挑战、企业真题
@@ -185,19 +164,7 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 7. Sunday (October 8th, 2023):
    - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
    - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
-# who can I ask
-针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
-使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
-
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-## Any questions today
-[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
-%whos
-whos
-这两句有什么区别
-## next week
-```
+## this week
 1. Monday (October 9th, 2023):
    - [ ] Read a book or dive into an interesting article to stimulate your mind and expand your knowledge.
 2. Tuesday (October 10th, 2023):
@@ -212,6 +179,33 @@ whos
    - [ ] Visit a museum, art gallery, or historical site to appreciate art, history, and culture.
 7. Sunday (October 15th, 2023):
    - [ ] Engage in physical activities like yoga, dancing, or a sport to boost your energy levels and promote physical well-being.
+# who can I ask
+针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
+使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
+
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+## Any questions today
+[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
+%whos
+whos
+这两句有什么区别
+## next week
+```
+1. Monday (October 16th, 2023):
+   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+2. Tuesday (October 17th, 2023):
+   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+3. Wednesday (October 18th, 2023):
+   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+4. Thursday (October 19th, 2023):
+   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+5. Friday (October 20th, 2023):
+   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+6. Saturday (October 21st, 2023):
+   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
+7. Sunday (October 22nd, 2023):
+   - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 
