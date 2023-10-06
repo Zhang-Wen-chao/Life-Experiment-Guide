@@ -6,68 +6,16 @@
 你应该教孩子如何高效率的完成事情，而不是强迫孩子，傻坐在课桌前一整天，结果啥也没学会。如果你家孩子真的是只能坚持一个小时专心学习，那么每天就认真学一个小时，也比傻坐12个小时的摸鱼要强。
 
 时间管理还能应用在，洗衣服，做饭，办事，以及时间和金钱的平衡优化上。计算你自己时间和金钱的汇率，对比商品和服务的金钱和时间汇率。看看是自己花时间划算，还是用钱买划算。不要什么事情都自己做，也不要什么东西都用钱解决。
-# what is my goal
-find a job
-# 然而编程并不是“写函数”
-其实真正从事IT开发的都会知道，你只要理解函数在干啥就够了，完全不需要你重复造轮子。IT中真正困难的地方是客户沟通，架构设计，客户改需求，项目功能设计，产品管理，等等这类问题。当你掌握编程之后，后续的工作其实就是一个“服务员”的工作。编程的核心是解决一个现实问题，而不是去重复造轮子去解决一个已经有标准答案的问题。
-
-很多人说不刷题怎么编程？很简单，当你遇到了一个复杂的问题，你直接从网上把答案抄下来改一下就可以了，写代码就是这么简单。而大多数情况下，其实只要下载对应的library，然后call function就可以了。重要的是不是让你去想怎么写一个函数，而是去理解这个问题和这个函数到底干了啥，然后去运用。
-
-至于程序员失业与否其实要看行业，你踩错了方向，就是要失业的。这和你是不是程序员，AI会不会写程序是没有关系的。
 ## 硬实力先堆起来
 非计算机专业要走计算机的路那就在硬实力上超过计算机专业的学生。计算机专业的学生不会写的程序你会写，那你就是牛逼。想让别人看你没学过计算机就给你更多的优待想都别想，不歧视已经够意思了。
+
 C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都要会，常用library要会用，能读懂英文的技术博客和doc，概念理论大致了解即可。
+
 不是专业人士就别研究算法，操作系统，人工智能了。会调参，会管理进程线程，知道用哪些library中的算法能解决问题就行了，不需要你自己写。
+
 不要以为你放弃原来的专业，再学4年就能找到计算机工作。你再学4年，离35岁裁员又近了4年。
-
-### 走外包路线
-如果你是非计算机专业，先别想着能到大厂找个996，进不去的。没那么多高大上的工作给你做，即使进去也是底层码农，35岁裁员警告。
-
-淘宝上挂个号帮人代写代码。所以对于初学者来说最重要的能力就是帮委托人解决问题。github上开源代码你别管版权问题，见了有用代码你就抄过来，各种库都可以用，只要能帮委托人解决问题。
-### 为什么走外包
-你赚的钱完全取决于你创造的价值，你如果1小时能完成别人一周的活，那你的赚的钱并不比大厂打工少。非常适合硬实力强的10倍速程序员。优秀的程序员和菜鸡之间真的是1小时和一周的区别。
-
-### 外包创业或者进大公司
-你要是硬实力摆在那里，日积月累的把代写招牌做出来。会有源源不断的有工作，没能力的程序员找你外包。慢慢的你就能从外包转正，后面你可以开外包公司。有了外包的经验，进个大厂拿分安稳的薪水也不错。
-毕业就是个成年人了，别做事还幼稚得像个学生。学校那一套在社会上根本没用。
-
-别浪费时间了，抄代码最多练习打字速度。写代码就和写文章一样，不停的抄别人的文章你还是不会写。
-
-我也抄代码，不过一般都是直接复制黏贴。有需要的话再稍微改动一下，如果直接能用就不改了。
-
-如果不会写就看看，然后顺着逻辑梳理一遍看看别人怎么写的，一行行的解释别人的代码，思考一下作者到底在想什么，哪里写得好，哪里写得不好。
-
-就和语文课上文章分析段落大意，中心思想一样。一行行的去剖析别人的代码，如果看不懂就把代码截取出来，变量打印出来，看看变量是怎么变化的。
-
-从运行到结束程序经过哪些步骤，实在看不懂就趁着自己还是学生问你的老师。到了社会上就没人教你了，写的出来就写，写不出来滚蛋，社会就是这么残酷。
-
-最后一定要独立完成复杂的编程题，自己debug，有时候你要花一个星期去写那么一百来行代码，然后不断优化自己的debug方法。
-
-简单的bug看error，稍微复杂点的用print，特别复杂的就用debug工具。
-
-### 就moenova个人而言，已经学了：
-C，python，C++，java，haskell，verilog，机器预言，二进制语言，电线编程（在一个板子上用电线编程），网页，数据结构，底层结构，算法设计，操作系统，数据库，数值科学，传统人工智能，机器学习，神经网络，游戏设计，计算机网络理论，图形学，编译原理，计算机语言学。
-反正当初选课的时候就选了很多计算机课，然后就稀里糊涂的全部上完了。也不是很难吧，就是感觉学了很多浪费时间的东西，反正学了就忘。如果有人能在开学的时候给我介绍一下计算机是什么个玩意我可能就不会学这么多计算课程了。
-我对计算机谈不上多喜欢，就是想知道这东西大概的工作原理，知道了就不想学了。各种各样的技术不过是各种各样的套娃和复读机，原理几乎都一样。
-
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
-# what shall I do
-<!-- 
--熟悉网络编程、多线程编程技术，有高并发开发经验、大规模系统开发和设计经验优先
-4、有服务器、大数据开发经验者优先；熟悉Redis，Mysql等数据库，Kafka、RabbitMq等消息队列使用者优先；
-   - [ ] I decide to open a new github repository to record my deep learning notes. 算法岗位真的需要顶会才能入场吗？ - 谢利昂D忒待儿的回答 - 知乎
-https://www.zhihu.com/question/456114288/answer/1954094939
-   - [ ] Already have mlu, how to implement it? 之前晋老师的计划，直接请教王瑞蕾怎么进行算子移植。pytorch算法移植
-   - [ ] explore Redis
-   - [ ] https://github.com/laylalaisy
-   - [ ] 滨崎步、中岛美雪、中岛美嘉、taylor swift、coldplay、queue、pink floyd, Miley Cyrus
-   - [ ] For which position to start updating my resume
-   - [ ] 可以看看高通camx中线程池实现
-   - [ ] Take Chinese and English typing test.
-   - [ ] JavaScript，Vue，react，nodejs，nextjs，stable diffusion。
-   - [ ] https://developer.mozilla.org/en-US/docs/Learn
- -->
 # last month
 1. Monday (September 12th, 2023):
    - [x] 设计yolov5的对照实验，看下量化效果对比。
@@ -179,17 +127,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [ ] Visit a museum, art gallery, or historical site to appreciate art, history, and culture.
 7. Sunday (October 15th, 2023):
    - [ ] Engage in physical activities like yoga, dancing, or a sport to boost your energy levels and promote physical well-being.
-# who can I ask
-针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
-使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
-
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-## Any questions today
-[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
-%whos
-whos
-这两句有什么区别
 ## next week
 ```
 1. Monday (October 16th, 2023):
@@ -208,10 +145,24 @@ whos
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
+# Any questions today
+针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
+使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
+
+因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
+jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
+
+[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
+%whos
+whos
+这两句有什么区别
+# some advice
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
+
 提供偉大的Razavi拍攝的電子學影片資源 https://www.youtube.com/channel/UClH7sqfyOoJ3jpeAqWZX7WA/videos?view=0&sort=da&flow=grid
 https://hom-wang.gitbooks.io/verilog-hdl/content/
+
 還有，很重要的是要大量讀paper，ieee paper，
 
 1. 并行计算
