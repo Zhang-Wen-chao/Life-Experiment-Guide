@@ -175,7 +175,11 @@ https://www.zhihu.com/question/456114288/answer/1954094939
    - [x] 看完ddca视频。
    - [x] 清理github。
 5. Friday (October 6th, 2023):
-   - [ ] Learn a musical instrument or listen to music that inspires and uplifts your mood.
+   - [x] 为了和jiang沟通，查了一天资料，被一句话否定。
+   - [x] 约定一周半沟通一次。
+   - [x] 开始安装chipyard
+   - [x] 开始看prefetch的论文，同时做ppt。
+   - [x] 开始把ddca这本书的配套的实验做了？
 6. Saturday (October 7th, 2023):
    - [ ] Engage in a DIY (do-it-yourself) project or home improvement task to unleash your creativity and enhance your living space.
 7. Sunday (October 8th, 2023):
@@ -187,8 +191,6 @@ https://www.zhihu.com/question/456114288/answer/1954094939
 
 因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-wangshuo,yiqun,weiao,xiaotao,zhonglei,feng zhibo,zibo,yihao,xiaokai,chuanguang,613 libo,zhaohui
-anayway, learn to everyone.
 ## Any questions today
 [Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
 %whos
