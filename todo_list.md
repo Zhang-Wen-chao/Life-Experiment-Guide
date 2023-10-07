@@ -1,4 +1,4 @@
-# 时间管理
+  # 时间管理
 时间应该用来浪费在美好的事情上，而不是枯燥乏味的工作。
 
 如果你认为一件事情是乏味的就应该研究优化操作流程，让你用最少的时间做最多的事情。 
@@ -105,13 +105,13 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 为了和jiang沟通，查了一天资料，被一句话否定。
    - [x] 约定一周半沟通一次。
    - [x] 开始安装chipyard
-   - [x] 开始看prefetch的论文，同时做ppt。
-   - [x] 开始把ddca这本书的配套的实验做了？
+   - [x] 开始看prefetch的论文。被liu撵出中心。
 6. Saturday (October 7th, 2023):
-   - [ ] Engage in a DIY (do-it-yourself) project or home improvement task to unleash your creativity and enhance your living space.
+   - [x] 递交助教工作申请。
+   - [x] chat with wnag.
+   - [x] 晚上和高老师沟通：我要选什么课，我能不能给师兄打打下手。
 7. Sunday (October 8th, 2023):
    - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
-   - [ ] meeting with jin, how to 复现寒武纪的量化仓库,问jin什么是remote ip.下周和jin讨论onnx有没有，商汤的mqbench知道不？有onnx的话，那detr,yolov8模型移植到寒武纪，不是轻而易举吗？27号下午两点开会，汇报科研进展。问jin怎么办。
 ## this week
 1. Monday (October 9th, 2023):
    - [ ] Read a book or dive into an interesting article to stimulate your mind and expand your knowledge.
