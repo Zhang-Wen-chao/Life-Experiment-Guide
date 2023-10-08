@@ -108,11 +108,12 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 开始看prefetch的论文。被liu撵出中心。
 6. Saturday (October 7th, 2023):
    - [x] 递交助教工作申请。
-   - [x] chat with wnag.
+   - [x] chat with wang.
    - [x] 回忆一下怎么使用学校集群。
-   - [x] 晚上和高老师沟通：我要选什么课，我能不能给师兄打打下手。
+   - [x] 晚上和高老师、huazhang沟通
 7. Sunday (October 8th, 2023):
-   - [ ] Set aside time for self-care activities like taking a relaxing bath, practicing self-care rituals, or indulging in a hobby.
+   - [x] as a teacher asistant.
+   - [x] chat with wangt,zhuh,weiao.
 ## this week
 1. Monday (October 9th, 2023):
    - [ ] Read a book or dive into an interesting article to stimulate your mind and expand your knowledge.
