@@ -17,51 +17,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
-1. Monday (September 12th, 2023):
-   - [x] 设计yolov5的对照实验，看下量化效果对比。
-   - [x] 开始看商汤科技的模型量化课程。
-   - [x] 分析清楚了当前的局势，开始学习计算机体系结构。
-   - [x] chat with yuting。
-2. Tuesday (September 13th, 2023):
-   - [x] 先完成寒武纪上的3个epoch的。垃圾，差英伟达三倍以上。
-   - [x] 看完了商汤的mqbench。
-3. Wednesday (September 14th, 2023):
-   - [x] 学习寒武纪的量化方式。
-   - [x] 继续看计算机体系结构的书。
-4. Thursday (September 15th, 2023):
-   - [x] 继续看计算机体系结构的书。
-   - [x] 看Verilog的书。
-   - [x] 证明了我的华为手机不能实现电脑互联。
-5. Friday (September 16th, 2023):
-   - [x] chat with jiang
-   - [x] 未能实现三星notes在pc端的使用。
-   - [x] 整理一下百度网盘
-   - [x] 向jin汇报
-   - [x] 复现寒武纪的量化仓库，遇到困难。
-6. Saturday (September 17th, 2023):
-   - [x] chat with lanqi.
-7. Sunday (September 18th, 2023):
-   - [x] chat with yangzh.
-## the beginning of the month
-1. Monday (September 19th, 2023):
-   - [x] 开始广泛看知乎，关于计算机系统的说法。
-   - [x] chat with songchen, tang, jiang and xu.
-2. Tuesday (September 20th, 2023):
-   - [x] 看完了中文版第五版的《计算机体系结构：量化研究方法》，开始看英文版第六版的。
-3. Wednesday (September 21st, 2023):
-   - [x] help yangzhh.
-4. Thursday (September 22nd, 2023):
-   - [x] help yangzhh.
-5. Friday (September 23rd, 2023):
-   - [x] eat with liaosh.
-   - [x] huawei connect meeting.
-   - [x] watch everything and everywhere with yangzhh.
-6. Saturday (September 24th, 2023):
-   - [x] eat with wangcht.
-   - [x] visit museum of suzhou and liuyuan.
-7. Sunday (September 25th, 2023):
-   - [x] register for new semester.
-   - [x] Complete the computer upgrade.
 ## the week before last week
 1. Monday (September 25th, 2023):
    - [x] learn lattin arts in manner coffee.
@@ -114,21 +69,22 @@ https://www.zhihu.com/question/356351510/answer/913928066
 7. Sunday (October 8th, 2023):
    - [x] as a teacher asistant.
    - [x] chat with wangt,zhuh,weiao.
+   - [x] install quantization tools on mlu370.
 ## this week
-1. Monday (October 9th, 2023):
-   - [ ] Read a book or dive into an interesting article to stimulate your mind and expand your knowledge.
-2. Tuesday (October 10th, 2023):
-   - [ ] Take a nature walk or visit a local park to reconnect with nature and enjoy the serenity of the outdoors.
-3. Wednesday (October 11th, 2023):
-   - [ ] Attend a workshop or online class to learn a new skill or enhance your existing ones.
-4. Thursday (October 12th, 2023):
-   - [ ] Dedicate time to decluttering and organizing your workspace or home to create a more harmonious environment.
-5. Friday (October 13th, 2023):
-   - [ ] Watch a documentary or educational video to gain insights into different cultures, histories, or scientific phenomena.
-6. Saturday (October 14th, 2023):
-   - [ ] Visit a museum, art gallery, or historical site to appreciate art, history, and culture.
-7. Sunday (October 15th, 2023):
-   - [ ] Engage in physical activities like yoga, dancing, or a sport to boost your energy levels and promote physical well-being.
+1. Monday (October 16th, 2023):
+   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+2. Tuesday (October 17th, 2023):
+   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+3. Wednesday (October 18th, 2023):
+   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+4. Thursday (October 19th, 2023):
+   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+5. Friday (October 20th, 2023):
+   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+6. Saturday (October 21st, 2023):
+   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
+7. Sunday (October 22nd, 2023):
+   - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ## next week
 ```
 1. Monday (October 16th, 2023):
