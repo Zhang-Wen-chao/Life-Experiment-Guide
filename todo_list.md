@@ -76,10 +76,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
 2. Tuesday (October 17th, 2023):
    - [x] 在3090上运行一下tensorrt试试看。nvidia-smi坏了，问问邓葶。
-   - [x] 人工智能应用听课。
+   - [x] 人工智能应用听课。把课件上传github
    - [x] 学校电脑上过一遍opencv.
 3. Wednesday (October 18th, 2023):
-   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+   - [ ] 先把3090上的nvidia-smi修好，然后再跑tensorrt的docker，把tensorrt的三种方法，都学会。
+   - [ ] 然后尝试mlu370的
 4. Thursday (October 19th, 2023):
    - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
 5. Friday (October 20th, 2023):
