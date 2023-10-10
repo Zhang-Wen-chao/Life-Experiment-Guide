@@ -72,9 +72,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] install quantization tools on mlu370.
 ## this week
 1. Monday (October 16th, 2023):
-   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+   - [x] 学了一点点C#
+   - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
 2. Tuesday (October 17th, 2023):
-   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+   - [ ] 在3090上运行一下tensorrt试试看。
 3. Wednesday (October 18th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 19th, 2023):
