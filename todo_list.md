@@ -75,7 +75,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 学了一点点C#
    - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
 2. Tuesday (October 17th, 2023):
-   - [ ] 在3090上运行一下tensorrt试试看。
+   - [x] 在3090上运行一下tensorrt试试看。nvidia-smi坏了，问问邓葶。
+   - [x] 人工智能应用听课。
+   - [x] 学校电脑上过一遍opencv.
 3. Wednesday (October 18th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 19th, 2023):
