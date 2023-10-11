@@ -79,8 +79,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 人工智能应用听课。把课件上传github
    - [x] 学校电脑上过一遍opencv.
 3. Wednesday (October 18th, 2023):
-   - [ ] 先把3090上的nvidia-smi修好，然后再跑tensorrt的docker，把tensorrt的三种方法，都学会。
+   - [ ] nvidia-smi修好了，然后再跑tensorrt的docker，把tensorrt的三种方法，都学会。
    - [ ] 然后尝试mlu370的
+   - [ ] 学一下CUDA
 4. Thursday (October 19th, 2023):
    - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
 5. Friday (October 20th, 2023):
