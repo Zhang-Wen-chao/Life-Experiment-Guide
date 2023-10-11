@@ -79,8 +79,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 人工智能应用听课。把课件上传github
    - [x] 学校电脑上过一遍opencv.
 3. Wednesday (October 18th, 2023):
-   - [ ] nvidia-smi修好了，然后再跑tensorrt的docker，把tensorrt的三种方法，都学会。
-   - [ ] 然后尝试mlu370的
+   - [x] 获取tensorrt的docker,并安装最新的pytorch.
+   - [x] 把tensorrt的三种方法，都学会。
+   - [ ] 然后尝试mlu370的magicmind
    - [ ] 学一下CUDA
 4. Thursday (October 19th, 2023):
    - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
@@ -134,12 +135,17 @@ https://hom-wang.gitbooks.io/verilog-hdl/content/
 4. 嵌入式系统
 5. 电源管理集成电路
 6. 电路学、电子学
-## zihao's advice
+## shuoxiang
+不简单，很复杂。是不是oracle发展起来的不清楚，现在比较有名的数据库挺多是oracle的。不光是为了安全，一致，还有效率，比如查询的效率，还要稳定，还要有一定的冗余和容错机制。
+数据库现在一般都是关系数据库，要编写数据的约束，要处理分布式数据一致性问题。
+看你怎么理解ai的发展了，如果你觉得现在或者将来ai的行为一定是正确符合逻辑的，那你这么说是没问题。但是如果ai的行为存在漏洞，你觉得这种产品可能有人会用吗，你在银行账户的钱可能因为某个数据冲突直接被篡改了。
+反正就现在编程的门槛越来越低，你要只会编程序肯定会被取代的。
+## zihao
 两手准备：计算机、金融，两手准备。依然比其他行业好。金融圈：多关注，金融科技，其实需要真技术、真本事，喜欢招收的人还就是计算机类的，培养的交叉学科的。金融科技要比纯金融好找工作。银行、券商、基金、信息技术岗位。对于未来的判断，不能通过财报、研报，需要考虑更多的因素：直觉、宏观经济、政策支持。
-## Teacher Li's advice
+## Teacher Li
 要dig in code，代码实验不是voodoo，要会调试代码，知道运行到哪里报的错，为什么报错。比如这个错误，字面意思已经告诉你了它不识别mp4后缀文件，说明没有装或者没有正确安装视频解码包，所以你装一个ffmpeg就好了。所以他不是个bug，更不“神奇”，只是你比较菜（没有批评你的意思，刚开始都这样）。
 学会用pdb.set_trace()和基础的print()定位错误，并且理解错误哈。
-## Teacher Wang's advice
+## Teacher Wang
 不可能面面俱到，好比说，
 情景一，去了大，华为，中芯，不可能面面俱到地干。只会让你干一个点。
 情景二，你去了小厂，那就可能出现，你什么都干，那就需要你什么都懂，什么都干。
