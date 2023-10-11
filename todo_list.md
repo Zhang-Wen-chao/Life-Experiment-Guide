@@ -80,11 +80,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 学校电脑上过一遍opencv.
 3. Wednesday (October 18th, 2023):
    - [x] 获取tensorrt的docker,并安装最新的pytorch.
-   - [x] 把tensorrt的三种方法，都学会。
-   - [ ] 然后尝试mlu370的magicmind
-   - [ ] 学一下CUDA
+   - [x] 学一下CUDA
 4. Thursday (October 19th, 2023):
-   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+   - [x] 开始学tensorrt的三种方法，都学会。
+   - [ ] 然后尝试mlu370的magicmind
 5. Friday (October 20th, 2023):
    - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
 6. Saturday (October 21st, 2023):
@@ -113,13 +112,7 @@ Can you write in this style for the next week? I hope you also wrap the content 
 针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
 使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
 
-因为“大佬”和“萌新”之间多半只差一个搜索引擎。搜索引擎上找不到的答案基本上大佬也回答不出来。
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
-
-[Python中有哪些常用的魔法命令](https://www.yisu.com/zixun/462292.html)
-%whos
-whos
-这两句有什么区别
 # some advice
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
