@@ -13,7 +13,6 @@ https://zhuanlan.zhihu.com/p/461656580
 闲话自动驾驶的工程化落地 - 黄浴的文章 - 知乎
 https://zhuanlan.zhihu.com/p/467038480
 
-
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
 
@@ -34,8 +33,6 @@ https://www.zhihu.com/question/411393222/answer/2359479242
 BEV（Bird’s-eye-view）三部曲之一：综述
 
 BEV（Bird’s-eye-view）三部曲之二：方法详解
-
-
 # 找工作
 ## 找工作，这里可以附上飞书Excel链接，里面是各个公司的招聘进度
 伟鑫师兄给了美团内推码：VKJOAwT
@@ -269,8 +266,7 @@ Result：效果如何？
 想想052c。该润还是得润。除非能做到大厂核心岗位，中美薪酬差不多。
 想想清楚，买不起房子，北京户口有球用。
 
-我的远景目标：新加坡
-以上海为根据地，下一步图谋新加坡永居。
+所以我去荷兰。
 
 https://mp.weixin.qq.com/s/jAcOz6AQNv6rsU3Na9mfQg
 
