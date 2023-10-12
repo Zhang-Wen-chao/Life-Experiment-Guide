@@ -88,7 +88,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 获取tensorrt的docker,并安装最新的pytorch.
    - [x] 学一下CUDA
 4. Thursday (October 19th, 2023):
-   - [x] 开始学tensorrt的三种方法，都学会。
+   - [x] jupyter1,4终于跑通了。
    - [x] 上午就看了几个网页。学校的电脑怎么装不上docker呢，算了，放弃。
    - [ ] 然后尝试mlu370的magicmind。
 5. Friday (October 20th, 2023):
