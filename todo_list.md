@@ -85,7 +85,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 开始学tensorrt的三种方法，都学会。
    - [ ] 然后尝试mlu370的magicmind
 5. Friday (October 20th, 2023):
-   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music or gardening.
 6. Saturday (October 21st, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 22nd, 2023):
