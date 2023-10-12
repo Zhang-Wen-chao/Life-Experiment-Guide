@@ -90,7 +90,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 4. Thursday (October 19th, 2023):
    - [x] jupyter1,4终于跑通了。
    - [x] 上午就看了几个网页。学校的电脑怎么装不上docker呢，算了，放弃。
-   - [ ] 然后尝试mlu370的magicmind。
+   - [ ] 然后尝试mlu370的magicmind
 5. Friday (October 20th, 2023):
    - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music or gardening.
 6. Saturday (October 21st, 2023):
