@@ -93,9 +93,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
 5. Friday (October 20th, 2023):
    - [x] 基于tensorrt8.6.1的trt-samples跑通了好几个。
 6. Saturday (October 21st, 2023):
-   - [ ] 侯捷cpp再过一遍。
+   - [x] 看了一天leetcode，感觉又和之前不一样了。
 7. Sunday (October 22nd, 2023):
+   - [x] 接待geng brother.
    - [ ] 然后尝试mlu370的magicmind
+   - [ ] 侯捷cpp再过一遍。
 ## next week
 ```
 1. Monday (October 16th, 2023):
