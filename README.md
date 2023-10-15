@@ -69,11 +69,14 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 看了一天leetcode，感觉又和之前不一样了。
 7. Sunday (October 22nd, 2023):
    - [x] 接待geng brother.
-   - [ ] 然后尝试mlu370的magicmind
-   - [ ] 侯捷cpp再过一遍。
+   - [x] chat with zhuxuanyu.
+   - [x] 提交科普视频。
+   - [x] 看电影洪熙官。
 ## this week
 1. Monday (October 16th, 2023):
-   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+   - [ ] 继续研究tensorrt怎么使用。
+   - [ ] 然后尝试mlu370的magicmind
+   - [ ] 侯捷cpp再过一遍。
 2. Tuesday (October 17th, 2023):
    - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
 3. Wednesday (October 18th, 2023):
