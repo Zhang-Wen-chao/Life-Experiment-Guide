@@ -93,27 +93,31 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ```
 1. Monday (October 23rd, 2023):
    - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
-
 2. Tuesday (October 24th, 2023):
    - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
-
 3. Wednesday (October 25th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
-
 4. Thursday (October 26th, 2023):
    - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
-
 5. Friday (October 27th, 2023):
    - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
-
 6. Saturday (October 28th, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
-
 7. Sunday (October 29th, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Any questions today
+后端开发工程师-C++
+苏州、北京正式研发 - 后端开发2023届春季校园招聘
+职位描述
+负责Traffic Light感知融合等模块的架构设计、集成、功能开发和迭代等工作。
+职位要求
+1、熟练掌握 Linux 下 C/C++ 编程语言，掌握 Python/Shell 脚本编程；
+2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
+3、具备很强的动手能力和团队合作意识，善于学习新事物；
+4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
+
 针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
 使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
 
@@ -610,15 +614,7 @@ https://momenta.jobs.feishu.cn/campus/position/7215469835245013287/detail
 
 https://momenta.jobs.feishu.cn/campus/position/7205532306017470777/detail
 
-后端开发工程师-C++
-苏州、北京正式研发 - 后端开发2023届春季校园招聘
-职位描述
-负责Traffic Light感知融合等模块的架构设计、集成、功能开发和迭代等工作。
-职位要求
-1、熟练掌握 Linux 下 C/C++ 编程语言，掌握 Python/Shell 脚本编程；
-2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
-3、具备很强的动手能力和团队合作意识，善于学习新事物；
-4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
+
 #### 图森未来
 https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/0e9cd7eb-fa03-4c36-abbd-96d9440efc8c
 
