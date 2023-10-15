@@ -24,33 +24,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
-1. Monday (September 25th, 2023):
-   - [x] learn lattin arts in manner coffee.
-   - [x] 测试显示器不支持4k，又下单了2.5k的。
-2. Tuesday (September 26th, 2023):
-   - [x] jin is on a business trip.
-   - [x] 所以我讲什么全靠自己。先讲量化，再讲体系结构。
-   - [x] 量化讲什么呢？首先我已经把要讲的内容找到了，语音转文字了。
-   - [x] 体系结构讲什么呢？我现在在vivado上跑一下hdl的题目。最终的目标是写一个mini处理器。
-   - [x] 下一步呢，可以把寒武纪官方的yolov5跑起来。
-3. Wednesday (September 27th, 2023):
-   - [x] 在知道下午会议推迟后，开始继续写Verilog题目。
-   - [x] 听高老师讲奋斗，听张某人讲就业，听陈某人讲政治。
-4. Thursday (September 28th, 2023):
-   - [x] 开会挨批。
-   - [x] 安装vcs，verdi，跑通c906,e203.
-   - [x] 下载isca论文,看一篇。
-5. Friday (September 29th, 2023):
-   - [x] 上午看蜂鸟书籍6章。到下午三点半，蜂鸟书籍基本翻看完毕了。
-   - [x] 写完第4、5章hdl题目。
-6. Friday (September 30th, 2023):
-   - [x] 咋回事，到十点才起来。
-   - [x] 写完第6、7、8章hdl题目。怎么还有那么多。得加速了。
-   - [x] 开了gpt4，但没有voice功能。
-7. Saturday (October 1st, 2023):
-   - [x] 写完hdl题目。
-   - [x] 牛客网题目写完了入门特别版、快速入门。
-## last week
 1. Monday (October 2nd, 2023):
    - [x] 回学校剪发，洗澡。
    - [x] 牛客网题目写完了进阶挑战、企业真题
@@ -76,7 +49,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] as a teacher asistant.
    - [x] chat with wangt,zhuh,weiao.
    - [x] install quantization tools on mlu370.
-## this week
+## last week
 1. Monday (October 16th, 2023):
    - [x] 学了一点点C#
    - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
@@ -98,8 +71,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 接待geng brother.
    - [ ] 然后尝试mlu370的magicmind
    - [ ] 侯捷cpp再过一遍。
-## next week
-```
+## this week
 1. Monday (October 16th, 2023):
    - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
 2. Tuesday (October 17th, 2023):
@@ -113,6 +85,28 @@ https://www.zhihu.com/question/356351510/answer/913928066
 6. Saturday (October 21st, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 22nd, 2023):
+   - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
+## next week
+```
+1. Monday (October 23rd, 2023):
+   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+
+2. Tuesday (October 24th, 2023):
+   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+
+3. Wednesday (October 25th, 2023):
+   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+
+4. Thursday (October 26th, 2023):
+   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+
+5. Friday (October 27th, 2023):
+   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+
+6. Saturday (October 28th, 2023):
+   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
+
+7. Sunday (October 29th, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
@@ -526,71 +520,11 @@ Java大概也是2周学完基础操作（其中有好几天是在装Java，ide�
 Javascript 0基础到掌握基本原理（能编写一个网页小游戏）大概学1-2天
 # 请问学cs或se大学四年具体要学什么？ - Moenova的回答 - 知乎
 https://www.zhihu.com/question/68570085/answer/315989755
-
-# 毕业
-## 行政事务找谁
-各位同学好，
-后续涉及项目型硕士学位培养（培养方案、培养环节、开题中期答辩、学籍异动等学业相关事宜）及助研津贴相关事宜可以直接联系我，联系方式：
-luoran@shanghaitech.edu.cn；
-信息学院1A-209室；
-## 小论文
-移植部署的流程优化
-
-何为自动驾驶领域的工程化能力 - TechTorch的文章 - 知乎
-https://zhuanlan.zhihu.com/p/461656580
-
-闲话自动驾驶的工程化落地 - 黄浴的文章 - 知乎
-https://zhuanlan.zhihu.com/p/467038480
-
-计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
-https://www.zhihu.com/question/595969891/answer/3054501672
-
-TinyNN 开源超便捷大模型量化推理工具 - 丁煌浩的文章 - 知乎
-https://zhuanlan.zhihu.com/p/635259408
-
-知乎大佬们好，我懂深度学习算法，目前想往模型部署优化这个方向发展，请问学习路线是什么？ - 丁煌浩的回答 - 知乎
-https://www.zhihu.com/question/411393222/answer/2359479242
-## 论文开题答辩
-对自动驾驶算法的部署优化
-
-深度学习模型部署TensorRT加速（三）： TensorRT模型部署及优化
-
-自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
-
-自动驾驶中的深度学习模型部署实战-深入介绍TensoRT及如何优化TensorRT
-
-BEV（Bird’s-eye-view）三部曲之一：综述
-
-BEV（Bird’s-eye-view）三部曲之二：方法详解
-# 找工作
-## 找工作，这里可以附上飞书Excel链接，里面是各个公司的招聘进度
-伟鑫师兄给了美团内推码：VKJOAwT
-
-我的短期目标：找到一份好工作，最好能落户上海。
-c++后端开发，嵌入式软件工程师。
-
-车巷莹：比如左程云的指南（3）、剑指offer（2）、算法导论（4）、labuladuo（1）或者是找个教程，leetcode也有那种比如算法入门系列，1最容易
-开源项目 paper 实习 基础扎实，至少有2项
-leetcode坚持刷
-外企＞产业互联网＞甲方国企
-
-求职的吸引力：学习能力；有逻辑化思维的能力；做科研的方法论的训练，如何发现问题、解决问题，理顺其脉络。
-
-###　小车ｒｕｎ起来
-你可以定向看下我们系列视频里相关红外遥控这块教程 应该会对你有帮助
-
-树莓派操控开发板 链接 USB 你在底层代码上打包一些接口就好了
-## zhao teacher
-可以参与部分项目开发工作不用着急。现阶段多注重对计算机体系结构基础性、整体性的知识体系了解。我们的方向是嵌入式智能计算系统，下一阶段要能够通过广泛文献调研工程实践，从中找到科学问题进而对这个问题进行深入研究和求解。
-老师们对你期望都很大，希望你能静下心，多投入时间精力做出优秀的成果。
-
-关于学习，科研上的任何问题欢迎给我留言或发邮件。
 ### xiaokai's advice
 I remember your boss is doing embedded, so he should be proficient in C++ first.
 
 如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
 ### jilin's advice
-
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
 
 我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
@@ -606,65 +540,6 @@ I remember your boss is doing embedded, so he should be proficient in C++ first.
 写一个自我介绍。
 算法不能单纯做，要说思路，说时间空间的优化。
 你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
-### bilibili 浙大it打工仔
-硕士做cv就是纯纯紫砂，博士才建议搞视觉计算机视觉之所以火是因为高校老师很多在搞，工业界需求并不大
-算法岗最推荐推荐算法+自动驾驶，nlp可以转推荐
-视觉岗位极其饱和，搞视觉大部分就业去的都是小厂，下场跟直接本科搞开发差别不大
-### 周老板，观链科技CEO
-应用要根据产品经理的要求，
-堆和栈分别存什么
-
-./a.out在操作系统里面执行了什么。
-
-并不是码农没用。
-
-软件开发。
-
-chatgpt，不会取代前后端。持续上下文的能力，chatgpt做不到。
-
-自己搭建python，人工智能的，云端的环境，，，，
-
-
-理解stable diffusion的原理。
-可以搭建自己的生成环境。自己独立去生成图片，怎么去使用。
-
-如果还不行，
-
-前后端的开发，也可以去配合ai的开发承担具体的任务。
-
-做后端如何不好。
-
-
-做一个照片类的app。本身有很多照片的考虑。
-要实际地把工作做好。
-
-react
-
-本质上实践科学。生成照片，动态范围不好。noise，offset需要优化一下。 能消耗多少gpu，延迟时间。
-
-算法要与实际问题结合。解决的方案也不是纯算法。不是一个方程式
-
-map redus，任务调度再回合结果。
-
-计算机科学是实践科学。问题都是来源于实际应用。
-
-可能还得先干一前后端。硕士博士多的是，没几个能交付成果。
-
-A100，3080，分别怎么跑起来？
-
-搭建环境，，算法需要的环境，要搭建起来。
-gui，，，加api，，
-
-python，，实现api接口，web服务器。。。
-
-
-国内的计算机科学教育，，，大学老师可能没参与过软件开发。
-
-编译原理，，
-操作系统很多研究课题就是，怎么提升效率。为了提高效率，需要对某个模式，搞个优化算法。
-
-
-eda，生成逻辑单元。
 ###　武大蒙大哥
 笔试准备
 ACM模式，要处理输入输出。很多厂在线机试，都是ACM模式。华为ACM，腾讯ACM，字节用牛客还是ACM。
@@ -672,12 +547,6 @@ ACM模式，要处理输入输出。很多厂在线机试，都是ACM模式。�
 日常实习难度比暑期实习小挺多的，然后最好不要投暑期实习通道。因为可能按照暑期实习要求面试你，挂了就挂了，也不给你走日常实习。
 那为啥不直接用leetcode上的题目的solution，再写个输入输出，不就可以面对所有厂子面试了。
 实际也差不多这样，主要是输入输出有时候比较恶心。需要定义的东西多，还有空格 字符串 树结构输入啥的。
-## 自我介绍
-前辈好，我叫张文超，雁行北师大成员。本科在北师大读化学，现就读于上科大计算机，研一刚结束。
-
-我是中科院计算所和上海科技大学联合培养的。研二研三就是去上海处理器中心打工，但是导师的项目都是军工。基本上不让我参与，找工作全靠自谋出路。我也确实比较闲，所以希望在导师公司里面练习技能，然后找外面实习。几乎两年整的时间，应该是足够找一份较好的工作了。
-
-实验室师兄已经劝我不要考虑纯算法岗位了，人均顶会还不一定能卷上去，能做好工程也不错的。
 ## 自动驾驶
 听人劝，吃饱饭。马师兄已经说不要进游戏行业了，那就不考虑了。
 耿大哥推荐的半导体设备软件设计，还行，可以考虑。往上走，做大的EAP。往下走，做设备软件。盛美公司不错，进设备厂商，而不是fab。优先外企，然后是合资。c#，cpp，docker，视觉分析hilkon。open cv、open gl、检测缺陷、路径规划。
@@ -691,7 +560,6 @@ ACM模式，要处理输入输出。很多厂在线机试，都是ACM模式。�
 
 ## [nvidia上海](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Parking-Perception-Engineer_JR1967683?q=Parking%20Perception%20Engineer)
 就是为奔驰自动驾驶服务的。
-
 ## 我现在会什么
 1. 考研专业课：计算机网络、计算机组成原理、数据结构、操作系统。
 2. 研一在上科大学习的课程：计算机图形学、机器学习、深度学习、计算机视觉、算法设计与分析。
@@ -707,7 +575,6 @@ https://www.coursera.org/specializations/self-driving-cars
 中文的也有很多书，京东上可以搜到。有个《自动驾驶技术丛书》是以前百度出的，作者都是我同事。
 2. 前辈对自动驾驶行业的各个公司，有没有一个等级划分？（我先投什么，再投什么）
 现在就业不景气，很多公司都不怎么招人，包括小鹏。图森最近问题很多，但是我觉得对新人来说无所谓吧，主要是能入行、学到东西就行。行业内的知名公司，只要在招人其实都可以试一下。头部玩家应该是百度、华为、比亚迪、特斯拉等大厂，较大的创业公司有小马、文远、momenta、Autox、轻舟、元戎等，另外还有一些比较小众的，比如zdrive、云骥。它们分布在不同的城市，其中也有不少上海的，你可以从上海的实习岗位开始申
-
 
 谷歌waymo、百度apollo、Tesla、奥迪
 大众汽车集团旗下自动驾驶公司 CARIAD 与地平线正式官宣，大众 CARIAD 将与地平线成立合资企业并控股。
@@ -738,7 +605,6 @@ https://momenta.jobs.feishu.cn/campus/position/7215469835245013287/detail
 3、C/C++基础良好，熟练Linux开发环境，熟悉软件系统性能优化方法与工具；
 4、有责任心，有强烈的目标和结果导向，能承受较大的工作压力，对自动驾驶系统有强烈的认同和兴趣。
 
-
 https://momenta.jobs.feishu.cn/campus/position/7205532306017470777/detail
 
 后端开发工程师-C++
@@ -750,53 +616,32 @@ https://momenta.jobs.feishu.cn/campus/position/7205532306017470777/detail
 2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
 3、具备很强的动手能力和团队合作意识，善于学习新事物；
 4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
-
-#### 特斯拉
-都没找到上海特别对口的岗位。
-
 #### 图森未来
 https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/0e9cd7eb-fa03-4c36-abbd-96d9440efc8c
 
 https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/d7fe9c9f-d896-40b1-b3c9-aa027f09c73b
 
-
 https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/5f29e1c0-a4fb-4e84-a053-d84a52240878
-
-
 ### 简历怎么写
 简历上写自我介绍，为每一个岗位写一份有针对性的简历。
 
 ![你有什么想问我的吗？](../images/ask.png)
 比如说你想问这个岗位最重要的能力是什么？这个问题适合问直线经理，如果你问HR，HR对业务的理解如果不深刻的话，可能没法回答。这个问题问直线经理最合适，他认为的最重要的能力，对你来说能做到就说明你合适。
 再比如说，公司提供什么培训和轮岗机会？这一定是HR更加熟悉。直线经理就未必能一个不漏都说出来。
-
-
 我的建议是：
 
 重温一下简历内容，确保每段经历都能用简短的语言复述；
-
 带过的团队，做过的项目，也要以STAR的形式准备好；
-
 每一段经历，都应该准备好数据和实例，会给面试官留下深刻印象；
-
 准备几个自己感兴趣的问题，面试中如果没有获得解答，可以抛给面试官。
-
 STAR形式的面试回答：
-
 Situation：当时背景情况如何？
-
 Target：你的期望目标是什么？
-
 Action：你当时是怎么做的？
-
 Result：效果如何？
-
 # 毕业找工作只是长征第一步
 想想052c。该润还是得润。除非能做到大厂核心岗位，中美薪酬差不多。
 想想清楚，买不起房子，北京户口有球用。
-
 所以我去荷兰。
-
 https://mp.weixin.qq.com/s/jAcOz6AQNv6rsU3Na9mfQg
-
 新加坡小升初PSLE考试详解
