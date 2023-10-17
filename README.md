@@ -72,13 +72,15 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] chat with zhuxuanyu.
    - [x] 提交科普视频。
    - [x] 看电影洪熙官。
+   - [x] 现在的问题是，要编译安装opencv,但是找不到CUDA，我也找不到宿主机的CUDA，所以打算，在容器里面指定目录，重新编译安装CUDA。
 ## this week
 1. Monday (October 16th, 2023):
-   - [ ] 继续研究tensorrt怎么使用。
-   - [ ] 然后尝试mlu370的magicmind
-   - [ ] 侯捷cpp再过一遍。
+   - [x] 继续研究tensorrt怎么使用。这个交流群是真的好，有问必答。
+   - [x] 看电影天书奇谭。
 2. Tuesday (October 17th, 2023):
-   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+   - [x] 复现了yolov5,7,8使用tensorrt的各一个权重的fp16量化。
+   - [x] 然后尝试mlu370的magicmind
+   - [ ] 侯捷cpp再过一遍。
 3. Wednesday (October 18th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 19th, 2023):
