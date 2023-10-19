@@ -81,8 +81,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 复现了yolov5,7,8使用tensorrt的各一个权重的fp16量化。
    - [x] 然后尝试mlu370的magicmind
    - [ ] 侯捷cpp再过一遍。
+   - [x] 可是为什么tensorrt的yolo推理，没有显示类别呢？config.h里面只有类别的个数，没有对应的类别名称。
 3. Wednesday (October 18th, 2023):
-   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+   - [x] gona.
 4. Thursday (October 19th, 2023):
    - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
 5. Friday (October 20th, 2023):
