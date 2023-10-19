@@ -84,10 +84,13 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 可是为什么tensorrt的yolo推理，没有显示类别呢？config.h里面只有类别的个数，没有对应的类别名称。
 3. Wednesday (October 18th, 2023):
    - [x] gona.
+   - [x] magicmind的yolov5,7的int8mixfp16量化。
 4. Thursday (October 19th, 2023):
-   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+   - [x] gona.
+   - [x] magicmind的yolov5,7的int8mixfp16量化。
 5. Friday (October 20th, 2023):
-   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
+   - [x] eat dinner with yu brother.
 6. Saturday (October 21st, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 22nd, 2023):
