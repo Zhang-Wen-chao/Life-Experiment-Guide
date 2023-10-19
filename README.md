@@ -92,7 +92,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
    - [x] eat dinner with yu brother.
 6. Saturday (October 21st, 2023):
-   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
+   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction
 7. Sunday (October 22nd, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ## next week
