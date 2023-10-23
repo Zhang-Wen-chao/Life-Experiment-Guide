@@ -72,7 +72,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
    - [x] update resume.
    - [x] 部署yolov5-v7.0
-   - [ ] Solve the remaining coral problems.
+   - [x] coral, 调通了eval.py，但是准确率这样的数据似乎很烂啊。
 2. Tuesday (October 24th, 2023):
    - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
 3. Wednesday (October 25th, 2023):
