@@ -70,15 +70,15 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ## this week
 1. Monday (October 23rd, 2023):
    - [x] gona.
-   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
-   - [ ] 部署yolov5-v7.0
+   - [x] update resume.
+   - [x] 部署yolov5-v7.0
    - [ ] Solve the remaining coral problems.
 2. Tuesday (October 24th, 2023):
    - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
 3. Wednesday (October 25th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 26th, 2023):
-   - [ ] Listen to a podcast or audiobook on a topic you're curious about to expand your horizons.
+   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
 5. Friday (October 27th, 2023):
    - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
 6. Saturday (October 28th, 2023):
