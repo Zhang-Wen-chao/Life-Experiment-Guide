@@ -103,11 +103,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] Reflect on the past week's achievements and set goals for the upcoming week, ensuring a balance of work, rest, and play.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
-# Any questions today
-
-
-
-
+# Momenta
 后端开发工程师-C++
 苏州、北京正式研发 - 后端开发2023届春季校园招聘
 职位描述
@@ -117,9 +113,6 @@ Can you write in this style for the next week? I hope you also wrap the content 
 2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
 3、具备很强的动手能力和团队合作意识，善于学习新事物；
 4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
-
-针对bang语言，感觉算子设计太工程了。那，可以在编译方面搞搞学术。
-使用ASIC处理器，不同于x86-64，计算访存有自己的特点，可以挖掘自动编译、自动向量化等特点,。再直白一点，直接把cuda 的代码映射过来???
 
 jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
 # some advice
