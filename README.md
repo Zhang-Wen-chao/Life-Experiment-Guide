@@ -23,32 +23,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
-1. Monday (October 2nd, 2023):
-   - [x] 回学校剪发，洗澡。
-   - [x] 牛客网题目写完了进阶挑战、企业真题
-   - [x] 当我打开ddca的视频，我就知道完了，看牛客网、菜鸟网站就是浪费两三天时间。
-2. Tuesday (October 3rd, 2023):
-   - [x] ddca的视频，看到了52集了。
-3. Wednesday (October 4th, 2023):
-   - [x] 思考人生。
-4. Thursday (October 5th, 2023):
-   - [x] 看完ddca视频。
-   - [x] 清理github。
-5. Friday (October 6th, 2023):
-   - [x] 为了和jiang沟通，查了一天资料，被一句话否定。
-   - [x] 约定一周半沟通一次。
-   - [x] 开始安装chipyard
-   - [x] 开始看prefetch的论文。被liu撵出中心。
-6. Saturday (October 7th, 2023):
-   - [x] 递交助教工作申请。
-   - [x] chat with wang.
-   - [x] 回忆一下怎么使用学校集群。
-   - [x] 晚上和高老师、huazhang沟通
-7. Sunday (October 8th, 2023):
-   - [x] as a teacher asistant.
-   - [x] chat with wangt,zhuh,weiao.
-   - [x] install quantization tools on mlu370.
-## last week
 1. Monday (October 16th, 2023):
    - [x] 学了一点点C#
    - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
@@ -72,7 +46,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 提交科普视频。
    - [x] 看电影洪熙官。
    - [x] 现在的问题是，要编译安装opencv,但是找不到CUDA，我也找不到宿主机的CUDA，所以打算，在容器里面指定目录，重新编译安装CUDA。
-## this week
+## last week
 1. Monday (October 16th, 2023):
    - [x] 继续研究tensorrt怎么使用。这个交流群是真的好，有问必答。
    - [x] 看电影天书奇谭。
@@ -88,16 +62,17 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
    - [x] magicmind的yolov5,7的int8mixfp16量化。
 5. Friday (October 20th, 2023):
-   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
    - [x] eat dinner with yu brother.
 6. Saturday (October 21st, 2023):
-   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction
+   - [x] Tried to write mask rcnn, failed. But the format of object detection classification pictures has been sorted out.
 7. Sunday (October 22nd, 2023):
-   - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
-## next week
-```
+   - [x] The format of pictures for disease identification has been organized. Run other people's mask rcnn.
+## this week
 1. Monday (October 23rd, 2023):
-   - [ ] Start your day with meditation or deep breathing exercises to center yourself and set a positive tone for the week.
+   - [x] gona.
+   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
+   - [ ] 部署yolov5-v7.0
+   - [ ] Solve the remaining coral problems.
 2. Tuesday (October 24th, 2023):
    - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
 3. Wednesday (October 25th, 2023):
@@ -110,6 +85,22 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 29th, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
+## next week
+```
+1. Monday (October 30th, 2023):
+   - [ ] Begin your week with a brisk morning walk or jog to invigorate your senses and get your blood flowing.
+2. Tuesday (October 31st, 2023):
+   - [ ] Try a new workout or fitness routine to challenge your body and keep things interesting.
+3. Wednesday (November 1st, 2023):
+   - [ ] Dedicate some time to decluttering a space in your home, bringing order and calm to your environment.
+4. Thursday (November 2nd, 2023):
+   - [ ] Watch a documentary or educational video on a subject you're unfamiliar with to gain new insights.
+5. Friday (November 3rd, 2023):
+   - [ ] Treat yourself to a self-care evening with a relaxing bath, skincare routine, and your favorite book or movie.
+6. Saturday (November 4th, 2023):
+   - [ ] Organize a picnic or outdoor gathering with friends or family, enjoying the fresh air and each other's company.
+7. Sunday (November 5th, 2023):
+   - [ ] Reflect on the past week's achievements and set goals for the upcoming week, ensuring a balance of work, rest, and play.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Any questions today
@@ -186,8 +177,6 @@ https://hom-wang.gitbooks.io/verilog-hdl/content/
 函姐：谦谦君子，温润如玉。情深不寿，强则极辱。愿你在未来的工作中，永葆君子气质，克制情深，收放自如。不要怕，不要悔，爱自己。
 
 李显龙总理转述纳斯特总裁的话：世界上最宝贵的资源是信用。要赢得别人的信任，我们必须兑现承诺，并付出更大的努力去守护这份信用。
-
-郭师姐：慎重考虑去美国，黄种人歧视，治安问题；不要为了phd的名号去读phd，读phd更多的是要搞学术。去美国定居就更要慎重了，孤独、文化无法融入。
 
 执行长的人生经验：不清楚方向没关系，试试看，找一个工作：要喜欢。最重要不是大公司品牌，重要的是为什么人，和什么人工作，我什么都没学到，我跟这个人在一起学到很多。小公司也可以学到很多，大公司有很多资源但看你能不能接触到，重要的是试试看。如果你的部门在公司架构上就体现不出来，那你是没出路的。
 ## work
