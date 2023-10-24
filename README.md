@@ -74,7 +74,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 部署yolov5-v7.0
    - [x] coral, 调通了eval.py，但是准确率这样的数据似乎很烂啊。
 2. Tuesday (October 24th, 2023):
-   - [ ] Experiment with a new recipe or cuisine at home, exploring different flavors and culinary techniques.
+   - [x] After exploring yolov8, I already have a good idea of how to complete the task. But I can only wait until evening to practice.
+   - [ ] gona.
 3. Wednesday (October 25th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 26th, 2023):
