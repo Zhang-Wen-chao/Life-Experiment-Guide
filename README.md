@@ -76,6 +76,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
 2. Tuesday (October 24th, 2023):
    - [x] After exploring yolov8, I already have a good idea of how to complete the task. But I can only wait until evening to practice.
    - [ ] gona.
+   - [ ] 下午上课，问问柯，实际的工作内容是什么？有没有用过yolov8，里面的txt格式知道是什么结构吗？
+   - [ ] 晚上把论文框架写好，发给晋老师。
 3. Wednesday (October 25th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 26th, 2023):
