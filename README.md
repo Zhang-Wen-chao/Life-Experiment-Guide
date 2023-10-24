@@ -74,7 +74,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 部署yolov5-v7.0
    - [x] coral, 调通了eval.py，但是准确率这样的数据似乎很烂啊。
 2. Tuesday (October 24th, 2023):
-   - [x] After exploring yolov8, I already have a good idea of how to complete the task. But I can only wait until evening to practice.
+   - [x] YOLOv8 和 Mask-RCNN 都是出色的图像分割模型，但为您的特定数据集选择最合适的模型需要对这两种模型进行试验，并在相同的测试数据上评估它们的性能。 我们建议您首先在数据集上训练两个分割模型，然后比较它们在测试集上的性能，以确定哪一个最适合您的需求。 祝你的项目好运！
    - [ ] gona.
    - [ ] 下午上课，问问柯，实际的工作内容是什么？有没有用过yolov8，里面的txt格式知道是什么结构吗？
    - [ ] 晚上把论文框架写好，发给晋老师。
