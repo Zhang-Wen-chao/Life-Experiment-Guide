@@ -75,13 +75,14 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] coral, 调通了eval.py，但是准确率这样的数据似乎很烂啊。
 2. Tuesday (October 24th, 2023):
    - [x] YOLOv8 和 Mask-RCNN 都是出色的图像分割模型，但为您的特定数据集选择最合适的模型需要对这两种模型进行试验，并在相同的测试数据上评估它们的性能。 我们建议您首先在数据集上训练两个分割模型，然后比较它们在测试集上的性能，以确定哪一个最适合您的需求。 祝你的项目好运！
-   - [ ] gona.
-   - [ ] 下午上课，问问柯，实际的工作内容是什么？有没有用过yolov8，里面的txt格式知道是什么结构吗？
+   - [x] gona.
+   - [x] 侯捷的cpp课程已经看完上5.
+   - [x] tutorial for pytorch.
    - [ ] 晚上把论文框架写好，发给晋老师。
 3. Wednesday (October 25th, 2023):
    - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 4. Thursday (October 26th, 2023):
-   - [ ] 没有什么是一劳永逸的，每天推进两集侯捷的cpp课程吧。
+   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
 5. Friday (October 27th, 2023):
    - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
 6. Saturday (October 28th, 2023):
@@ -108,10 +109,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
 后端开发工程师-C++
-苏州、北京正式研发 - 后端开发2023届春季校园招聘
-职位描述
 负责Traffic Light感知融合等模块的架构设计、集成、功能开发和迭代等工作。
-职位要求
 1、熟练掌握 Linux 下 C/C++ 编程语言，掌握 Python/Shell 脚本编程；
 2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
 3、具备很强的动手能力和团队合作意识，善于学习新事物；
@@ -126,7 +124,6 @@ https://www.tsri.org.tw/main.jsp
 https://hom-wang.gitbooks.io/verilog-hdl/content/
 
 還有，很重要的是要大量讀paper，ieee paper，
-
 1. 并行计算
 2. 微机原理
 3. 类比电路
@@ -158,10 +155,6 @@ https://hom-wang.gitbooks.io/verilog-hdl/content/
 这么讲，你到底想去做什么，可能为时尚早，随着认知加深，
 你的经历可能会改变你的看法。项目的附加值是最高的。
 ## 箴言
-淼哥：每个人都会的就不值钱了。所以你要掌握稀缺的东西。
-
-邵师姐：拿到手的才是你的，其他都不是。你就好好学习找份好工作把，到时候我给你介绍对象。
-
 郭老师：两分钟说清一件事，是一件本事。精准的两分钟。用尽一切力量和最优秀的人在一起。
 
 美院李教授：细节决定成败是废话。面子会要你的命。动了心，一切皆有可能。
