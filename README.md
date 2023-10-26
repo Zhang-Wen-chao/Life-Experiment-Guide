@@ -87,7 +87,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] coral needs adjust lr, decay.
    - [ ] 看完嵌入式Linux，apue,请教王涛，要就业技术。
 5. Friday (October 27th, 2023):
-   - [ ] Plan a 
+   - [ ] Plan a
 6. Saturday (October 28th, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 29th, 2023):
