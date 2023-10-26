@@ -87,7 +87,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 5. Friday (October 27th, 2023):
    - [ ] coral needs adjust lr, decay.
 6. Saturday (October 28th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教王涛，要就业技术。
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 7. Sunday (October 29th, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ## next week
