@@ -85,7 +85,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] C# studying.
    - [ ] 晚上把论文框架写好，发给晋老师。
 5. Friday (October 27th, 2023):
-   - [ ] Plan a day
+   - [ ] Plan a da
 6. Saturday (October 28th, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 29th, 2023):
