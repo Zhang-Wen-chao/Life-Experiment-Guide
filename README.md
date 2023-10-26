@@ -82,14 +82,12 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
    - [x] return coral result.
 4. Thursday (October 26th, 2023):
-   - [x] C# studying.
+   - [x] C# 刘铁猛视频看了2集
    - [ ] 晚上把论文框架写好，发给晋老师。
-   - [ ] coral needs adjust lr, decay.
-   - [ ] 看完嵌入式Linux，apue,请教王涛，要就业技术。
 5. Friday (October 27th, 2023):
-   - [ ] Plan a
+   - [ ] coral needs adjust lr, decay.
 6. Saturday (October 28th, 2023):
-   - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
+   - [ ] 看完嵌入式Linux，apue,请教王涛，要就业技术。
 7. Sunday (October 29th, 2023):
    - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
 ## next week
