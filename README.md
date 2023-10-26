@@ -78,13 +78,14 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
    - [x] 侯捷的cpp课程已经看完上5.
    - [x] tutorial for pytorch.
-   - [ ] 晚上把论文框架写好，发给晋老师。
 3. Wednesday (October 25th, 2023):
-   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+   - [x] gona.
+   - [x] return coral result.
 4. Thursday (October 26th, 2023):
-   - [ ] Set aside time for journaling or creative writing to express your thoughts, feelings, and aspirations.
+   - [x] C# studying.
+   - [ ] 晚上把论文框架写好，发给晋老师。
 5. Friday (October 27th, 2023):
-   - [ ] Dedicate an hour to a hobby or passion project, whether it's crafting, music, or gardening.
+   - [ ] Plan a day 
 6. Saturday (October 28th, 2023):
    - [ ] Plan a day trip or local adventure to explore a nearby town, nature reserve, or attraction.
 7. Sunday (October 29th, 2023):
