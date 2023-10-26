@@ -86,10 +86,9 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 杨老师讲的bert,gpt非常好。
    - [x] li老师给我分析了不能overfit的原因。 
    - [x] do the laundry.
-   - [ ] coral needs adjust lr, decay.
-   - [ ] 晚上把论文框架写好，发给晋老师。
+   - [x] coral needs adjust lr, decay.
 5. Friday (October 27th, 2023):
-   - [ ] pend qual
+   - [ ] 晚上把论文框架写好，发给晋老师。
 6. Saturday (October 28th, 2023):
    - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 7. Sunday (October 29th, 2023):
