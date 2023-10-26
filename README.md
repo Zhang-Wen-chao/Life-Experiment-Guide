@@ -84,6 +84,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
 4. Thursday (October 26th, 2023):
    - [x] C# studying.
    - [ ] 晚上把论文框架写好，发给晋老师。
+   - [ ] coral needs adjust lr, decay.
+   - [ ] 看完嵌入式Linux，apue,请教王涛，要就业技术。
 5. Friday (October 27th, 2023):
    - [ ] Plan a d
 6. Saturday (October 28th, 2023):
