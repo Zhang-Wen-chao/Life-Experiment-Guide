@@ -115,8 +115,6 @@ Can you write in this style for the next week? I hope you also wrap the content 
 2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
 3、具备很强的动手能力和团队合作意识，善于学习新事物；
 4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
-
-jinpeng:cpp。SQL操作，计算机网络。前端可以会一点，可以在工作时候学一点。
 # some advice
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
