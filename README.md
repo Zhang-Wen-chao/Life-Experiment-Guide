@@ -88,6 +88,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] do the laundry.
    - [x] coral needs adjust lr, decay.
 5. Friday (October 27th, 2023):
+   - [x] coral needs adjust lr, decay.
+   - [x] teaching asistant.
    - [ ] 晚上把论文框架写好，发给晋老师。
 6. Saturday (October 28th, 2023):
    - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
