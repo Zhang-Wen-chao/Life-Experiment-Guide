@@ -90,11 +90,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
 5. Friday (October 27th, 2023):
    - [x] coral needs adjust lr, decay.
    - [x] teaching asistant.
-   - [ ] 晚上把论文框架写好，发给晋老师。
 6. Saturday (October 28th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+   - [ ] 晚上把论文框架写好，发给晋老师。
+   - [ ] longyang.
 7. Sunday (October 29th, 2023):
-   - [ ] Spend quality time with loved ones, playing board games, having meaningful conversations, or simply relaxing together.
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 ## next week
 ```
 1. Monday (October 30th, 2023):
