@@ -92,12 +92,12 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] teaching asistant.
    - [ ] c#到12集了，但是，，，这样似乎没意义，看江在线吗，请教一下。
 6. Saturday (October 28th, 2023):
-   - [ ] 早上看看集群是否还在跑。没有的话，把数据分为8：1：1, split字段改为test，就是测试未知了。
-   - [ ] 如果集群被占用，那么立马开始写论文。
-   - [ ] 晚上把论文框架写好，发给晋老师。
+   - [ ] 立马开始写论文，晚上把论文框架写好，发给晋老师。
    - [ ] longyang 来，小炒餐厅请吃饭。
+   - [ ] 早上看看集群还在跑。
+   - [ ] 集群空闲的话，把数据分为8：1：1, split字段改为test，就是测试未知了。
 7. Sunday (October 29th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术。
 ## next week
 ```
 1. Monday (October 30th, 2023):
