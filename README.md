@@ -94,10 +94,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
 6. Saturday (October 28th, 2023):
    - [x] 立马开始写论文，晚上把论文框架写好，发给晋老师。
    - [x] longyang 来，小炒餐厅请吃饭。
-   - [ ] 集群空闲的话，把数据分为8：1：1, split字段改为test，就是测试未知了。
-   - [ ] c#到12集
 7. Sunday (October 29th, 2023):
    - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+   - [ ] 集群空闲的话，把数据分为8：1：1, split字段改为test，就是测试未知了。
+   - [ ] c#到12集
 ## next week
 ```
 1. Monday (October 30th, 2023):
