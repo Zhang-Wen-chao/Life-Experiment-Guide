@@ -97,7 +97,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] 集群空闲的话，把数据分为8：1：1, split字段改为test，就是测试未知了。
    - [ ] c#到12集
 7. Sunday (October 29th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术。
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 ## next week
 ```
 1. Monday (October 30th, 2023):
