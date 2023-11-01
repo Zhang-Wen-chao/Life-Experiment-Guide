@@ -24,30 +24,6 @@ https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
 1. Monday (October 16th, 2023):
-   - [x] 学了一点点C#
-   - [x] 又开始看侯捷的stl源码剖析，真的和之前感觉不一样了。
-2. Tuesday (October 17th, 2023):
-   - [x] 在3090上运行一下tensorrt试试看。nvidia-smi坏了，问问邓葶。
-   - [x] 人工智能应用听课。把课件上传github
-   - [x] 学校电脑上过一遍opencv.
-3. Wednesday (October 18th, 2023):
-   - [x] 获取tensorrt的docker,并安装最新的pytorch.
-   - [x] 学一下CUDA
-4. Thursday (October 19th, 2023):
-   - [x] tensorrt的jupyter1,4终于跑通了。
-   - [x] 上午就看了几个网页。学校的电脑怎么装不上docker呢，算了，放弃。
-5. Friday (October 20th, 2023):
-   - [x] 基于tensorrt8.6.1的trt-samples跑通了好几个。
-6. Saturday (October 21st, 2023):
-   - [x] 看了一天leetcode，感觉又和之前不一样了。
-7. Sunday (October 22nd, 2023):
-   - [x] 接待geng brother.
-   - [x] chat with zhuxuanyu.
-   - [x] 提交科普视频。
-   - [x] 看电影洪熙官。
-   - [x] 现在的问题是，要编译安装opencv,但是找不到CUDA，我也找不到宿主机的CUDA，所以打算，在容器里面指定目录，重新编译安装CUDA。
-## last week
-1. Monday (October 16th, 2023):
    - [x] 继续研究tensorrt怎么使用。这个交流群是真的好，有问必答。
    - [x] 看电影天书奇谭。
 2. Tuesday (October 17th, 2023):
@@ -67,7 +43,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Tried to write mask rcnn, failed. But the format of object detection classification pictures has been sorted out.
 7. Sunday (October 22nd, 2023):
    - [x] The format of pictures for disease identification has been organized. Run other people's mask rcnn.
-## this week
+## last week
 1. Monday (October 23rd, 2023):
    - [x] gona.
    - [x] update resume.
@@ -96,25 +72,40 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] longyang 来，小炒餐厅请吃饭。
 7. Sunday (October 29th, 2023):
    - [x] 完成了mm模型的批量生产。
-   - [ ] 把数据分为8：1：1, split字段改为test
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
-   - [ ] c#到12
-## next week
-```
+   - [x] 把数据分为8：1：1.
+## this week
 1. Monday (October 30th, 2023):
-   - [ ] Begin your week with a brisk morning walk or jog to invigorate your senses and get your blood flowing.
+   - [x] c#到视频看完。
+   - [x] gona.
 2. Tuesday (October 31st, 2023):
-   - [ ] Try a new workout or fitness routine to challenge your body and keep things interesting.
+   - [x] chat with jin.
+   - [x] gona.
 3. Wednesday (November 1st, 2023):
-   - [ ] Dedicate some time to decluttering a space in your home, bringing order and calm to your environment.
+   - [x] gona.
 4. Thursday (November 2nd, 2023):
    - [ ] Watch a documentary or educational video on a subject you're unfamiliar with to gain new insights.
 5. Friday (November 3rd, 2023):
    - [ ] Treat yourself to a self-care evening with a relaxing bath, skincare routine, and your favorite book or movie.
 6. Saturday (November 4th, 2023):
-   - [ ] Organize a picnic or outdoor gathering with friends or family, enjoying the fresh air and each other's company.
+   - [ ] C++ 项目实战。
 7. Sunday (November 5th, 2023):
-   - [ ] Reflect on the past week's achievements and set goals for the upcoming week, ensuring a balance of work, rest, and play.
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+## next week
+```
+1. Monday (November 6th, 2023):
+   - [ ] Start your day with a rejuvenating yoga or meditation session to center your mind and promote inner calm.
+2. Tuesday (November 7th, 2023):
+   - [ ] Explore a new hobby or activity that sparks your interest, such as painting, gardening, or playing a musical instrument.
+3. Wednesday (November 8th, 2023):
+   - [ ] Take a break from screens and spend some time engaging in physical activities like cycling, swimming, or hiking.
+4. Thursday (November 9th, 2023):
+   - [ ] Cook a healthy and delicious meal from scratch, trying out a new recipe and nourishing your body with wholesome ingredients.
+5. Friday (November 10th, 2023):
+   - [ ] Allocate time for self-reflection and journaling, allowing yourself to express thoughts, emotions, and aspirations freely.
+6. Saturday (November 11th, 2023):
+   - [ ] Connect with nature by visiting a local park, botanical garden, or nature reserve, immersing yourself in the beauty of the outdoors.
+7. Sunday (November 12th, 2023):
+   - [ ] Pamper yourself with a spa-like self-care day, indulging in face masks, soothing music, and practicing relaxation techniques.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
