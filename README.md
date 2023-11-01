@@ -68,7 +68,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] teaching asistant.
    - [x] c#到12集了.
 6. Saturday (October 28th, 2023):
-   - [x] 立马开始写论文，晚上把论文框架写好，发给晋老师。
+   - [x] 立马开始写论文
    - [x] longyang 来，小炒餐厅请吃饭。
 7. Sunday (October 29th, 2023):
    - [x] 完成了mm模型的批量生产。
@@ -82,6 +82,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
 3. Wednesday (November 1st, 2023):
    - [x] gona.
+   - [ ] lab for quantation.
 4. Thursday (November 2nd, 2023):
    - [ ] Watch a documentary or educational video on a subject you're unfamiliar with to gain new insights.
 5. Friday (November 3rd, 2023):
