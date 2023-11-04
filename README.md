@@ -71,7 +71,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 6. Saturday (November 4th, 2023):
    - [x] 推进晋老师的东西
 7. Sunday (November 5th, 2023):
-   - [ ] 用wpf写个Microsoft todo.
+   - [ ] 用wpf写个Microsoft todo.可以先看看深入浅出wpf.
 ## this week
 1. Monday (November 6th, 2023):
    - [ ] Start your day with a rejuvenating yoga or meditation session to center your mind and promote inner calm.
