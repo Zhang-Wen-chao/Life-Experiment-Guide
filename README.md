@@ -23,27 +23,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
-1. Monday (October 16th, 2023):
-   - [x] 继续研究tensorrt怎么使用。这个交流群是真的好，有问必答。
-   - [x] 看电影天书奇谭。
-2. Tuesday (October 17th, 2023):
-   - [x] 复现了yolov5,7,8使用tensorrt的各一个权重的fp16量化。
-   - [x] 然后尝试mlu370的magicmind
-   - [ ] 侯捷cpp再过一遍。
-   - [x] 可是为什么tensorrt的yolo推理，没有显示类别呢？config.h里面只有类别的个数，没有对应的类别名称。
-3. Wednesday (October 18th, 2023):
-   - [x] gona.
-   - [x] magicmind的yolov5,7的int8mixfp16量化。
-4. Thursday (October 19th, 2023):
-   - [x] gona.
-   - [x] magicmind的yolov5,7的int8mixfp16量化。
-5. Friday (October 20th, 2023):
-   - [x] eat dinner with yu brother.
-6. Saturday (October 21st, 2023):
-   - [x] Tried to write mask rcnn, failed. But the format of object detection classification pictures has been sorted out.
-7. Sunday (October 22nd, 2023):
-   - [x] The format of pictures for disease identification has been organized. Run other people's mask rcnn.
-## last week
 1. Monday (October 23rd, 2023):
    - [x] gona.
    - [x] update resume.
@@ -73,7 +52,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 7. Sunday (October 29th, 2023):
    - [x] 完成了mm模型的批量生产。
    - [x] 把数据分为8：1：1.
-## this week
+## last week
 1. Monday (October 30th, 2023):
    - [x] c#到视频看完。
    - [x] gona.
@@ -82,23 +61,24 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] gona.
 3. Wednesday (November 1st, 2023):
    - [x] gona.
-   - [ ] lab for quantation.
+   - [x] lab for quantation.
 4. Thursday (November 2nd, 2023):
-   - [ ] Watch a documentary or educational video on a subject you're unfamiliar with to gain new insights.
+   - [x] gona.
+   - [x] 晋老师在催论文了，在跑yolov5-v7.0的版本了。
 5. Friday (November 3rd, 2023):
-   - [ ] Treat yourself to a self-care evening with a relaxing bath, skincare routine, and your favorite book or movie.
+   - [x] gona
+   - [x] 厉老师也没继续问我，但高老师来问我了。
 6. Saturday (November 4th, 2023):
-   - [ ] C++ 项目实战。
+   - [x] 推进晋老师的东西
 7. Sunday (November 5th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
-## next week
-```
+   - [ ] 用wpf写个Microsoft todo.
+## this week
 1. Monday (November 6th, 2023):
    - [ ] Start your day with a rejuvenating yoga or meditation session to center your mind and promote inner calm.
 2. Tuesday (November 7th, 2023):
-   - [ ] Explore a new hobby or activity that sparks your interest, such as painting, gardening, or playing a musical instrument.
+   - [ ] C++ 项目实战。
 3. Wednesday (November 8th, 2023):
-   - [ ] Take a break from screens and spend some time engaging in physical activities like cycling, swimming, or hiking.
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 4. Thursday (November 9th, 2023):
    - [ ] Cook a healthy and delicious meal from scratch, trying out a new recipe and nourishing your body with wholesome ingredients.
 5. Friday (November 10th, 2023):
@@ -107,6 +87,22 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [ ] Connect with nature by visiting a local park, botanical garden, or nature reserve, immersing yourself in the beauty of the outdoors.
 7. Sunday (November 12th, 2023):
    - [ ] Pamper yourself with a spa-like self-care day, indulging in face masks, soothing music, and practicing relaxation techniques.
+## next week
+```
+1. Monday (November 13th, 2023):
+   - [ ] Begin the week with an invigorating workout session to kickstart your energy levels and set a positive tone.
+2. Tuesday (November 14th, 2023):
+   - [ ] Dedicate some time to learn a new skill or language online, enhancing your personal and professional growth.
+3. Wednesday (November 15th, 2023):
+   - [ ] Volunteer for a local community service or charity organization to give back and connect with others.
+4. Thursday (November 16th, 2023):
+   - [ ] Arrange a get-together with friends or family to share a meal and enjoy each other’s company.
+5. Friday (November 17th, 2023):
+   - [ ] Unwind in the evening with your favorite book or podcast, allowing yourself to relax and escape into different worlds.
+6. Saturday (November 18th, 2023):
+   - [ ] Tackle a DIY project or home improvement task to enhance your living space and spark creativity.
+7. Sunday (November 19th, 2023):
+   - [ ] Plan a short day trip to a nearby town or attraction you’ve never visited to explore new environments.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
