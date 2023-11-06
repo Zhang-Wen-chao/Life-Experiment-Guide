@@ -75,6 +75,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ## this week
 1. Monday (November 6th, 2023):
    - [ ] gona.
+   - [ ] 在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。
 2. Tuesday (November 7th, 2023):
    - [ ] C++ 项目实战这本书，得抽时间完成。
 3. Wednesday (November 8th, 2023):
@@ -82,7 +83,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 4. Thursday (November 9th, 2023):
    - [ ] 用wpf写个Microsoft todo.可以先看看深入浅出wpf.
 5. Friday (November 10th, 2023):
-   - [ ] Allocate time for self-reflection and journaling, allowing yourself to express thoughts, emotions, and aspirations freely.
+   - [ ] 小鹤双拼居然还有音形，有空了可以研究一下。
 6. Saturday (November 11th, 2023):
    - [ ] Connect with nature by visiting a local park, botanical garden, or nature reserve, immersing yourself in the beauty of the outdoors.
 7. Sunday (November 12th, 2023):
