@@ -74,7 +74,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 一天就把所有的C++八股文放进了anki，就真的感觉，突然看懂了很多内容。
 ## this week
 1. Monday (November 6th, 2023):
-   - [ ] Start your day with a rejuvenating yoga or meditation session to center your mind and promote inner calm.
+   - [ ] gona.
 2. Tuesday (November 7th, 2023):
    - [ ] C++ 项目实战这本书，得抽时间完成。
 3. Wednesday (November 8th, 2023):
