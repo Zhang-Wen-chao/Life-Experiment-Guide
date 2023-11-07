@@ -79,6 +79,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 阿秀的学习笔记复制粘贴到anki。
 2. Tuesday (November 7th, 2023):
    - [x] gona
+   - [ ] 把C#的内容也放入anki。
    - [ ] 半小时看anki，半小时刷leetcode。
 3. Wednesday (November 8th, 2023):
    - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
