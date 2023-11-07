@@ -74,16 +74,18 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 一天就把所有的C++八股文放进了anki，就真的感觉，突然看懂了很多内容。
 ## this week
 1. Monday (November 6th, 2023):
-   - [ ] gona.
-   - [ ] 在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。
+   - [x] gona.
+   - [x] 小鹤双拼居然还有音形，研究之后决定不使用。我不是汉字高强度工作者，拼音联想功能已经足够我的使用，我想打的字一般都能排在前三位。
+   - [x] 阿秀的学习笔记复制粘贴到anki。
 2. Tuesday (November 7th, 2023):
-   - [ ] C++ 项目实战这本书，得抽时间完成。
+   - [x] gona
+   - [ ] 半小时看anki，半小时刷leetcode。
 3. Wednesday (November 8th, 2023):
    - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 4. Thursday (November 9th, 2023):
    - [ ] 用wpf写个Microsoft todo.可以先看看深入浅出wpf.
 5. Friday (November 10th, 2023):
-   - [ ] 小鹤双拼居然还有音形，有空了可以研究一下。
+   - [ ] C++ 项目实战这本书，得抽时间完成。在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。
 6. Saturday (November 11th, 2023):
    - [ ] Connect with nature by visiting a local park, botanical garden, or nature reserve, immersing yourself in the beauty of the outdoors.
 7. Sunday (November 12th, 2023):
