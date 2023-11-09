@@ -91,7 +91,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
 6. Saturday (November 11th, 2023):
    - [ ] 把C#的内容也放入anki。
    - [ ] 半小时看anki，半小时刷leetcode。
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+   - [ ] 看完嵌入式Linux，apue,请教wangt要就业技术
 7. Sunday (November 12th, 2023):
    - [ ] Pamper yourself with a spa-like self-care day, indulging in face masks, soothing music, and practicing relaxation techniques.
 ## next week
