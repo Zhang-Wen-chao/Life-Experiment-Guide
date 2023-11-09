@@ -79,16 +79,19 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 阿秀的学习笔记复制粘贴到anki。
 2. Tuesday (November 7th, 2023):
    - [x] gona
-   - [ ] 把C#的内容也放入anki。
-   - [ ] 半小时看anki，半小时刷leetcode。
 3. Wednesday (November 8th, 2023):
-   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
+   - [x] gona, 见到琪哥。
+   - [x] chat with ZhengJie
+   - [x] watch movie protégé
 4. Thursday (November 9th, 2023):
+   - [ ] gona, 感觉读懂了代码
    - [ ] 用wpf写个Microsoft todo.可以先看看深入浅出wpf.
 5. Friday (November 10th, 2023):
    - [ ] C++ 项目实战这本书，得抽时间完成。在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。
 6. Saturday (November 11th, 2023):
-   - [ ] Connect with nature by visiting a local park, botanical garden, or nature reserve, immersing yourself in the beauty of the outdoors.
+   - [ ] 把C#的内容也放入anki。
+   - [ ] 半小时看anki，半小时刷leetcode。
+   - [ ] 看完嵌入式Linux，apue,请教wangt，要就业技术
 7. Sunday (November 12th, 2023):
    - [ ] Pamper yourself with a spa-like self-care day, indulging in face masks, soothing music, and practicing relaxation techniques.
 ## next week
