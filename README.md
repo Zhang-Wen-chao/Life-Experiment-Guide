@@ -23,56 +23,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
-1. Monday (October 23rd, 2023):
-   - [x] gona.
-   - [x] update resume.
-   - [x] 部署yolov5-v7.0
-   - [x] coral, 调通了eval.py，但是准确率这样的数据似乎很烂啊。
-2. Tuesday (October 24th, 2023):
-   - [x] YOLOv8 和 Mask-RCNN 都是出色的图像分割模型，但为您的特定数据集选择最合适的模型需要对这两种模型进行试验，并在相同的测试数据上评估它们的性能。 我们建议您首先在数据集上训练两个分割模型，然后比较它们在测试集上的性能，以确定哪一个最适合您的需求。 祝你的项目好运！
-   - [x] gona.
-   - [x] 侯捷的cpp课程已经看完上5.
-   - [x] tutorial for pytorch.
-3. Wednesday (October 25th, 2023):
-   - [x] gona.
-   - [x] return coral result.
-4. Thursday (October 26th, 2023):
-   - [x] C# 刘铁猛视频看了3集
-   - [x] 杨老师讲的bert,gpt非常好。
-   - [x] li老师给我分析了不能overfit的原因。 
-   - [x] do the laundry.
-   - [x] coral needs adjust lr, decay.
-5. Friday (October 27th, 2023):
-   - [x] coral needs adjust lr, decay.
-   - [x] teaching asistant.
-   - [x] c#到12集了.
-6. Saturday (October 28th, 2023):
-   - [x] 立马开始写论文
-   - [x] longyang 来，小炒餐厅请吃饭。
-7. Sunday (October 29th, 2023):
-   - [x] 完成了mm模型的批量生产。
-   - [x] 把数据分为8：1：1.
-## last week
-1. Monday (October 30th, 2023):
-   - [x] c#到视频看完。
-   - [x] gona.
-2. Tuesday (October 31st, 2023):
-   - [x] chat with jin.
-   - [x] gona.
-3. Wednesday (November 1st, 2023):
-   - [x] gona.
-   - [x] lab for quantation.
-4. Thursday (November 2nd, 2023):
-   - [x] gona.
-   - [x] 晋老师在催论文了，在跑yolov5-v7.0的版本了。
-5. Friday (November 3rd, 2023):
-   - [x] gona
-   - [x] 厉老师也没继续问我，但高老师来问我了。
-6. Saturday (November 4th, 2023):
-   - [x] 推进晋老师的东西
-7. Sunday (November 5th, 2023):
-   - [x] 一天就把所有的C++八股文放进了anki，就真的感觉，突然看懂了很多内容。
-## this week
 1. Monday (November 6th, 2023):
    - [x] gona.
    - [x] 小鹤双拼居然还有音形，研究之后决定不使用。我不是汉字高强度工作者，拼音联想功能已经足够我的使用，我想打的字一般都能排在前三位。
@@ -84,34 +34,60 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] chat with ZhengJie
    - [x] watch movie protégé
 4. Thursday (November 9th, 2023):
-   - [ ] gona, 感觉读懂了代码
-   - [ ] 上午干不了什么也就算了，下午被雨困着，看了一下午视频。tmd，晚上还是不能用chatgpt。
-   - [ ] 现在的首要目标是什么？完成晋老师给的脚本。
-   - [ ] 用wpf写个Microsoft todo.可以先看看深入浅出wpf.
+   - [x] gona
 5. Friday (November 10th, 2023):
-   - [ ] C++ 项目实战这本书，得抽时间完成。在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。
+   - [x] gona
 6. Saturday (November 11th, 2023):
-   - [ ] 把C#的内容也放入anki。
-   - [ ] 半小时看anki，半小时刷leetcode。
-   - [ ] 看完嵌入式Linux，apue,请教wangt要就业技术
+   - [x] 把C#的内容也放入anki。
 7. Sunday (November 12th, 2023):
-   - [ ] Pamper yourself with a spa-like self-care day, indulging in face masks, soothing music, and practicing relaxation techniques.
+## last week
+1. Monday (November 13th, 2023):
+   - [x] gona
+2. Tuesday (November 14th, 2023):
+   - [x] gona.
+3. Wednesday (November 15th, 2023):
+   - [x] gona.
+4. Thursday (November 16th, 2023):
+   - [x] gona.
+5. Friday (November 17th, 2023):
+   - [x] gona.
+6. Saturday (November 18th, 2023):
+   - [x] qiniu
+7. Sunday (November 19th, 2023):
+   - [x] qiniu
+   - [x] 提交初版thesis.
+## this week
+1. Monday (November 20th, 2023):
+   - [ ] gona.
+   - [ ] Tank.
+2. Tuesday (November 21st, 2023):
+   - [ ] Take a break from screens and spend the afternoon hiking in nature to rejuvenate your mind and body.
+3. Wednesday (November 22nd, 2023):
+   - [ ] 半小时看anki，半小时刷leetcode。C++ 项目实战这本书，得抽时间完成。在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。看完嵌入式Linux，apue,请教wangt要就业技术.用wpf写个Microsoft todo.可以先看看深入浅出wpf.
+4. Thursday (November 23rd, 2023):
+   - [ ] Practice gratitude by writing down three things you are thankful for today, fostering a positive mindset.
+5. Friday (November 24th, 2023):
+   - [ ] Indulge in a self-care evening, treating yourself to a bubble bath, face mask, and your favorite soothing music.
+6. Saturday (November 25th, 2023):
+   - [ ] Explore a local art gallery or museum to immerse yourself in creativity and gain inspiration.
+7. Sunday (November 26th, 2023):
+   - [ ] Set aside time for a digital detox: disconnect from your devices and engage in activities that don't involve screens.
 ## next week
 ```
-1. Monday (November 13th, 2023):
-   - [ ] Begin the week with an invigorating workout session to kickstart your energy levels and set a positive tone.
-2. Tuesday (November 14th, 2023):
-   - [ ] Dedicate some time to learn a new skill or language online, enhancing your personal and professional growth.
-3. Wednesday (November 15th, 2023):
-   - [ ] Volunteer for a local community service or charity organization to give back and connect with others.
-4. Thursday (November 16th, 2023):
-   - [ ] Arrange a get-together with friends or family to share a meal and enjoy each other’s company.
-5. Friday (November 17th, 2023):
-   - [ ] Unwind in the evening with your favorite book or podcast, allowing yourself to relax and escape into different worlds.
-6. Saturday (November 18th, 2023):
-   - [ ] Tackle a DIY project or home improvement task to enhance your living space and spark creativity.
-7. Sunday (November 19th, 2023):
-   - [ ] Plan a short day trip to a nearby town or attraction you’ve never visited to explore new environments.
+1. Monday (November 27th, 2023):
+   - [ ] Start your day with a 20-minute yoga session to stretch and energize your body.
+2. Tuesday (November 28th, 2023):
+   - [ ] Spend some time journaling or writing down your thoughts and reflections to promote self-expression.
+3. Wednesday (November 29th, 2023):
+   - [ ] Take a digital break and engage in a hobby or activity that brings you joy, such as painting or playing an instrument.
+4. Thursday (November 30th, 2023):
+   - [ ] Connect with a friend or loved one you haven't talked to in a while and catch up over a virtual coffee or phone call.
+5. Friday (December 1st, 2023):
+   - [ ] Treat yourself to a movie night at home, complete with popcorn and your favorite films or TV shows.
+6. Saturday (December 2nd, 2023):
+   - [ ] Dedicate some time for outdoor exercise, whether it's going for a run, cycling, or practicing yoga in a nearby park.
+7. Sunday (December 3rd, 2023):
+   - [ ] Create a cozy and peaceful reading nook at home, and spend the day immersing yourself in a great book.
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
