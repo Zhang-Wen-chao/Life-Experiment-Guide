@@ -58,12 +58,12 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] 提交初版thesis.
 ## this week
 1. Monday (November 20th, 2023):
-   - [ ] gona.
+   - [x] gona.
    - [ ] Tank.
 2. Tuesday (November 21st, 2023):
    - [ ] Take a break from screens and spend the afternoon hiking in nature to rejuvenate your mind and body.
 3. Wednesday (November 22nd, 2023):
-   - [ ] 半小时看anki，半小时刷leetcode。C++ 项目实战这本书，得抽时间完成。在Linux上安装虚拟机，进行C++环境的搭建，统统按照手册来。看完嵌入式Linux，apue,请教wangt要就业技术.用wpf写个Microsoft todo.可以先看看深入浅出wpf.
+   - [ ] anki，leetcode。
 4. Thursday (November 23rd, 2023):
    - [ ] Practice gratitude by writing down three things you are thankful for today, fostering a positive mindset.
 5. Friday (November 24th, 2023):
@@ -118,9 +118,6 @@ https://hom-wang.gitbooks.io/verilog-hdl/content/
 反正就现在编程的门槛越来越低，你要只会编程序肯定会被取代的。
 ## zihao
 两手准备：计算机、金融，两手准备。依然比其他行业好。金融圈：多关注，金融科技，其实需要真技术、真本事，喜欢招收的人还就是计算机类的，培养的交叉学科的。金融科技要比纯金融好找工作。银行、券商、基金、信息技术岗位。对于未来的判断，不能通过财报、研报，需要考虑更多的因素：直觉、宏观经济、政策支持。
-## Teacher Li
-要dig in code，代码实验不是voodoo，要会调试代码，知道运行到哪里报的错，为什么报错。比如这个错误，字面意思已经告诉你了它不识别mp4后缀文件，说明没有装或者没有正确安装视频解码包，所以你装一个ffmpeg就好了。所以他不是个bug，更不“神奇”，只是你比较菜（没有批评你的意思，刚开始都这样）。
-学会用pdb.set_trace()和基础的print()定位错误，并且理解错误哈。
 ## Teacher Wang
 不可能面面俱到，好比说，
 情景一，去了大，华为，中芯，不可能面面俱到地干。只会让你干一个点。
@@ -512,7 +509,7 @@ I remember your boss is doing embedded, so he should be proficient in C++ first.
 写一个自我介绍。
 算法不能单纯做，要说思路，说时间空间的优化。
 你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
-###　武大蒙大哥
+###　蒙大哥
 笔试准备
 ACM模式，要处理输入输出。很多厂在线机试，都是ACM模式。华为ACM，腾讯ACM，字节用牛客还是ACM。
 整理整理就去中小厂面试练练表达和输出。
@@ -577,8 +574,6 @@ https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/d7fe9c9f-d896-4
 
 https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/5f29e1c0-a4fb-4e84-a053-d84a52240878
 ### 简历怎么写
-简历上写自我介绍，为每一个岗位写一份有针对性的简历。
-
 ![你有什么想问我的吗？](../images/ask.png)
 比如说你想问这个岗位最重要的能力是什么？这个问题适合问直线经理，如果你问HR，HR对业务的理解如果不深刻的话，可能没法回答。这个问题问直线经理最合适，他认为的最重要的能力，对你来说能做到就说明你合适。
 再比如说，公司提供什么培训和轮岗机会？这一定是HR更加熟悉。直线经理就未必能一个不漏都说出来。
