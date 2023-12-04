@@ -23,71 +23,51 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 https://www.zhihu.com/question/356351510/answer/913928066
 # last month
 ## the week before last week
-1. Monday (November 6th, 2023):
-   - [x] gona.
-   - [x] 小鹤双拼居然还有音形，研究之后决定不使用。我不是汉字高强度工作者，拼音联想功能已经足够我的使用，我想打的字一般都能排在前三位。
-   - [x] 阿秀的学习笔记复制粘贴到anki。
-2. Tuesday (November 7th, 2023):
-   - [x] gona
-3. Wednesday (November 8th, 2023):
-   - [x] gona, 见到琪哥。
-   - [x] chat with ZhengJie
-   - [x] watch movie protégé
-4. Thursday (November 9th, 2023):
-   - [x] gona
-5. Friday (November 10th, 2023):
-   - [x] gona
-6. Saturday (November 11th, 2023):
-   - [x] 把C#的内容也放入anki。
-7. Sunday (November 12th, 2023):
 ## last week
-1. Monday (November 13th, 2023):
-   - [x] gona
-2. Tuesday (November 14th, 2023):
-   - [x] gona.
-3. Wednesday (November 15th, 2023):
-   - [x] gona.
-4. Thursday (November 16th, 2023):
-   - [x] gona.
-5. Friday (November 17th, 2023):
-   - [x] gona.
-6. Saturday (November 18th, 2023):
-   - [x] qiniu
-7. Sunday (November 19th, 2023):
-   - [x] qiniu
-   - [x] 提交初版thesis.
 ## this week
-1. Monday (November 20th, 2023):
-   - [x] gona.
-   - [ ] Tank.
-2. Tuesday (November 21st, 2023):
-   - [ ] Take a break from screens and spend the afternoon hiking in nature to rejuvenate your mind and body.
-3. Wednesday (November 22nd, 2023):
-   - [ ] anki，leetcode。
-4. Thursday (November 23rd, 2023):
-   - [ ] Practice gratitude by writing down three things you are thankful for today, fostering a positive mindset.
-5. Friday (November 24th, 2023):
-   - [ ] Indulge in a self-care evening, treating yourself to a bubble bath, face mask, and your favorite soothing music.
-6. Saturday (November 25th, 2023):
-   - [ ] Explore a local art gallery or museum to immerse yourself in creativity and gain inspiration.
-7. Sunday (November 26th, 2023):
-   - [ ] Set aside time for a digital detox: disconnect from your devices and engage in activities that don't involve screens.
+1. Monday (December 4th, 2023):
+   - [ ] Start your day with a calming meditation session to center your mind and set positive intentions. 🧘‍♀️🌞
+   - [ ] Read political articles. 🎲🧺😄
+   
+2. Tuesday (December 5th, 2023):
+   - [ ] Treat yourself to a delicious and nutritious breakfast to fuel your day ahead. 🥞🍓🥗
+   
+3. Wednesday (December 6th, 2023):
+   - [ ] Engage in a creative activity like painting, drawing, or crafting to express yourself artistically. 🎨✨
+
+4. Thursday (December 7th, 2023):
+   - [ ] Take a break from screens and spend quality time with loved ones, playing board games or having a picnic. 🎲🧺😄
+
+5. Friday (December 8th, 2023):
+   - [ ] Have a self-care evening with a warm bath, scented candles, and your favorite relaxing music. 🛀🕯️🎶
+
+6. Saturday (December 9th, 2023):
+   - [ ] Explore nature by going for a hike or nature walk and embrace the beauty of the outdoors. 🌳🏞️🚶‍♀️
+
+7. Sunday (December 10th, 2023):
+   - [ ] Practice gratitude by writing down three things you are thankful for and reflecting on the positivity in your life. 📝🙏😊
 ## next week
 ```
-1. Monday (November 27th, 2023):
-   - [ ] Start your day with a 20-minute yoga session to stretch and energize your body.
-2. Tuesday (November 28th, 2023):
-   - [ ] Spend some time journaling or writing down your thoughts and reflections to promote self-expression.
-3. Wednesday (November 29th, 2023):
-   - [ ] Take a digital break and engage in a hobby or activity that brings you joy, such as painting or playing an instrument.
-4. Thursday (November 30th, 2023):
-   - [ ] Connect with a friend or loved one you haven't talked to in a while and catch up over a virtual coffee or phone call.
-5. Friday (December 1st, 2023):
-   - [ ] Treat yourself to a movie night at home, complete with popcorn and your favorite films or TV shows.
-6. Saturday (December 2nd, 2023):
-   - [ ] Dedicate some time for outdoor exercise, whether it's going for a run, cycling, or practicing yoga in a nearby park.
-7. Sunday (December 3rd, 2023):
-   - [ ] Create a cozy and peaceful reading nook at home, and spend the day immersing yourself in a great book.
+1. Monday (December 4th, 2023):
+   - [ ] Start your day with a calming meditation session to center your mind and set positive intentions. 🧘‍♀️🌞
+   
+2. Tuesday (December 5th, 2023):
+   - [ ] Treat yourself to a delicious and nutritious breakfast to fuel your day ahead. 🥞🍓🥗
+   
+3. Wednesday (December 6th, 2023):
+   - [ ] Engage in a creative activity like painting, drawing, or crafting to express yourself artistically. 🎨✨
+
+4. Thursday (December 7th, 2023):
+   - [ ] Take a break from screens and spend quality time with loved ones, playing board games or having a picnic. 🎲🧺😄
+
+5. Friday (December 8th, 2023):
+   - [ ] Have a self-care evening with a warm bath, scented candles, and your favorite relaxing music. 🛀🕯️🎶
+
+6. Saturday (December 9th, 2023):
+   - [ ] Explore nature by going for a hike or nature walk and embrace the beauty of the outdoors. 🌳🏞️🚶‍♀️
+
+7. Sunday (December 10th, 2023):
+   - [ ] Practice gratitude by writing down three things you are thankful for and reflecting on the positivity in your life. 📝🙏😊
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
