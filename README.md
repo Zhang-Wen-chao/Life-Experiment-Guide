@@ -26,12 +26,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ## last week
 ## this week
 1. Monday (December 4th, 2023):
-   - [ ] Start your day with a calming meditation session to center your mind and set positive intentions. 🧘‍♀️🌞
-   - [ ] Read political articles. 🎲🧺😄
-   
+   - [x] Read political articles. 🎲🧺😄
+   - [x] Java.
 2. Tuesday (December 5th, 2023):
-   - [ ] Treat yourself to a delicious and nutritious breakfast to fuel your day ahead. 🥞🍓🥗
-   
+   - [ ] Java.
 3. Wednesday (December 6th, 2023):
    - [ ] Engage in a creative activity like painting, drawing, or crafting to express yourself artistically. 🎨✨
 
