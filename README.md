@@ -29,7 +29,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Read political articles. 🎲🧺😄
    - [x] Java.
 2. Tuesday (December 5th, 2023):
-   - [ ] Java.
+   - [x] Java.
+   - [x] propose a topic.
 3. Wednesday (December 6th, 2023):
    - [ ] Engage in a creative activity like painting, drawing, or crafting to express yourself artistically. 🎨✨
 
