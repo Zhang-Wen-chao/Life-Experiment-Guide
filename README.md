@@ -33,6 +33,7 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] propose a topic.
 3. Wednesday (December 6th, 2023):
    - [x] Java.
+   - [x] push jin.
 4. Thursday (December 7th, 2023):
    - [ ] Take a break from screens and spend quality time with loved ones, playing board games or having a picnic. 🎲🧺😄
 5. Friday (December 8th, 2023):
