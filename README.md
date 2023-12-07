@@ -35,8 +35,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Java.
    - [x] push jin.
 4. Thursday (December 7th, 2023):
-   - [ ] Java.
-   - [ ] look for internship
+   - [x] Java.
+   - [x] look for internship.
 5. Friday (December 8th, 2023):
    - [ ] Have a self-care evening with a warm bath, scented candles, and your favorite relaxing music. 🛀🕯️🎶
    - [ ] Java.
