@@ -38,8 +38,8 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Java.
    - [x] look for internship.
 5. Friday (December 8th, 2023):
-   - [ ] Have a self-care evening with a warm bath, scented candles, and your favorite relaxing music. 🛀🕯️🎶
    - [ ] Java.
+   - [ ] meeting with zhengjie.
 6. Saturday (December 9th, 2023):
    - [ ] Explore nature by going for a hike or nature walk and embrace the beauty of the outdoors. 🌳🏞️🚶‍♀️
 7. Sunday (December 10th, 2023):
