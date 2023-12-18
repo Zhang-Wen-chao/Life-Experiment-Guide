@@ -24,23 +24,20 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ## last week
 ## this week
 1. Monday (December 18th, 2023):
-   - [ ] Begin your day with a brisk morning walk. Embrace the fresh air and serene environment to energize yourself. 🌅🚶‍♀️
-
+   - [x] do the laundry. 🧺🧼
+   - [x] Waiting for a response from Microsoft's Vice President of Asian Research Institute. 📧📨
+   - [x] chat with my friends, Liao Jiang. 💬👥
+   - [x] did 30 pushups.
 2. Tuesday (December 19th, 2023):
    - [ ] Take a moment to organize your workspace. A clean and ordered environment can boost productivity and clarity. 🗂️🧹
-
 3. Wednesday (December 20th, 2023):
    - [ ] Midweek mindfulness: Spend 15 minutes in meditation or deep breathing exercises to rejuvenate your mind. 🧘‍♂️💭
-
 4. Thursday (December 21st, 2023):
    - [ ] Indulge in a hobby you enjoy, be it gardening, painting, or playing a musical instrument. Time spent on hobbies is never wasted. 🎨🌷🎸
-
 5. Friday (December 22nd, 2023):
    - [ ] Plan a small get-together or a virtual hangout with friends to welcome the weekend. Social connections are vital. 🍕👥💬
-
 6. Saturday (December 23rd, 2023):
    - [ ] Explore a local market or craft fair. Supporting local businesses and artisans can be a fulfilling experience. 🛍️🎁
-
 7. Sunday (December 24th, 2023):
    - [ ] Spend time planning for the upcoming week. Setting intentions and goals helps create a focused and productive week ahead. 📆✏️📈
 
