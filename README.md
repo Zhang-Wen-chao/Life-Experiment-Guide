@@ -1,6 +1,6 @@
 # Life-Experiment-Guide
 人生实验指南，是台湾清华大学发给交换生的入学手册名称。就把这一生当作一个实验吧。
-## 个人宪法
+# 个人宪法
 1. Integrity is choosing courage over comfort; choosing what is right over what is fun, fast, or easy; and choosing to practice our values rather than simply professing them.
 2. 而这些说得出来说不出来的一些信任感，其实都不是精明聪慧，而是厚道。厚道不是因为退缩示弱，是因为我们强大到愿意成全。
 3. 注意力＞时间＞金钱。不要在不必要的东西上耗费时间，把时间投入到最重要的事情上。但是另一方面，现金比任何事情都重要！甚至包括你的母亲！切记！ 
@@ -9,7 +9,7 @@
 6. 失败不是成功之母，对失败的反思才是，走心落地的复盘。
 7. 本庶佑時常強調，做一位科學家最重要的是好奇心與勇氣，永遠不要輕易放過研究中的偶然發現。他在來台演講時也提醒學生「不要相信教科書」，要仔細發現教科書中的不合理之處：「你必須心存懷疑，自己去思考為什麼。」
 8. "Clark，在我求学的时候，我看到了很多比我优秀的人才，无论是智力还是背景，但是你知道吗，我不觉得没钱没背景就是平庸，那是别人贴给你标签。唯有你自己内心的平庸，才是毁掉你人生的平庸。你内心的平庸，就是你失去追求卓越信念的那个瞬间。(Your internal mediocrity is themoment when you lost the faith of being excellent.)你以后会遇到很多机遇，但你的平庸会毁掉它们。当你觉得自己做的还不错的时候，你已经杀死了那个能够让你做的更好的自己。(When you get the feeling that your work is OK, you have got killed another 'you' who can make it much better.)"
-  # 时间管理
+# 时间管理
 时间应该用来浪费在美好的事情上，而不是枯燥乏味的工作。
 
 如果你认为一件事情是乏味的就应该研究优化操作流程，让你用最少的时间做最多的事情。 
@@ -21,51 +21,69 @@
 C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都要会，常用library要会用，能读懂英文的技术博客和doc，概念理论大致了解即可。
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
-# last month
-## the week before last week
 ## last week
 ## this week
-1. Monday (December 4th, 2023):
-   - [x] Read political articles. 🎲🧺😄
-   - [x] Java.
-2. Tuesday (December 5th, 2023):
-   - [x] Java.
-   - [x] propose a topic.
-3. Wednesday (December 6th, 2023):
-   - [x] Java.
-   - [x] push jin.
-4. Thursday (December 7th, 2023):
-   - [x] Java.
-   - [x] look for internship.
-5. Friday (December 8th, 2023):
-   - [ ] Java.
-   - [ ] meeting with zhengjie.
-6. Saturday (December 9th, 2023):
-   - [ ] Explore nature by going for a hike or nature walk and embrace the beauty of the outdoors. 🌳🏞️🚶‍♀️
-7. Sunday (December 10th, 2023):
-   - [ ] Practice gratitude by writing down three things you are thankful for and reflecting on the positivity in your life. 📝🙏😊
+1. Monday (December 18th, 2023):
+   - [ ] Begin your day with a brisk morning walk. Embrace the fresh air and serene environment to energize yourself. 🌅🚶‍♀️
+
+2. Tuesday (December 19th, 2023):
+   - [ ] Take a moment to organize your workspace. A clean and ordered environment can boost productivity and clarity. 🗂️🧹
+
+3. Wednesday (December 20th, 2023):
+   - [ ] Midweek mindfulness: Spend 15 minutes in meditation or deep breathing exercises to rejuvenate your mind. 🧘‍♂️💭
+
+4. Thursday (December 21st, 2023):
+   - [ ] Indulge in a hobby you enjoy, be it gardening, painting, or playing a musical instrument. Time spent on hobbies is never wasted. 🎨🌷🎸
+
+5. Friday (December 22nd, 2023):
+   - [ ] Plan a small get-together or a virtual hangout with friends to welcome the weekend. Social connections are vital. 🍕👥💬
+
+6. Saturday (December 23rd, 2023):
+   - [ ] Explore a local market or craft fair. Supporting local businesses and artisans can be a fulfilling experience. 🛍️🎁
+
+7. Sunday (December 24th, 2023):
+   - [ ] Spend time planning for the upcoming week. Setting intentions and goals helps create a focused and productive week ahead. 📆✏️📈
+
+计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
+https://www.zhihu.com/question/595969891/answer/3054501672
+
+TinyNN 开源超便捷大模型量化推理工具 - 丁煌浩的文章 - 知乎
+https://zhuanlan.zhihu.com/p/635259408
+
+知乎大佬们好，我懂深度学习算法，目前想往模型部署优化这个方向发展，请问学习路线是什么？ - 丁煌浩的回答 - 知乎
+https://www.zhihu.com/question/411393222/answer/2359479242
+
+深度学习模型部署TensorRT加速（三）： TensorRT模型部署及优化
+
+自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
+## 面试经验
+她碰到过面试写：马尔科夫链代码，逻辑回归代码，对机器学习算法的理解。
+不熟悉的东西不要往上写。
+写一个自我介绍。
+算法不能单纯做，要说思路，说时间空间的优化。
+你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
 ## next week
 ```
-1. Monday (December 4th, 2023):
-   - [ ] Start your day with a calming meditation session to center your mind and set positive intentions. 🧘‍♀️🌞
-   
-2. Tuesday (December 5th, 2023):
-   - [ ] Treat yourself to a delicious and nutritious breakfast to fuel your day ahead. 🥞🍓🥗
-   
-3. Wednesday (December 6th, 2023):
-   - [ ] Engage in a creative activity like painting, drawing, or crafting to express yourself artistically. 🎨✨
+1. Monday (December 25th, 2023):
+   - [ ] Wake up early and enjoy a quiet moment with a cup of tea or coffee. Start the day peacefully. ☕🌄
 
-4. Thursday (December 7th, 2023):
-   - [ ] Take a break from screens and spend quality time with loved ones, playing board games or having a picnic. 🎲🧺😄
+2. Tuesday (December 26th, 2023):
+   - [ ] Allocate time for a mini workout session. Exercise boosts energy levels and improves mood. 🏋️‍♂️🤸‍♀️
 
-5. Friday (December 8th, 2023):
-   - [ ] Have a self-care evening with a warm bath, scented candles, and your favorite relaxing music. 🛀🕯️🎶
+3. Wednesday (December 27th, 2023):
+   - [ ] Practice gratitude. Take a moment to appreciate the good things in life, big or small. 🙏💖
 
-6. Saturday (December 9th, 2023):
-   - [ ] Explore nature by going for a hike or nature walk and embrace the beauty of the outdoors. 🌳🏞️🚶‍♀️
+4. Thursday (December 28th, 2023):
+   - [ ] Read a chapter from a book you've been wanting to start or finish. Reading expands the mind and relaxes the soul. 📖🤓
 
-7. Sunday (December 10th, 2023):
-   - [ ] Practice gratitude by writing down three things you are thankful for and reflecting on the positivity in your life. 📝🙏😊
+5. Friday (December 29th, 2023):
+   - [ ] Have a movie night. Watch a new release or revisit an old favorite. 🍿🎬📽️
+
+6. Saturday (December 30th, 2023):
+   - [ ] Go on a day trip. Visit a nearby town or a natural reserve to explore new surroundings. 🚗🗺️
+
+7. Sunday (December 31st, 2023):
+   - [ ] Prepare for the New Year. Reflect on your achievements and set goals for the upcoming year. 🎉📝🎆
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
@@ -91,9 +109,10 @@ https://hom-wang.gitbooks.io/verilog-hdl/content/
 6. 电路学、电子学
 ## shuoxiang
 不简单，很复杂。是不是oracle发展起来的不清楚，现在比较有名的数据库挺多是oracle的。不光是为了安全，一致，还有效率，比如查询的效率，还要稳定，还要有一定的冗余和容错机制。
+
 数据库现在一般都是关系数据库，要编写数据的约束，要处理分布式数据一致性问题。
+
 看你怎么理解ai的发展了，如果你觉得现在或者将来ai的行为一定是正确符合逻辑的，那你这么说是没问题。但是如果ai的行为存在漏洞，你觉得这种产品可能有人会用吗，你在银行账户的钱可能因为某个数据冲突直接被篡改了。
-反正就现在编程的门槛越来越低，你要只会编程序肯定会被取代的。
 ## zihao
 两手准备：计算机、金融，两手准备。依然比其他行业好。金融圈：多关注，金融科技，其实需要真技术、真本事，喜欢招收的人还就是计算机类的，培养的交叉学科的。金融科技要比纯金融好找工作。银行、券商、基金、信息技术岗位。对于未来的判断，不能通过财报、研报，需要考虑更多的因素：直觉、宏观经济、政策支持。
 ## Teacher Wang
@@ -396,8 +415,6 @@ https://www.youtube.com/watch?v=HmlX3fLQrEc​www.youtube.com/watch?v=HmlX3fLQrE
 # 计算机已经凉了
 计算机的每一个分支专业都是这样，外界总是说计算机行业抢了他们的饭碗（司机，流水线工人）。
 
-可曾想过这个专业已经抢过多少自己人的饭碗。计算机专业的人疯起来连自己人都咬,而且咬死的数量绝不会少于其他行业。
-
 计算机专业火热其实是目前程序员符合资本家的利益。资本家希望能把复杂的问题简单到不读大学的人十块钱一小时就可做完。而资本家就可以从中牟取暴利
 
 计算机行业基本上可以概括成以下流程：
@@ -434,8 +451,6 @@ https://www.youtube.com/watch?v=HmlX3fLQrEc​www.youtube.com/watch?v=HmlX3fLQrE
 
 现在的计算机行业会直接消灭问题本身, 连问题都没了,你说人还有存在的价值么? 
 
-你觉得这社会怎样对待没有价值的人?
-
 什么? 你说人存在的价值是享受生活? 那你真是太小看资本家了
 # 知识不需要付费
 我采取的方针就是，给免费的看我看，要钱不给。
@@ -468,8 +483,6 @@ Javascript 0基础到掌握基本原理（能编写一个网页小游戏）大�
 # 请问学cs或se大学四年具体要学什么？ - Moenova的回答 - 知乎
 https://www.zhihu.com/question/68570085/answer/315989755
 ### xiaokai's advice
-I remember your boss is doing embedded, so he should be proficient in C++ first.
-
 如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
 ### jilin's advice
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
@@ -481,31 +494,17 @@ I remember your boss is doing embedded, so he should be proficient in C++ first.
 我觉得没有必要这么想。算法薪资高，但是压力也会很大。因为不确定很高
 
 每一个岗位都有自己晋升的路线，最后大家不会差很多的.最终决定高度的不适什么岗位，也不是发了多少paper，最终决定的甚至不一定是技术多强.leadership & communication更重要一些
-### 一只甜药
-她碰到过面试写：马尔科夫链代码，逻辑回归代码，对机器学习算法的理解。
-不熟悉的东西不要往上写。
-写一个自我介绍。
-算法不能单纯做，要说思路，说时间空间的优化。
-你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
 ###　蒙大哥
 笔试准备
 ACM模式，要处理输入输出。很多厂在线机试，都是ACM模式。华为ACM，腾讯ACM，字节用牛客还是ACM。
+
 整理整理就去中小厂面试练练表达和输出。
+
 日常实习难度比暑期实习小挺多的，然后最好不要投暑期实习通道。因为可能按照暑期实习要求面试你，挂了就挂了，也不给你走日常实习。
-那为啥不直接用leetcode上的题目的solution，再写个输入输出，不就可以面对所有厂子面试了。
-实际也差不多这样，主要是输入输出有时候比较恶心。需要定义的东西多，还有空格 字符串 树结构输入啥的。
 ## 自动驾驶
-耿大哥推荐的半导体设备软件设计，还行，可以考虑。往上走，做大的EAP。往下走，做设备软件。盛美公司不错，进设备厂商，而不是fab。优先外企，然后是合资。c#，cpp，docker，视觉分析hilkon。open cv、open gl、检测缺陷、路径规划。
-
-肖前辈已经从业7年，依然看好十年以上的自动驾驶，那我就入这一行吧。
-
 [国务院办公厅关于印发新能源汽车产业发展规划（2021-2035年）的通知](http://www.mofcom.gov.cn/article/b/g/202011/20201103017539.shtml)
 
-我去咨询了在 [avatr](https://www.avatr.com/) 的同学，她推荐了特斯拉、momenta、图森未来，这几家。
 对应的工程岗位应该是：软件研发工程师（算法平台）、软件研发工程师（高精地图）、软件研发工程师（自动驾驶系统，，，排除。技术行，法规也不行）、车辆控制系统工程师。
-
-## [nvidia上海](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Parking-Perception-Engineer_JR1967683?q=Parking%20Perception%20Engineer)
-就是为奔驰自动驾驶服务的。
 ## 想问前辈的问题
 1. 我应该有针对性地去掌握什么技能？
 其实各种技能都是需要的，都能找到合适的岗位。目前自动驾驶的车上模块主要分为硬件（主要传感器）、实时操作系统（偏嵌入式）、感知（主要是图像的深度学习）、预测（也是深度学习）、地图和定位（偏工程）、决策和路径规划（主流是专家算法，新潮流是基于深度学习）、控制（偏车辆工程和自动化），车下模块就包括数据存储和处理（云计算），仿真平台（偏工程，前端需要3D知识）、训练平台（pytorch、cuda）等等。
@@ -515,10 +514,6 @@ https://www.coursera.org/specializations/self-driving-cars
 中文的也有很多书，京东上可以搜到。有个《自动驾驶技术丛书》是以前百度出的，作者都是我同事。
 2. 前辈对自动驾驶行业的各个公司，有没有一个等级划分？（我先投什么，再投什么）
 现在就业不景气，很多公司都不怎么招人，包括小鹏。图森最近问题很多，但是我觉得对新人来说无所谓吧，主要是能入行、学到东西就行。行业内的知名公司，只要在招人其实都可以试一下。头部玩家应该是百度、华为、比亚迪、特斯拉等大厂，较大的创业公司有小马、文远、momenta、Autox、轻舟、元戎等，另外还有一些比较小众的，比如zdrive、云骥。它们分布在不同的城市，其中也有不少上海的，你可以从上海的实习岗位开始申
-
-谷歌waymo、百度apollo、Tesla、奥迪
-大众汽车集团旗下自动驾驶公司 CARIAD 与地平线正式官宣，大众 CARIAD 将与地平线成立合资企业并控股。
-比亚迪与Momenta官宣成立智能驾驶合资公司 “迪派智行”
 ## DingChen
 im智己，avatr
 
@@ -527,30 +522,6 @@ im智己，avatr
 
 自动驾驶分显示和驾驶系统
 驾驶系统是实时位置+高精数据+雷达数据（图像数据）通过算法计算车辆接下来的动作
-### 招聘岗位
-#### 小马智行（楼教主创业）
-[小马智行](https://ponyai.jobs.feishu.cn/ponyai/position/7248515909025990924/detail)
-#### momenta
-https://momenta.jobs.feishu.cn/campus/position/7215469835245013287/detail
-
-嵌入式软件开发工程师
-苏州正式互联网 / 电子 / 网游 - 研发2023届春季校园招聘
-职位描述
-1、负责开发与使用性能分析和监控工具，优化系统计算资源分配和整体性能；
-2、参与自动驾驶算法模块和底层系统的集成/调试/性能优化工作。
-职位要求
-1、硕士学历，计算机相关专业；
-2、有丰富的Linux内核/驱动开发经验，对Linux核心模块的实现原理有较深的研究，如内存管理、任务调度、DMA等；
-3、C/C++基础良好，熟练Linux开发环境，熟悉软件系统性能优化方法与工具；
-4、有责任心，有强烈的目标和结果导向，能承受较大的工作压力，对自动驾驶系统有强烈的认同和兴趣。
-
-https://momenta.jobs.feishu.cn/campus/position/7205532306017470777/detail
-#### 图森未来
-https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/0e9cd7eb-fa03-4c36-abbd-96d9440efc8c
-
-https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/d7fe9c9f-d896-40b1-b3c9-aa027f09c73b
-
-https://app.mokahr.com/campus-recruitment/tusenweilai/72214#/job/5f29e1c0-a4fb-4e84-a053-d84a52240878
 ### 简历怎么写
 ![你有什么想问我的吗？](../images/ask.png)
 比如说你想问这个岗位最重要的能力是什么？这个问题适合问直线经理，如果你问HR，HR对业务的理解如果不深刻的话，可能没法回答。这个问题问直线经理最合适，他认为的最重要的能力，对你来说能做到就说明你合适。
@@ -566,65 +537,7 @@ Situation：当时背景情况如何？
 Target：你的期望目标是什么？
 Action：你当时是怎么做的？
 Result：效果如何？
-
-## 小论文
-何为自动驾驶领域的工程化能力 - TechTorch的文章 - 知乎
-https://zhuanlan.zhihu.com/p/461656580
-
-闲话自动驾驶的工程化落地 - 黄浴的文章 - 知乎
-https://zhuanlan.zhihu.com/p/467038480
-
-计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
-https://www.zhihu.com/question/595969891/answer/3054501672
-
-TinyNN 开源超便捷大模型量化推理工具 - 丁煌浩的文章 - 知乎
-https://zhuanlan.zhihu.com/p/635259408
-
-知乎大佬们好，我懂深度学习算法，目前想往模型部署优化这个方向发展，请问学习路线是什么？ - 丁煌浩的回答 - 知乎
-https://www.zhihu.com/question/411393222/answer/2359479242
-
-深度学习模型部署TensorRT加速（三）： TensorRT模型部署及优化
-
-自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
 ###　小车run起来
 你可以定向看下我们系列视频里相关红外遥控这块教程 应该会对你有帮助
 
 树莓派操控开发板 链接 USB 你在底层代码上打包一些接口就好了
-# 找工作
-我的短期目标：找到一份好工作，最好能落户上海。
-c++后端开发，嵌入式软件工程师。
-
-车巷莹：比如左程云的指南（3）、剑指offer（2）、算法导论（4）、labuladuo（1）或者是找个教程，leetcode也有那种比如算法入门系列，1最容易
-开源项目 paper 实习 基础扎实，至少有2项
-leetcode坚持刷
-外企＞产业互联网＞甲方国企
-
-求职的吸引力：学习能力；有逻辑化思维的能力；做科研的方法论的训练，如何发现问题、解决问题，理顺其脉络。
-### 周老板，观链科技CEO
-应用要根据产品经理的要求，
-堆和栈分别存什么
-./a.out在操作系统里面执行了什么。并不是码农没用。
-软件开发。
-chatgpt，不会取代前后端。持续上下文的能力，chatgpt做不到。
-自己搭建python，人工智能的，云端的环境，，，，
-理解stable diffusion的原理。
-可以搭建自己的生成环境。自己独立去生成图片，怎么去使用。
-如果还不行，
-前后端的开发，也可以去配合ai的开发承担具体的任务。
-做后端如何不好。
-做一个照片类的app。本身有很多照片的考虑。
-要实际地把工作做好。
-react
-本质上实践科学。生成照片，动态范围不好。noise，offset需要优化一下。 能消耗多少gpu，延迟时间。
-算法要与实际问题结合。解决的方案也不是纯算法。不是一个方程式
-map redus，任务调度再回合结果。
-计算机科学是实践科学。问题都是来源于实际应用。
-可能还得先干一前后端。硕士博士多的是，没几个能交付成果。
-A100，3080，分别怎么跑起来？
-搭建环境，，算法需要的环境，要搭建起来。
-gui，，，加api，，
-python，，实现api接口，web服务器。。。
-国内的计算机科学教育，，，大学老师可能没参与过软件开发。
-编译原理，，
-操作系统很多研究课题就是，怎么提升效率。为了提高效率，需要对某个模式，搞个优化算法。
-eda，生成逻辑单元。
