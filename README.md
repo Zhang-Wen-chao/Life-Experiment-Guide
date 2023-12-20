@@ -29,9 +29,10 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] chat with my friends, Liao Jiang. 💬👥
    - [x] did 30 pushups.
 2. Tuesday (December 19th, 2023):
-   - [ ] Take a moment to organize your workspace. A clean and ordered environment can boost productivity and clarity. 🗂️🧹
+   - [x] Continue to advance the process of submitting my resume.
+   - [x] Advancing the Volcano Cloud Engine.
 3. Wednesday (December 20th, 2023):
-   - [ ] Midweek mindfulness: Spend 15 minutes in meditation or deep breathing exercises to rejuvenate your mind. 🧘‍♂️💭
+   - [x] I participated in an interview with SAP this afternoon and failed miserably.
 4. Thursday (December 21st, 2023):
    - [ ] Indulge in a hobby you enjoy, be it gardening, painting, or playing a musical instrument. Time spent on hobbies is never wasted. 🎨🌷🎸
 5. Friday (December 22nd, 2023):
