@@ -33,8 +33,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Advancing the Volcano Cloud Engine.
 3. Wednesday (December 20th, 2023):
    - [x] I participated in an interview with SAP this afternoon and failed miserably.
+   - [x] Microsoft turned me down too.
 4. Thursday (December 21st, 2023):
-   - [ ] Indulge in a hobby you enjoy, be it gardening, painting, or playing a musical instrument. Time spent on hobbies is never wasted. 🎨🌷🎸
+   - [x] Process reimbursement matters.
+   - [x] Continue to submit resume.
+   - [x] Course project meeting
 5. Friday (December 22nd, 2023):
    - [ ] Plan a small get-together or a virtual hangout with friends to welcome the weekend. Social connections are vital. 🍕👥💬
 6. Saturday (December 23rd, 2023):
@@ -50,8 +53,6 @@ https://zhuanlan.zhihu.com/p/635259408
 
 知乎大佬们好，我懂深度学习算法，目前想往模型部署优化这个方向发展，请问学习路线是什么？ - 丁煌浩的回答 - 知乎
 https://www.zhihu.com/question/411393222/answer/2359479242
-
-深度学习模型部署TensorRT加速（三）： TensorRT模型部署及优化
 
 自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
 ## 面试经验
