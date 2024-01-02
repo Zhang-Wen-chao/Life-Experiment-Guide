@@ -22,28 +22,26 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
 ## last week
+
 ## this week
-1. Monday (December 18th, 2023):
-   - [x] do the laundry. 🧺🧼
-   - [x] Waiting for a response from Microsoft's Vice President of Asian Research Institute. 📧📨
-   - [x] chat with my friends, Liao Jiang. 💬👥
-   - [x] did 30 pushups.
-2. Tuesday (December 19th, 2023):
-   - [x] Continue to advance the process of submitting my resume.
-   - [x] Advancing the Volcano Cloud Engine.
-3. Wednesday (December 20th, 2023):
-   - [x] I participated in an interview with SAP this afternoon and failed miserably.
-   - [x] Microsoft turned me down too.
-4. Thursday (December 21st, 2023):
-   - [x] Process reimbursement matters.
-   - [x] Continue to submit resume.
-   - [x] Course project meeting
-5. Friday (December 22nd, 2023):
-   - [ ] Plan a small get-together or a virtual hangout with friends to welcome the weekend. Social connections are vital. 🍕👥💬
-6. Saturday (December 23rd, 2023):
-   - [ ] Explore a local market or craft fair. Supporting local businesses and artisans can be a fulfilling experience. 🛍️🎁
-7. Sunday (December 24th, 2023):
-   - [ ] Spend time planning for the upcoming week. Setting intentions and goals helps create a focused and productive week ahead. 📆✏️📈
+1. Monday (January 1st, 2024):
+   - [x] Wash sheets and quilts. 🧘‍♀️🌅
+2. Tuesday (January 2nd, 2024):
+   - [ ] Engage in a creative activity like painting, writing, or playing an instrument. Allow your imagination to soar and express yourself freely. 🎨✍️🎶
+3. Wednesday (January 3rd, 2024):
+   - [ ] Take a break from screens and spend some time in nature. Go for a walk, hike, or simply sit outside and appreciate the beauty of the natural world. 🌳🌿🌼
+
+4. Thursday (January 4th, 2024):
+   - [ ] Try a new recipe or cook a favorite dish from scratch. Explore flavors, experiment with ingredients, and enjoy the process of creating a delicious meal. 🍳🥘🍽️
+
+5. Friday (January 5th, 2024):
+   - [ ] Set aside time for self-care and relaxation. Take a long bath, indulge in a face mask, or pamper yourself in any way that helps you unwind and rejuvenate. 🛀💆‍♀️💅
+
+6. Saturday (January 6th, 2024):
+   - [ ] Connect with loved ones or friends you haven't spoken to in a while. Arrange a phone call, video chat, or meet up for a catch-up session and meaningful conversations. ☎️📞💬
+
+7. Sunday (January 7th, 2024):
+   - [ ] Spend the day organizing and decluttering your living space. Tidy up, sort through belongings, and create a more harmonious environment for the new year ahead. 🧹🗂️🏠
 
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
@@ -63,26 +61,26 @@ https://www.zhihu.com/question/411393222/answer/2359479242
 你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
 ## next week
 ```
-1. Monday (December 25th, 2023):
-   - [ ] Wake up early and enjoy a quiet moment with a cup of tea or coffee. Start the day peacefully. ☕🌄
+1. Monday (January 8th, 2024):
+   - [ ] Start the day with a mindful yoga practice. Flow through gentle movements, focus on your breath, and cultivate a sense of inner calm and strength. 🧘‍♀️🌄
 
-2. Tuesday (December 26th, 2023):
-   - [ ] Allocate time for a mini workout session. Exercise boosts energy levels and improves mood. 🏋️‍♂️🤸‍♀️
+2. Tuesday (January 9th, 2024):
+   - [ ] Explore a new hobby or dive deeper into an existing one. Whether it's knitting, photography, or gardening, spend time pursuing activities that bring you joy and fulfillment. 🧶📷🌱
 
-3. Wednesday (December 27th, 2023):
-   - [ ] Practice gratitude. Take a moment to appreciate the good things in life, big or small. 🙏💖
+3. Wednesday (January 10th, 2024):
+   - [ ] Take a digital detox day. Disconnect from social media and limit screen time. Instead, engage in activities like reading a book, journaling, or going for a technology-free walk. 📵📖🚶‍♀️
 
-4. Thursday (December 28th, 2023):
-   - [ ] Read a chapter from a book you've been wanting to start or finish. Reading expands the mind and relaxes the soul. 📖🤓
+4. Thursday (January 11th, 2024):
+   - [ ] Practice gratitude journaling. Write down three things you're grateful for and reflect on the positive aspects of your life. Cultivate an attitude of appreciation and abundance. 📓🙏💖
 
-5. Friday (December 29th, 2023):
-   - [ ] Have a movie night. Watch a new release or revisit an old favorite. 🍿🎬📽️
+5. Friday (January 12th, 2024):
+   - [ ] Engage in a creative cooking session. Challenge yourself to make a dish from a different cuisine or experiment with new flavors and ingredients. Let your culinary creativity shine. 🍽️👩‍🍳🌍
 
-6. Saturday (December 30th, 2023):
-   - [ ] Go on a day trip. Visit a nearby town or a natural reserve to explore new surroundings. 🚗🗺️
+6. Saturday (January 13th, 2024):
+   - [ ] Take a day trip to a local museum or art gallery. Immerse yourself in culture and be inspired by the beautiful creations of artists throughout history. 🖼️🏛️🎨
 
-7. Sunday (December 31st, 2023):
-   - [ ] Prepare for the New Year. Reflect on your achievements and set goals for the upcoming year. 🎉📝🎆
+7. Sunday (January 14th, 2024):
+   - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # Momenta
