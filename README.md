@@ -34,15 +34,13 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Help partners run jsonvee.
    - [x] Submit assignments with the help of a partner.
    - [x] Read the interpretation of the Legend of White Snake.
+   - [x] The group met online.
 4. Thursday (January 4th, 2024):
    - [ ] Try a new recipe or cook a favorite dish from scratch. Explore flavors, experiment with ingredients, and enjoy the process of creating a delicious meal. 🍳🥘🍽️
-
 5. Friday (January 5th, 2024):
    - [ ] Set aside time for self-care and relaxation. Take a long bath, indulge in a face mask, or pamper yourself in any way that helps you unwind and rejuvenate. 🛀💆‍♀️💅
-
 6. Saturday (January 6th, 2024):
    - [ ] Connect with loved ones or friends you haven't spoken to in a while. Arrange a phone call, video chat, or meet up for a catch-up session and meaningful conversations. ☎️📞💬
-
 7. Sunday (January 7th, 2024):
    - [ ] Spend the day organizing and decluttering your living space. Tidy up, sort through belongings, and create a more harmonious environment for the new year ahead. 🧹🗂️🏠
 
