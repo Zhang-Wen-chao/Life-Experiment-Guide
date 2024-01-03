@@ -27,10 +27,13 @@ https://www.zhihu.com/question/356351510/answer/913928066
 1. Monday (January 1st, 2024):
    - [x] Wash sheets and quilts. 🧘‍♀️🌅
 2. Tuesday (January 2nd, 2024):
-   - [ ] Engage in a creative activity like painting, writing, or playing an instrument. Allow your imagination to soar and express yourself freely. 🎨✍️🎶
+   - [x] Run recommendation system. 🎨✍️🎶
+   - [x] Implement vue to draw histograms and node graphs.
 3. Wednesday (January 3rd, 2024):
-   - [ ] Take a break from screens and spend some time in nature. Go for a walk, hike, or simply sit outside and appreciate the beauty of the natural world. 🌳🌿🌼
-
+   - [x] Implement vue drop-down selection box to switch pictures.
+   - [x] Help partners run jsonvee.
+   - [x] Submit assignments with the help of a partner.
+   - [x] Read the interpretation of the Legend of White Snake.
 4. Thursday (January 4th, 2024):
    - [ ] Try a new recipe or cook a favorite dish from scratch. Explore flavors, experiment with ingredients, and enjoy the process of creating a delicious meal. 🍳🥘🍽️
 
