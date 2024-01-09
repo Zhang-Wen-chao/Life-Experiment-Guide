@@ -24,25 +24,21 @@ https://www.zhihu.com/question/356351510/answer/913928066
 ## last week
 
 ## this week
-1. Monday (January 1st, 2024):
-   - [x] Wash sheets and quilts. 🧘‍♀️🌅
-2. Tuesday (January 2nd, 2024):
-   - [x] Run recommendation system. 🎨✍️🎶
-   - [x] Implement vue to draw histograms and node graphs.
-3. Wednesday (January 3rd, 2024):
-   - [x] Implement vue drop-down selection box to switch pictures.
-   - [x] Help partners run jsonvee.
-   - [x] Submit assignments with the help of a partner.
-   - [x] Read the interpretation of the Legend of White Snake.
-   - [x] The group met online.
-4. Thursday (January 4th, 2024):
-   - [ ] Try a new recipe or cook a favorite dish from scratch. Explore flavors, experiment with ingredients, and enjoy the process of creating a delicious meal. 🍳🥘🍽️
-5. Friday (January 5th, 2024):
-   - [ ] Set aside time for self-care and relaxation. Take a long bath, indulge in a face mask, or pamper yourself in any way that helps you unwind and rejuvenate. 🛀💆‍♀️💅
-6. Saturday (January 6th, 2024):
-   - [ ] Connect with loved ones or friends you haven't spoken to in a while. Arrange a phone call, video chat, or meet up for a catch-up session and meaningful conversations. ☎️📞💬
-7. Sunday (January 7th, 2024):
-   - [ ] Spend the day organizing and decluttering your living space. Tidy up, sort through belongings, and create a more harmonious environment for the new year ahead. 🧹🗂️🏠
+1. Monday (January 8th, 2024):
+   - [x] Update the quantitative warehouse.
+   - [x] do the laundry.
+2. Tuesday (January 9th, 2024):
+   - [x] Interview YueShu.
+3. Wednesday (January 10th, 2024):
+   - [ ] Resign to Gona.
+4. Thursday (January 11th, 2024):
+   - [ ] Practice gratitude journaling. Write down three things you're grateful for and reflect on the positive aspects of your life. Cultivate an attitude of appreciation and abundance. 📓🙏💖
+5. Friday (January 12th, 2024):
+   - [ ] Engage in a creative cooking session. Challenge yourself to make a dish from a different cuisine or experiment with new flavors and ingredients. Let your culinary creativity shine. 🍽️👩‍🍳🌍
+6. Saturday (January 13th, 2024):
+   - [ ] Take a day trip to a local museum or art gallery. Immerse yourself in culture and be inspired by the beautiful creations of artists throughout history. 🖼️🏛️🎨
+7. Sunday (January 14th, 2024):
+   - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
 
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
@@ -54,12 +50,7 @@ https://zhuanlan.zhihu.com/p/635259408
 https://www.zhihu.com/question/411393222/answer/2359479242
 
 自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
-## 面试经验
-她碰到过面试写：马尔科夫链代码，逻辑回归代码，对机器学习算法的理解。
-不熟悉的东西不要往上写。
-写一个自我介绍。
-算法不能单纯做，要说思路，说时间空间的优化。
-你有什么想问的问题？不问常规的问题，问不出来。问面试官在组里待了多久？你为什么选择来这个组？侧面看看这个组的氛围如何。
+
 ## next week
 ```
 1. Monday (January 8th, 2024):
@@ -84,13 +75,6 @@ https://www.zhihu.com/question/411393222/answer/2359479242
    - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
-# Momenta
-后端开发工程师-C++
-负责Traffic Light感知融合等模块的架构设计、集成、功能开发和迭代等工作。
-1、熟练掌握 Linux 下 C/C++ 编程语言，掌握 Python/Shell 脚本编程；
-2、熟悉CMAKE、GDB，有 Linux 环境下，调试开发经验；
-3、具备很强的动手能力和团队合作意识，善于学习新事物；
-4、有智能车、无人机、机器人等相关比赛获奖经历者优先。
 # some advice
 ## Proverbs from Taiwanese brothers:
 https://www.tsri.org.tw/main.jsp
