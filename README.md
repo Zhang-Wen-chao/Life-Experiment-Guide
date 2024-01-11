@@ -32,9 +32,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
 2. Tuesday (January 9th, 2024):
    - [x] Interview YueShu.
 3. Wednesday (January 10th, 2024):
-   - [ ] Resign to Gona.
+   - [x] Resign to Gona.
 4. Thursday (January 11th, 2024):
-   - [ ] Practice gratitude journaling. Write down three things you're grateful for and reflect on the positive aspects of your life. Cultivate an attitude of appreciation and abundance. 📓🙏💖
+   - [x] Take the written test of Quangkui Asset Management.
+   - [x] Write a PPT for tomorrow’s report.
+   - [x] The day after tomorrow is the CS286 course presentation, and I will do some PPT.
 5. Friday (January 12th, 2024):
    - [ ] Engage in a creative cooking session. Challenge yourself to make a dish from a different cuisine or experiment with new flavors and ingredients. Let your culinary creativity shine. 🍽️👩‍🍳🌍
 6. Saturday (January 13th, 2024):
