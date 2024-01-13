@@ -45,7 +45,6 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Conduct final course report.
 7. Sunday (January 14th, 2024):
    - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
-
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
 
