@@ -24,8 +24,6 @@ C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都�
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
 ## last week
-
-## this week
 1. Monday (January 8th, 2024):
    - [x] Update the quantitative warehouse.
    - [x] do the laundry.
@@ -45,6 +43,28 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Conduct final course report.
 7. Sunday (January 14th, 2024):
    - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
+## this week
+1. Monday (January 15th, 2024):
+   - [ ] Begin your week with a morning meditation session. Find a quiet spot, sit comfortably, and spend 15 minutes in silent contemplation to clear your mind and set a positive tone for the week. 🧘‍♂️🌅
+
+2. Tuesday (January 16th, 2024):
+   - [ ] Dedicate some time to personal development. Read a chapter of a self-improvement book or listen to a motivational podcast. Focus on learning something new that can contribute to your personal growth. 📚🎧
+
+3. Wednesday (January 17th, 2024):
+   - [ ] Spend the evening stargazing. Whether from your backyard or a nearby park, take a moment to gaze at the night sky. Let the vastness of the universe inspire a sense of wonder and perspective. 🌌🔭
+
+4. Thursday (January 18th, 2024):
+   - [ ] Organize a small area of your home. It could be a drawer, a shelf, or your workspace. Decluttering and organizing can bring a sense of order and calm to your environment. 🏠🗃️
+
+5. Friday (January 19th, 2024):
+   - [ ] Enjoy a movie night. Pick a film you've been wanting to see, make some popcorn, and relax. It's a great way to unwind at the end of the week. 🎬🍿
+
+6. Saturday (January 20th, 2024):
+   - [ ] Take a nature walk. Visit a local park or nature reserve and immerse yourself in the beauty of the outdoors. Appreciate the sights, sounds, and smells of nature. 🌳🚶‍♂️
+
+7. Sunday (January 21st, 2024):
+   - [ ] Prepare a healthy meal plan for the upcoming week. Research recipes, make a grocery list, and perhaps do some meal prep. This can help you make healthier eating choices and save time during the week. 🥗📋
+
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
 
@@ -57,26 +77,27 @@ https://www.zhihu.com/question/411393222/answer/2359479242
 自动驾驶中的深度学习模型部署实战-CUDA编程优化、profile使用
 ## next week
 ```
-1. Monday (January 8th, 2024):
-   - [ ] Start the day with a mindful yoga practice. Flow through gentle movements, focus on your breath, and cultivate a sense of inner calm and strength. 🧘‍♀️🌄
+1. Monday (January 15th, 2024):
+   - [ ] Begin your week with a morning meditation session. Find a quiet spot, sit comfortably, and spend 15 minutes in silent contemplation to clear your mind and set a positive tone for the week. 🧘‍♂️🌅
 
-2. Tuesday (January 9th, 2024):
-   - [ ] Explore a new hobby or dive deeper into an existing one. Whether it's knitting, photography, or gardening, spend time pursuing activities that bring you joy and fulfillment. 🧶📷🌱
+2. Tuesday (January 16th, 2024):
+   - [ ] Dedicate some time to personal development. Read a chapter of a self-improvement book or listen to a motivational podcast. Focus on learning something new that can contribute to your personal growth. 📚🎧
 
-3. Wednesday (January 10th, 2024):
-   - [ ] Take a digital detox day. Disconnect from social media and limit screen time. Instead, engage in activities like reading a book, journaling, or going for a technology-free walk. 📵📖🚶‍♀️
+3. Wednesday (January 17th, 2024):
+   - [ ] Spend the evening stargazing. Whether from your backyard or a nearby park, take a moment to gaze at the night sky. Let the vastness of the universe inspire a sense of wonder and perspective. 🌌🔭
 
-4. Thursday (January 11th, 2024):
-   - [ ] Practice gratitude journaling. Write down three things you're grateful for and reflect on the positive aspects of your life. Cultivate an attitude of appreciation and abundance. 📓🙏💖
+4. Thursday (January 18th, 2024):
+   - [ ] Organize a small area of your home. It could be a drawer, a shelf, or your workspace. Decluttering and organizing can bring a sense of order and calm to your environment. 🏠🗃️
 
-5. Friday (January 12th, 2024):
-   - [ ] Engage in a creative cooking session. Challenge yourself to make a dish from a different cuisine or experiment with new flavors and ingredients. Let your culinary creativity shine. 🍽️👩‍🍳🌍
+5. Friday (January 19th, 2024):
+   - [ ] Enjoy a movie night. Pick a film you've been wanting to see, make some popcorn, and relax. It's a great way to unwind at the end of the week. 🎬🍿
 
-6. Saturday (January 13th, 2024):
-   - [ ] Take a day trip to a local museum or art gallery. Immerse yourself in culture and be inspired by the beautiful creations of artists throughout history. 🖼️🏛️🎨
+6. Saturday (January 20th, 2024):
+   - [ ] Take a nature walk. Visit a local park or nature reserve and immerse yourself in the beauty of the outdoors. Appreciate the sights, sounds, and smells of nature. 🌳🚶‍♂️
 
-7. Sunday (January 14th, 2024):
-   - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
+7. Sunday (January 21st, 2024):
+   - [ ] Prepare a healthy meal plan for the upcoming week. Research recipes, make a grocery list, and perhaps do some meal prep. This can help you make healthier eating choices and save time during the week. 🥗📋
+
 ```
 Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 # some advice
@@ -296,7 +317,7 @@ How important career decisions were made
 
 赵同学：在企业孵化器，有什么需要注意的，和一般公司有什么区别？
 小公司，有很多风险，没有完整流程，各方面不完善。
-# 自我介绍
+# 金融常识
 穷人思维的本质：专精技术
 
 富人思维的本质：现金流管理+时间管理+少量通识技术
@@ -366,7 +387,7 @@ https://www.youtube.com/watch?v=HmlX3fLQrEc​www.youtube.com/watch?v=HmlX3fLQrE
 最后即便你学得特别厉害，本金从哪里来还是个问题。投资人会把钱给刚毕业的本科生试水？清华毕业的又怎么样？清华的博士要借钱也不容易。（家里有关系的除外）
 
 别说金融加计算机，就是你金融，法律，计算机，医学，会计，管理等等实用学科全部都会，也比不过一个身价本来就过亿的小家庭。
-# 公司核心岗位
+## 公司核心岗位
 进公司前首先要了解公司的现金流构成，对公司做详细调研。如果公司的现金流基本和你岗位没啥关系，那么你的岗位在公司就是边缘人，不过这种岗位很适合混吃等死。
 
 任何人类组织必然存在剥削，或者说是不公平待遇。高效率的组织只能减少剥削，寻租，买办等行为的发生而不能完全根除。
@@ -388,42 +409,22 @@ https://www.youtube.com/watch?v=HmlX3fLQrEc​www.youtube.com/watch?v=HmlX3fLQrE
 不能理解这种分歧，只能说你和你的祖辈一样，对世界缺乏全面的认识，易受外部因素干扰，容易被煽动。
 
 追求财富，了解世界，理解人性，然后才是追求梦想。
-# 知识不需要付费
-我采取的方针就是，给免费的看我看，要钱不给。
-
-说说原因吧，我youtube，bilibili，知乎上大概关注了快1000个知识类的大v。罗胖只是其中的一而已。大概up主，油管主花了数年的录制的视频，我能在几天之内浏览完。然后去找新的，等养肥了再来一次性收割。
-
-名校的公开课，各种数学，统计（一堆博士讲课，并不是什么三流的讲师），计算机方面的教程视频，网站，API，免费电子书，以及一些娱乐性的知识（罗胖属于这类）。大把的免费优质知识都浏览不完完全不用付费好么？
-
-对我来说，获取这些知识易如反掌，就像“撸羊毛，割韭菜”一样，随便一下就有免费的资源，为什么要给钱呢？
-# Moenova的崛起之路
+## Moenova的崛起之路
 现在才知道英文真太tm好用了！编程语言的API全是英文写的。资源不论是英文的还是中文的都可以浏览，找到哪种语言的教材就用哪种教材。比如有些 youtube 的优质计算机理论视频，MIT微积分公开课，线性代数公开课，英文pdf编程教材。或者国内的什么Java，C语言补习班内部视频等等。
 
-熟练的运用搜索引擎: 百度/google
-
 搜索框里应该填写什么才能找到你想要的内容？
-
-比如搜索弹出那么多网页应该点哪一个？
 
 你要是问我核弹的基本原理我可能不知道，但是你允许我用google我马上就可以知道核弹的大致工作原理了。这可能是现实生活中最为有用，也是最复杂的技能。
 
 学会找资源，掌握英文中文双语能力，熟练使用搜索引擎。这三种能力看上去没啥作用很鸡肋，但是后续帮助极大。
 
-python作为我的第一门计算机语言2周学完基础操作。
-
 Java大概也是2周学完基础操作（其中有好几天是在装Java，ide和配置环境），1个月看youtube写了一个3d游戏引擎。
-
-学C语言的直接学pointer 指针。
 
 Javascript 0基础到掌握基本原理（能编写一个网页小游戏）大概学1-2天
 # 请问学cs或se大学四年具体要学什么？ - Moenova的回答 - 知乎
 https://www.zhihu.com/question/68570085/answer/315989755
-### xiaokai's advice
-如果没有paper的话 早点实习 早点准备刷题。找工作的时候不要盯着互联网找,投行、量化、银行、国企都投一下啊。
 ### jilin's advice
 去特斯拉，苹果，设计操作系统，和芯片有关的部门。甚至去高通。直接面试美国的Google，Facebook。能用英语面试，就已经说明很不错了。
-
-我最近还行哈。美国现在的就业形势也很严峻，之前很多公司也都有layoff，没有layoff的也都不招人了。所以说之前形势还是比较紧张，大家也都很担心。最近稍微好了一些，但是还是不是特别乐观。希望等到明年这个时候，经济会有所起色，那时候就会变好了
 
 算法岗位可能你说的是ML/AI这种岗位吧。这种确实一般需要学术水平很高或者PHD。前后端开发也很好啊，然后慢慢的做一些架构的工作，都可以独当一面的。所以这个倒是不用担心
 
