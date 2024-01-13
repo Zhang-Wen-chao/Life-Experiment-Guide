@@ -38,9 +38,11 @@ https://www.zhihu.com/question/356351510/answer/913928066
    - [x] Write a PPT for tomorrow’s report.
    - [x] The day after tomorrow is the CS286 course presentation, and I will do some PPT.
 5. Friday (January 12th, 2024):
-   - [ ] Engage in a creative cooking session. Challenge yourself to make a dish from a different cuisine or experiment with new flavors and ingredients. Let your culinary creativity shine. 🍽️👩‍🍳🌍
+   - [x] Teaching assistant training.
+   - [x] Prepare for the presentation.
+   - [x] The last political lesson.
 6. Saturday (January 13th, 2024):
-   - [ ] Take a day trip to a local museum or art gallery. Immerse yourself in culture and be inspired by the beautiful creations of artists throughout history. 🖼️🏛️🎨
+   - [x] Conduct final course report.
 7. Sunday (January 14th, 2024):
    - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
 
