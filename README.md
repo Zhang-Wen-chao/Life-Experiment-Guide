@@ -25,47 +25,6 @@
 C++，C，C#，Python，Java，JavaScript，HTML，CSS，SQL，等语言全都要会，常用library要会用，能读懂英文的技术博客和doc，概念理论大致了解即可。
 ### 你的编程能力从什么时候开始突飞猛进？ - 口天师兄的回答 - 知乎
 https://www.zhihu.com/question/356351510/answer/913928066
-## last week
-1. Monday (January 8th, 2024):
-   - [x] Update the quantitative warehouse.
-   - [x] do the laundry.
-2. Tuesday (January 9th, 2024):
-   - [x] Interview YueShu.
-3. Wednesday (January 10th, 2024):
-   - [x] Resign to Gona.
-4. Thursday (January 11th, 2024):
-   - [x] Take the written test of Quangkui Asset Management.
-   - [x] Write a PPT for tomorrow’s report.
-   - [x] The day after tomorrow is the CS286 course presentation, and I will do some PPT.
-5. Friday (January 12th, 2024):
-   - [x] Teaching assistant training.
-   - [x] Prepare for the presentation.
-   - [x] The last political lesson.
-6. Saturday (January 13th, 2024):
-   - [x] Conduct final course report.
-7. Sunday (January 14th, 2024):
-   - [ ] Set aside time for personal reflection and goal setting. Review your long-term aspirations, evaluate your progress, and set actionable goals to move closer to your dreams. 📝✨🌟
-## this week
-1. Monday (January 15th, 2024):
-   - [ ] Begin your week with a morning meditation session. Find a quiet spot, sit comfortably, and spend 15 minutes in silent contemplation to clear your mind and set a positive tone for the week. 🧘‍♂️🌅
-
-2. Tuesday (January 16th, 2024):
-   - [ ] Dedicate some time to personal development. Read a chapter of a self-improvement book or listen to a motivational podcast. Focus on learning something new that can contribute to your personal growth. 📚🎧
-
-3. Wednesday (January 17th, 2024):
-   - [ ] Spend the evening stargazing. Whether from your backyard or a nearby park, take a moment to gaze at the night sky. Let the vastness of the universe inspire a sense of wonder and perspective. 🌌🔭
-
-4. Thursday (January 18th, 2024):
-   - [ ] Organize a small area of your home. It could be a drawer, a shelf, or your workspace. Decluttering and organizing can bring a sense of order and calm to your environment. 🏠🗃️
-
-5. Friday (January 19th, 2024):
-   - [ ] Enjoy a movie night. Pick a film you've been wanting to see, make some popcorn, and relax. It's a great way to unwind at the end of the week. 🎬🍿
-
-6. Saturday (January 20th, 2024):
-   - [ ] Take a nature walk. Visit a local park or nature reserve and immerse yourself in the beauty of the outdoors. Appreciate the sights, sounds, and smells of nature. 🌳🚶‍♂️
-
-7. Sunday (January 21st, 2024):
-   - [ ] Prepare a healthy meal plan for the upcoming week. Research recipes, make a grocery list, and perhaps do some meal prep. This can help you make healthier eating choices and save time during the week. 🥗📋
 
 计算机的哪些学科是被建议在本科阶段学掉的？ - momo的回答 - 知乎
 https://www.zhihu.com/question/595969891/answer/3054501672
@@ -80,31 +39,6 @@ https://www.zhihu.com/question/411393222/answer/2359479242
 
 请问学cs或se大学四年具体要学什么？ - Moenova的回答 - 知乎
 https://www.zhihu.com/question/68570085/answer/315989755
-## next week
-```
-1. Monday (January 15th, 2024):
-   - [ ] Begin your week with a morning meditation session. Find a quiet spot, sit comfortably, and spend 15 minutes in silent contemplation to clear your mind and set a positive tone for the week. 🧘‍♂️🌅
-
-2. Tuesday (January 16th, 2024):
-   - [ ] Dedicate some time to personal development. Read a chapter of a self-improvement book or listen to a motivational podcast. Focus on learning something new that can contribute to your personal growth. 📚🎧
-
-3. Wednesday (January 17th, 2024):
-   - [ ] Spend the evening stargazing. Whether from your backyard or a nearby park, take a moment to gaze at the night sky. Let the vastness of the universe inspire a sense of wonder and perspective. 🌌🔭
-
-4. Thursday (January 18th, 2024):
-   - [ ] Organize a small area of your home. It could be a drawer, a shelf, or your workspace. Decluttering and organizing can bring a sense of order and calm to your environment. 🏠🗃️
-
-5. Friday (January 19th, 2024):
-   - [ ] Enjoy a movie night. Pick a film you've been wanting to see, make some popcorn, and relax. It's a great way to unwind at the end of the week. 🎬🍿
-
-6. Saturday (January 20th, 2024):
-   - [ ] Take a nature walk. Visit a local park or nature reserve and immerse yourself in the beauty of the outdoors. Appreciate the sights, sounds, and smells of nature. 🌳🚶‍♂️
-
-7. Sunday (January 21st, 2024):
-   - [ ] Prepare a healthy meal plan for the upcoming week. Research recipes, make a grocery list, and perhaps do some meal prep. This can help you make healthier eating choices and save time during the week. 🥗📋
-
-```
-Can you write in this style for the next week? I hope you also wrap the content with code blocks. No need to write about festivals and events.
 ## 箴言
 Wang: 硬件的浅尝辙止；你嵌入式、Linux系统搞清楚；找一个开发板，先大概搞清楚框架。
 搞清楚fpga，让你验证个东西，你能验证。你最起码得会一个算法。不要对什么东西抗拒，可能以后会有用；看完之后，太基础的东西是好，但是要动手；可以从实际经验出发。这么讲，你到底想去做什么，可能为时尚早，随着认知加深，你的经历可能会改变你的看法。项目的附加值是最高的。
