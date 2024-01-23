@@ -36,12 +36,12 @@
 35. 指环王
 36. 悬崖之上
 37. 达芬奇密码
-38. irobot 
+38. irobot
 39. matrix
 40. humans
 41. westworld
 42. black mirror
-43. ex machina 
+43. ex machina
 44. terminator
 45. 一步之遥
 46. 顽主
@@ -53,6 +53,7 @@
 52. 记忆碎片
 53. 致命魔术
 54. 敦刻尔克
+55. 所以如果题主说的是“话剧”和“其它种类的戏剧”的话，那就有很多了。我只说音乐剧（musical theatre）吧：《剧院魅影》the Phantom of the Opera《悲惨世界》Les Miserables《猫》Cats《音乐之声》the Sound of Music《狮子王》the Lion King《西区故事》West Side Story《金牌制作人》the Producers《窈窕淑女》My Fair Lady《发胶》Hairspray《理发师陶德》Sweeney Todd等等注意：以上只是列出了一些经典作品，也就是跨时代跨文化依然可以引起广泛共鸣的作品，还有很多新的，比如《汉密尔顿》（Hamilton）、《致埃文·汉森》（Dear Evan Hansen）等受欢迎的新作没提，毕竟还没有经历过时间的考验，还不能就断论是经典了。
 # 正在看的
 1. 伟大的城市和作曲家
 2. 故宫100
