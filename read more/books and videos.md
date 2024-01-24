@@ -28,52 +28,54 @@
 29. 从春秋到盛唐
 30. 新西行漫记
 31. 梁思成与林徽因
-32. 乌龙山伯爵话剧
-33. 窗前不止明月光话剧
-34. 水月洛神话剧
-35. 孔子话剧
-36. 娜塔莎、皮埃尔和1812年的大彗星（彗星座）话剧
-37. 先生
-38. 西南联大
-39. 纪录片中国
-40. 毛泽东批阅二十四史
-41. 八佰
-42. 归来
-43. 悬崖之上
-44. 行尸走肉
-45. 爱，死亡，机器人
-46. Melancholian 3 huonetta
-47. 指环王
-48. 达芬奇密码
-49. irobot
-50. matrix
-51. humans
-52. westworld
-53. black mirror
-54. ex machina
-55. terminator
-56. 一步之遥
-57. 顽主
-58. 黄土地
-59. 寻枪
-60. 我不是潘金莲
-61. 奥本海默
-62. 盗梦空间
-63. 记忆碎片
-64. 致命魔术
-65. 敦刻尔克
-66. 《剧院魅影》the Phantom of the Opera
-67. 《悲惨世界》Les Miserables
-68. 《猫》Cats
-69. 《音乐之声》the Sound of Music
-70. 《狮子王》the Lion King
-71. 《西区故事》West Side Story
-72. 《金牌制作人》the Producers
-73. 《窈窕淑女》My Fair Lady
-74. 《发胶》Hairspray
-75. 《理发师陶德》Sweeney Todd
-76. 《汉密尔顿》（Hamilton）
-77. 《致埃文·汉森》（Dear Evan Hansen）
+32. 先生
+33. 西南联大
+34. 纪录片中国
+35. 毛泽东批阅二十四史
+36. 八佰
+37. 归来
+38. 悬崖之上
+39. 行尸走肉
+40. 爱，死亡，机器人
+41. Melancholian 3 huonetta
+42. 指环王
+43. 达芬奇密码
+44. irobot
+45. matrix
+46. humans
+47. westworld
+48. black mirror
+49. ex machina
+50. terminator
+51. 一步之遥
+52. 顽主
+53. 黄土地
+54. 寻枪
+55. 我不是潘金莲
+56. 奥本海默
+57. 盗梦空间
+58. 记忆碎片
+59. 致命魔术
+60. 敦刻尔克
+# 想看的话剧、音乐剧
+1. 道林格雷的画像
+2. 孔子
+3. 娜塔莎、皮埃尔和1812年的大彗星（彗星座）
+4.  《剧院魅影》the Phantom of the Opera
+5.  《悲惨世界》Les Miserables
+6.  《猫》Cats
+7.  《音乐之声》the Sound of Music
+8.  《狮子王》the Lion King
+9.  《西区故事》West Side Story
+10. 《金牌制作人》the Producers
+11. 《窈窕淑女》My Fair Lady
+12. 《发胶》Hairspray
+13. 《理发师陶德》Sweeney Todd
+14. 《汉密尔顿》（Hamilton）
+15. 《致埃文·汉森》（Dear Evan Hansen）
+16. 乌龙山伯爵话剧
+17. 窗前不止明月光话剧
+18. 水月洛神话剧
 # 想看的书籍
 1. 毛选
 2. 封神演义
