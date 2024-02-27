@@ -1,7 +1,7 @@
 # 正在看的
 1. [大鱼](https://m.iyf.tv/play/RPO770XNJP4)
 2. [颐和园](https://www.lanhuatv.com/voddetail/80075.html)
-3. 龙凤配，b站电影
+3. 龙凤配
 4. YouTube路加福音1-2章。
 5. 古诗文网，唐诗三百首，抄到了，后宫词。
 6. 资治通鉴，该读公元73年
