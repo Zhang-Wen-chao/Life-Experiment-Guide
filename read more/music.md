@@ -26,7 +26,12 @@
 10. 口是心非
 11. 想念雨生
 ### 陶喆
-1. Soul Power (live concert)
+1. DAVID.TAO
+2. I'm OK
+3. 黑色柳丁
+4. ULTRASOUND乐之路
+5. Soul Power (live concert)
+6. 太平盛世
 ### 周杰伦
 1. Jay
 2. 范特西
