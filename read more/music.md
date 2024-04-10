@@ -9,11 +9,21 @@
 ### 肖邦
 ### 维瓦尔第
 1. 四季
-### 柴可夫斯基
+### Tchaikovsky
+1. Symphony No.1 'Winter Dreams' 1812 Overtrue
+2. Symphony No.2 'Little Russian' Francesca da Rimini
+3. Symphony No.3 'Polish' Hamlet - Fantasy Overtrue
+4. Symphony No.4 Marche slave
+5. Symphony No.5 Capriccio italien
 ## 流行音乐
 ### 椎名林檎
 ### 宇多田光
-
+1. Star
+2. Automatic
+3. Deep River
+4. Flavor of Life
+5. Heart Station
+6. Prisoner of Love
 ### 罗大佑
 ### 王菲
 ### 张雨生
@@ -28,6 +38,7 @@
 9. 两伊战争
 10. 口是心非
 11. 想念雨生
+12. 如燕盘旋而来的思念
 ### 陶喆
 1. DAVID.TAO
 2. I'm OK
