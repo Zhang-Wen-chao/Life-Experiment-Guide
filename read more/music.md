@@ -10,11 +10,7 @@
 ### 维瓦尔第
 1. 四季
 ### Tchaikovsky
-1. Symphony No.1 'Winter Dreams' 1812 Overtrue
-2. Symphony No.2 'Little Russian' Francesca da Rimini
-3. Symphony No.3 'Polish' Hamlet - Fantasy Overtrue
-4. Symphony No.4 Marche slave
-5. Symphony No.5 Capriccio italien
+1. Symphony No.1-7
 ## 流行音乐
 ### 椎名林檎
 ### 宇多田光
@@ -38,7 +34,7 @@
 9. 两伊战争
 10. 口是心非
 11. 想念雨生
-12. 如燕盘旋而来的思念
+12. 如燕盘旋而来的思念，CD1-5
 ### 陶喆
 1. DAVID.TAO
 2. I'm OK
