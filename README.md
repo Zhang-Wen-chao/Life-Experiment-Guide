@@ -1,5 +1,5 @@
 # Life-Experiment-Guide
-人生实验指南，是台湾清华大学发给交换生的入学手册名称。就把这一生当作一个实验吧。
+人生实验指南，是台湾清华大学发给交换生的入学手册名称。就把这一生当作一个实验吧！
 # 个人宪法
 1. Integrity is choosing courage over comfort; choosing what is right over what is fun, fast, or easy; and choosing to practice our values rather than simply professing them.
 2. 而这些说得出来说不出来的一些信任感，其实都不是精明聪慧，而是厚道。厚道不是因为退缩示弱，是因为我们强大到愿意成全。
