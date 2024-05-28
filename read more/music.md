@@ -13,6 +13,7 @@
 1. Symphony No.1-7
 ## 流行音乐
 ### 椎名林檎
+1. 平成风俗
 ### 宇多田光
 1. Star
 2. Automatic
