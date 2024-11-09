@@ -59,7 +59,7 @@
 
 窗帘的遮光性，建材的隔音效果，隔音窗。
 
-同一间屋子的灯的开关，一定要是串联的。开门就能摸到灯，我不希望非要用手机来执行一些操作。
+床头、门口都能关灯，串联。
 
 租房旁边一定要有，山姆这种大型平价商超。
 
@@ -83,6 +83,11 @@
 买车唯一的作用就是泡妞的时候显摆，现在你男朋友已经泡到了。如果我是你男友，我即使有车都会直接把车卖了，银行吃利息，20万一年吃利息就能吃4000。4000块钱，你算50块一次网约车。能够你打80次，平均一个月可以打6次车。
 另外车的话还有保养费，电费，保险费“，停车费，交通违章“等等隐藏费用。这就是为什么你能看到很多人在面对大萧条“的时候可以从容不迫，而你由于害怕公司裁员，周末还要加班996的原因。
 如果不是靠银行利息“就能买车，我觉得完全没必要。贷款买奢侈品相当于借钱去亏，长期下来肯定很难攒下储药。
+## 衣服
+我买了一套海澜之家的西服：
+
+不可水洗，不可漂白，不可翻转干燥，熨斗底板最高温度150°C, 使用四氯乙烯和符号F代表的所有溶剂的专业干洗，常规干洗.
+
 ## 常用家居
 1. 洗衣机和烘干机分开
 2. 浴室一定要有防滑垫。
@@ -94,19 +99,153 @@
 ### 电脑
 显示器一定要大，27寸4k，或者32寸4k。能适配mac的。
 
-有电脑还需要电视吗：apple tv, xss, ps5.
+要根据自己的工作性质，选择电
+有电脑还需要电视吗：apple tv, ps5, xss, switch。
+
+如果租的房子很小，其实可以 mac mini 和 xss 共用一块显示器。
 
 powertoys可以实现屏幕自定义多分屏。
 
 一台强大的 Windows 台式机：现在还得考虑显卡的问题，而且得考虑多张显卡。
 Blackwell 已经支持 fp4 了，如果出消费级的 5060 ti，那就可以买4张。
-2024 年 8 月消息 Blackwell 出现重大设计缺陷，预估推迟三个月。但是等等fp4吧。
+而且现在 Linux 有原生微信了。用 Ubuntu 22版本，一般 .deb 程序的性能高。
 
 一台便携的 MacBook，续航超长，那其实可以只买小尺寸的 MacBook air，Pro 也行。
+tmd，为什么要便携电脑，要我加班是吧？
+
+m4 的 mac mini，太香了，等到2025年8月，暑期优惠，再送个AirPods 4，更香了。256 GB 的存储，肯定是 PCIE 3.0 的某款渣盘，跑跑系统得了，外挂雷电口的硬盘来用。
 
 苹果笔记本、或者台式机，一定搞明白，怎么连接网线。反正我不会用苹果笔记本连网线，折腾了好久。
 ### 安卓平板
 【插存储卡的三星平板／手机如何将应用程序转移到外置存储卡？】 https://www.bilibili.com/video/BV1gv4y1R77n/?share_source=copy_web&vd_source=718bc38f0f2bced4f5d80daf4f7d7220
+
+以后有空，一定要找一个能跳过开屏广告的软件。
+
+已经移动到sd卡的APP：
+58同城
+adskipper
+Alipay
+Amap
+APKPure
+Assistant
+Authenticator
+Baidu Translate
+Bigverse
+bilibili 竖版
+bilibili 横版
+BOSS直聘
+calculator
+CamScanner
+Cityc Bank
+CoolApk
+Copilot
+Coremail Lunkr，只能登录上科大邮箱。
+CSDN
+DeepL
+DingDing
+Discord
+e-CNY
+ele.me
+Feishu
+Github
+IELTS Pratice
+IELTS practice band 9
+LeetCode 
+Line 
+maimai 
+Microsoft 365
+Nutstore
+offershow
+outlook 
+ovitalmap 
+PayPal 
+qq
+quizlet
+railway 12306
+reddit
+scanscan
+speedtest
+Spotify
+SuperDisplay
+Tencent Meeting
+TMall
+ToDesk
+Translate
+UnionPay
+U净
+VSCO
+WeChat
+Weibo
+WPS Office
+X
+Youtube
+Yuque
+uTorrent
+上海交通卡
+上海银行
+个人所得税
+中国工商银行
+中国建设银行
+中国移动
+中国联通
+中国银行
+中羽在线
+买单吧
+交管12123
+交通银行
+京东
+全国12315平台
+全民生活
+公考雷达
+力扣 LeetCode
+唯品会
+国家医保服务平台
+国家反诈中心
+大麦
+天天基金
+天猫精灵
+天眼查
+央视频
+夸克
+学习强国
+安居客
+小红书
+工银e生活
+建行生活
+得物
+微信读书
+抖音
+招商银行
+拼多多
+掌证宝
+智联招聘
+智行火车票
+智谱清言
+民生银行
+浦发银行
+牛客
+百度网盘
+百度贴吧
+美团外卖
+腾讯自选股
+菜鸟
+迅雷
+邮储银行
+阳光惠生活
+阿里云盘
+雅思考满分
+雪球
+青藤之恋
+飞猪旅行
+国聘
+猎聘
+应届生求职
+中国结算
+阿里巴巴
+闲鱼
+同花顺
+慢慢买
+kimi
 ## insurance
 保险是必需品。赚不了更多也就算了，赔进去就真的完蛋了。
 
